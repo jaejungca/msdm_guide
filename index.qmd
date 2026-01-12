@@ -79,6 +79,12 @@ Based on national research with professionals across the insights and data indus
 
 -   Census Day: February 13
 
+-   The deadline to apply for Spring 2026 graduation ([Details for Graduaton Application](https://www.cpp.edu/registrar/graduation/applying-for-graduation.shtml))
+
+    -   **Primary Deadline:** March 13, 2026, for inclusion in commencement/program, through BroncoDirect.
+
+    -   **Late Applications:** Possible until the last day of the term, but without ceremony/program benefits. 
+
 -   Spring Break: Saturday, **March 28** - April 3
 
 -   SGSB Hooding & Graduation Ceremony: May 9 at Rose Garden & CLA Paseo
@@ -270,12 +276,5 @@ Based on national research with professionals across the insights and data indus
     6.  Healthcare Communications & Marketing Scholarships
 
 7.  **Student Club**
-
-``` r
-#| echo: false
-#| results: 'hide'
-# This is a dummy chunk to trigger the _freeze folder
-1 + 1
-```
 
 ------------------------------------------------------------------------
