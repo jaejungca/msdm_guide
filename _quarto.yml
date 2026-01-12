@@ -152,4 +152,4 @@ format:
       dark: darkly
     css: styles.scss
 execute: 
-  freeze: auto
+  enabled: false
