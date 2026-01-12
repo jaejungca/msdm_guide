@@ -1,0 +1,8 @@
+- source: career_prep_digital_marketing_marketing_analytics.qmd
+  quarto-pub:
+    - id: 4dd716b1-e13e-4a8a-966d-8a3e75b08149
+      url: https://jmjung.quarto.pub/digital-marketing-and-marketing-analytics-career
+- source: project
+  quarto-pub:
+    - id: bde16bb3-21d5-45f8-b057-3431b7e8009f
+      url: https://jmjung.quarto.pub/career_prep

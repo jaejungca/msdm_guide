@@ -1,0 +1,642 @@
+---
+title: "MSDM Culminating Experience Project (aka Capstone Project) "
+subtitle: "Tips for Maximizing Value for Your Career"
+description: "This page provides students with valuable insights on the capstone project before and during the year-long process."
+image: images/msdm-crosswalk.png
+date: December 20, 2025
+format: 
+  html:
+    toc: true
+    toc-location: right-body
+    toc-depth: 3
+    toc-expand: 1
+    code-overflow: scroll
+    number-sections: true
+    embed-resources: true
+    smooth-scroll: true
+    fontsize: 18px
+    other-links: 
+      - text: MS in Digital Marketing
+        icon: mortarboard-fill
+        href: https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml
+      - text: DWV 101
+        icon: award
+        href: https://www.cpp.edu/cba/customer-insights-lab/curriculum/certificate/dwv/index.shtml
+      - text: IBM Department
+        icon: bank
+        href: https://www.cpp.edu/cba/international-business-marketing/index.shtml
+    link-external-icon: true
+    link-external-newwindow: true
+execute: 
+  freeze: auto
+---
+
+[Introduction]{style="color: #FF007F; font-weight: bold; font-size: 30px;"}
+
+::: {.callout-note appearance="simple"}
+The MSDM Culminating Experience Project (**CEP**), often referred to as the Capstone Project, represents the culmination of the MSDM learning experience, giving students the opportunity to apply their skills to real-world digital marketing challenges.
+
+The **CEP** spans one academic year and typically begins in the **fall semester of the second year** for students following the two-year completion roadmap. Students on the one-year accelerated pathway begin the CEP in their first fall semester.
+
+Through hands-on problem solving, data analysis, and strategic thinking, students generate actionable insights, develop a digital marketing plan, and execute that plan. This page outlines what to expect, how to prepare, and how the capstone strengthens your professional portfolio and career readiness.
+:::
+
+## **How to Manage Expectations**
+
+Successful capstone projects depend not only on analytical skills, but also on **effective collaboration, professional communication, and disciplined project management**. The following recommendations apply throughout the entire project lifecycle—from Fall through Summer.
+
+### How to Work with Your Group Members
+
+#### Use a Shared Cloud Folder.
+
+::: callout-note
+##### Take an action
+
+-   Create a shared cloud folder (e.g., OneDrive or Google Drive) and grant **edit access** to all team members.
+
+-   Cal Poly Pomona supports **OneDrive**, so it is the preferred cloud platform.
+:::
+
+#### Meet Regularly
+
+-   Hold a **group meeting before** your weekly meeting with your faculty lead to align internally.
+
+-   Since faculty meetings typically occur once a week, meeting as a group **once a week** is recommended.
+
+-   To reduce scheduling challenges, consider using class time in CEP-hosting courses (IBM 6200, IBM 6800, IBM 6950) for group meetings.
+
+#### Use Student-Only Meetings Effectively
+
+::: callout-tip
+##### Smart Action
+
+-   Discuss tasks to be completed.
+
+-   Assign responsibilities to team members.
+
+-   Identify and refine questions to ask your faculty lead or client
+:::
+
+### How to Work with Your Faculty Lead
+
+#### Share Your Entire Project Folder
+
+-   Share your **entire cloud project folder** with your faculty lead—not just selected files—even if they have not explicitly requested access.
+
+-   This enables efficient feedback and reduces unnecessary back-and-forth.
+
+#### Ensure Transparency and Accountability
+
+::: callout-important
+-   Create subfolders labeled with each team member’s name to document individual contributions.
+
+-   Transparency helps teams self-regulate contributions and reduces conflicts related to free-riding, which is common in group projects.
+:::
+
+#### Meet Weekly—with Purpose
+
+-   Teams are expected to meet with their faculty lead **once a week**, unless there is no agenda for that week.
+
+-   If you do not have topics to discuss, you may skip the meeting—but regular, purposeful meetings are essential for project success.
+
+#### Schedule Meetings Professionally
+
+::: callout-tip
+-   Use your email program’s **calendar and scheduling features** to organize meetings.
+
+-   Always send a **calendar invitation** to all attendees.
+
+-   This is standard professional practice and helps prevent missed meetings, double booking, and miscommunication.
+
+-   Effective use of scheduling tools reflects professionalism and respect for others’ time.
+:::
+
+### How to Work with Your Client
+
+#### Faculty–Client Joint Meetings
+
+-   In most cases, inviting the client to your **regular weekly meeting with your faculty lead** is the most efficient approach.
+
+-   Treat these as joint meetings involving both faculty and client.
+
+#### Meetings Without Faculty
+
+-   Scheduling separate meetings with the client can be challenging if faculty are unavailable.
+
+-   If you must meet with the client without your faculty lead present, **update the faculty afterward** with key takeaways and decisions.
+
+#### How Often Should You Meet with the Client?
+
+::: callout-caution
+-   Client meetings are typically **less frequent** than faculty meetings.
+
+-   Invite the client when your agenda includes questions or decisions that **only the client can address**, such as:
+
+    -   Company background or marketing strategy not publicly available
+
+    -   Internal data required for the project
+
+    -   All major MSDM-required presentations (one in Fall, two in Spring, and two in Summer)
+
+    -   Requests for approval, resources, or cooperation (e.g., executing a digital marketing plan)
+:::
+
+### Best Scheduling Practices
+
+#### Use a **recurring calendar invite** for weekly meetings.
+
+#### Include the **meeting agenda** in the calendar invite whenever possible.
+
+#### Manage Agendas Wisely for Recurring Meetings
+
+::: callout-important
+##### Details
+
+-   If you have already sent a long-term recurring invite, use **one shared cloud document** to store all future agendas.
+
+-   **Update the document before each meeting** so everyone arrives prepared.
+
+-   **Recommended Tools**
+
+    -   In **Google Docs**:\
+        Use tabs, with each tab labeled by meeting date.
+    -   In **Microsoft Word**:\
+        Turn on *View → Navigation Pane* and use heading styles (Title, Heading 1, Heading 2, etc.) to organize agendas hierarchically.
+:::
+
+#### Exercise a Proper Rescheduling or Canceling a Meeting Incident
+
+::: callout-warning
+-   Cancel or reschedule **only the specific meeting instance**, not the entire series.
+
+-   Always notify all participants via the calendar system.
+:::
+
+### Use a Project Management Tool
+
+To plan activities, track milestones, and coordinate tasks effectively, use a **project management tool** that keeps everything in one place.
+
+-   If your team already uses a tool, continue using it.
+
+-   If not, **Notion** is highly recommended.
+
+For a detailed comparison of project management tools and guidance on how to choose one, see [**Project Management Tools**](skills_tools_courses.qmd#project-management-tools).
+
+## **Project Milestones and Timelines**
+
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Week / Date                 | Task                                                                                                                                         |
++=============================+==============================================================================================================================================+
+| FA W00 (8/18)               | Call for Project Proposal                                                                                                                    |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W02 (9/01)               | Proposal Deadline                                                                                                                            |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W03 (9/09)               | MSDM Project Forum; Group Formation and Submission of Project Preference Form                                                                |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W05 (9/23)               | Project-Group Assignment Completed                                                                                                           |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W11 (11/04)              | -   Primary Data Collection → Apply for IRB approval                                                                                         |
+|                             |                                                                                                                                              |
+|                             | -   Secondary Data → Obtain it from Client. Ensure data integrity for your AO’s                                                              |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W14 (11/25)              | -   Primary Data Collection Methods → Primary Data Collection begins                                                                         |
+|                             |                                                                                                                                              |
+|                             | -   Secondary Data → Platform configuration begins                                                                                           |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W15 (12/02)              | -   **Proposal Defense Presentation**                                                                                                        |
+|                             |                                                                                                                                              |
+|                             | -   Written report (Chapter 1, Chapter 2, and Chapter 3) / PPT due                                                                           |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W16 (12/9)               | Faculty Formal Feedback to Student Groups                                                                                                    |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Winter Break (12/15 - 1/18) | -   Address faculty feedback                                                                                                                 |
+|                             |                                                                                                                                              |
+|                             | -   Group should take appropriate steps necessary for them to get ready for Spring. See [Winter Break Activities](#winter-break-activities). |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SP W01 (1/19)               | Data ready                                                                                                                                   |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SP W06 (2/26)               | -   **Data Analysis and Results Presentation**                                                                                               |
+|                             |                                                                                                                                              |
+|                             | -   Data analysis & results (Chapter 4) — written report / PPT due                                                                           |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SP W13 (4/23)               | -   **Final Data Analysis and Recommendations Presentation**                                                                                 |
+|                             |                                                                                                                                              |
+|                             | -   Data analysis & results (Chapter 4 & Part of Chapter 5) — written report / PPT due                                                       |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SP W16 (5/14)               | Digital Marketing Plan Creation and Obtaining Approval from Client; Marketing Campaign Starts Immeidately                                    |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W01 (6/01)               | Digital Marketing Plan execution continues                                                                                                   |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W05 (7/02)               | -   **Digital Marketing Plan & Execution Progress Presentation**                                                                             |
+|                             |                                                                                                                                              |
+|                             | -   Chapter 5 Update — written report / PPT due                                                                                              |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W09 (7/30)               | -   **Final presentation — DM performance assessment and reflection**                                                                        |
+|                             |                                                                                                                                              |
+|                             | -   Chapter 1 through Chapter 5 - Written report / PPT due                                                                                   |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W10 (8/06)               | Completion of Post-Presentation Activities, including                                                                                        |
+|                             |                                                                                                                                              |
+|                             | -   Abstract                                                                                                                                 |
+|                             |                                                                                                                                              |
+|                             | -   Individual Contribution Statement (ICS)                                                                                                  |
+|                             |                                                                                                                                              |
+|                             | -   Secure Committee Signature (Chair/Reader) via Adobe Docu Process given in Graduate Studies Website.                                      |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W11 (8/13)               | -   Submission of Report of Culminating Experience (RCE) by Faculty Project Lead                                                             |
+|                             |                                                                                                                                              |
+|                             | -   Submission of Abstract/ICS to Library                                                                                                    |
+|                             |                                                                                                                                              |
+|                             | -   Submission of Complete Project Written Report                                                                                            |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+
+: One Year Time Table
+
+## **How to Choose a Project** {#how-to-choose-a-project}
+
+To get the best out of MSDM Culminating Experience, consider multiple factors and make an informed decision.
+
+### Nature of the Project (Basic research vs. Applied Research)
+
+Consider whether your project aims to generate new conceptual insights or solve a practical marketing problem. Basic research emphasizes theory-building, while applied research focuses on actionable solutions for real organizations. Choose the approach that best supports your learning goals and showcases your strengths. The two types differ the most in Chapter 2 and Chapter 5.
+
+> For **basic research**, Chapter 2 will primarily focus on the literature review and hypothesis development, while Chapter 5 will discuss implications for theory advancement and provide recommendations for marketing practitioners. For **applied research**, on the other hand, Chapter 2 will combine business-related information with a brief literature review, while Chapter 5 will focus on marketing plans, their implementation, evaluation of the implemented plans, and reflections.
+
+### Characteristics of Project Sponsor (Faculty vs. Students)
+
+Projects led by faculty sponsors often provide structured guidance and defined expectations, while student-initiated projects allow greater autonomy and creativity. There will be faculty advisor assigned to the approved sudent-iniated projects, the faculty advisor may not have sufficient expertise. Thus, reflect on the level of support you prefer and the working style that helps you perform at your best. The sponsor’s expertise can also shape the project’s direction and rigor.
+
+### Project's Alignment with your Career Objective (Digital Marketing Strategy vs. Marketing Science)
+
+Select a project that builds the competencies most relevant to your intended career path. Strategy-focused students may benefit from work involving planning, content creation, and campaign execution, while analytics-oriented students may prefer modeling, testing, and data-driven decision-making. The capstone should strengthen your portfolio in the direction you want to pursue.
+
+### Availability of Data
+
+Strong projects rely on access to meaningful, timely, and sufficient data. Before committing, ensure that data can be obtained without legal, logistical, or ethical barriers. Reliable data availability will determine the project’s feasibility and depth of analysis. Availability of data will be more important for students with marketing analytics emphasis than digital marketing strategy emphasis.
+
+> Existing data (secondary data) may come from the client company’s Google Analytics, Google Ads, sales, or CRM systems. If your objectives involve digital marketing planning and execution—typically conducted in late spring and summer—you should confirm the **integrity of the data** during the fall semester as part of your **project proposal presentation**. This process involves gaining access to the relevant data and digital marketing platforms and performing a comprehensive audit. Ensure that all metrics and variables proposed for the AOs are available.
+
+### Type of Data: Primary data vs. Secondary Data
+
+Primary data collection allows for customized insights but may require more time, planning, and resources. Secondary data—such as existing company datasets, public sources, or digital platforms—offers convenience and faster analysis. Select the data type that fits your timeline, skills, and research objectives.
+
+::: callout-warning
+#### Is Seconday Data Better than Primary Data?
+
+Not necessarily. Each has its pros and cons. **Primary data** allows you to tailor the data collection process to your specific research questions, ensuring relevance and accuracy. However, it can be time-consuming and costly to gather. **Secondary data** is often more readily available and cost-effective, but it may not perfectly align with your research needs and could have limitations in terms of quality or completeness. Consider your project's requirements, timeline, and resources when choosing between primary and secondary data.
+
+If you are dealing with **secondary data**, it is important that you have access to the data during the fall semester so that you can **assess its suitability** for your project. Furthermore, if you are collecting **primary data**, ensure that your data collection plan is feasible within the project timeline. You should have at a minimum a solid data collection plan by the end of the fall semester. The solid plan should include the data collection method, target population, sampling strategy, data collection instruments, **IRB approval** if human subjects are involved.
+
+Keep in mind that data must be ready at the onset of the spring semester for analysis, regardless of whether the data are primary or secondary.
+:::
+
+### Sophistication of Data
+
+Evaluate the complexity of the dataset you will work with, including **structure**, **volume**, and **required analytical techniques**. Simpler datasets support descriptive or exploratory analysis, while more complex data allows for modeling, segmentation, or predictive insights. Choose a level of sophistication that challenges you without overwhelming your capacity. Students who want to have career in **marketing analytics** would benefit more by working with **sophisticated data**, while students pursuing a digital marketing strategy can be okay with less sophisticated data.
+
+### Nature of Analytics Objective: Exploratory vs. Confirmatory
+
+Exploratory projects focus on discovering patterns, while confirmatory projects test predefined assumptions, hypotheses, or models. Each requires different methods, skills, and planning. Identify which analytical approach fits your topic and aligns with your preferred style of inquiry. **Basic research** tends to be confirmatory, while **applied research** tends to be exploratory.
+
+### Whether Objectives are Expressed as Project Objectives or Analytics Objectives
+
+Clients often have expectations and deliverables that do not fully align with MSDM CEP requirements. Their analytics objectives could be businesses objectives.
+
+::: callout-caution
+### Project Objectives (PO) vs. Analytics Objectives (AO)
+
+POs are term used from business's perspective and often include broader marketing or business outcomes—such as creating marketing content (e.g., designing a website or social media posts) or increasing conversions (e.g., customers, leads, sales). These are the goals of digital marketing activities from manager's perspective.
+
+AOs, in contrast, are from researcher's perspective and therefore must be **directly tied to data**, because analytics objectives guide the analysis you will present in the report.
+:::
+
+For this reason, it is important for you to distinguish clearly between **project objectives (PO)** and **analytics objectives (AO)** from the onset of the CEP process. To learn more reasons for the distinction, please refer to the section titled [Interest in the Project Objectives](#interest-in-the-project-objectives) below.
+
+### Interest in the Topic
+
+Selecting a topic that genuinely interests you will sustain your motivation over three semesters. Passion for the subject enhances creativity, persistence, and the quality of your final deliverables. Choose a topic that excites you and aligns with your curiosity.
+
+### Interest in the Project Objectives {#interest-in-the-project-objectives}
+
+Beyond the topic itself, consider whether the project’s goals energize you—whether it involves building a strategy, creating digital marketing contents, conducting deep analytics, or designing experiments. **Project objectives (PO)** are goals (business objectives or marketing objectives) expressed from the perspectives of the client company. Your engagement with the objectives will influence the depth and enthusiasm you bring to the work. A strong personal connection to the project’s purpose leads to stronger outcomes.
+
+::: callout-important
+#### Does It Matter to Tell the Difference?
+
+Yes, PO sounds more exciting and doesn't hint you what will go under the hood, while AO sounds harder as it implies analytical needs and data analysis when the reality is that both involves the same data and analytical rigor as well as exciting marketing plans and activities. Thus, students who cannot tell the difference will not make an informed decisions that they may regret later.
+:::
+
+::: callout-tip
+#### How to Tell if an objective is AO or PO
+
+Let's suppose one of the objectives is stated as follows.
+
+-   "Design an effective website that will promote the new service and generate leads."
+
+One way to identify whether an objective is a PO or AO is to ask:
+
+-   **Is there data associated with this objective?**
+
+-   **Is the same dataset used for other analytics objectives relevant here?**
+
+If the answer is **no**, you are likely dealing with a **project objective**, not an analytics objective.
+
+Another way is to ask yourself what **method** (descriptive statistics, inferential statistics, predictive analytics) you would use to address the objective in **Chapter 3 (Methods)**. Thus, you ask this question:
+
+-   *Is there any statistical method required to design a website?*
+
+The answer is no—because designing a website is a **project activity**, not an analytics task. This means that you are dealing with **PO**, not AO.
+:::
+
+To learn about how to convert PO to AO, please refer to the section titled [How to Convert PO to AO](#how-to-convert-po-to-ao) below.
+
+### Existence of Digital Marketing Planning and Implementation in the Project Objectives
+
+Consider whether the project provides opportunities to develop and execute a digital marketing plan, as this experience is central to the MSDM skillset—especially for students pursuing careers in **digital marketing strategy or Content creator**. Projects that involve strategic planning, channel selection, content development, and campaign implementation allow you to demonstrate both creative and analytical competencies. Choosing a project with clear digital execution components can strengthen your portfolio and better prepare you for real-world marketing roles.
+
+::: callout-caution
+However, the absence of marketing planning and implementation expectations is not a concern for students aiming to become **marketing data scientists or analysts**. For those paths, access to sophisticated data that supports modeling and the generation of actionable insights is sufficient. In such cases, not being able to follow through on recommendations with full campaign execution is not critically important.
+:::
+
+## **Fall Semester: Project Proposal** {#fall-semester}
+
+### Secure Feedback From Your Faculty Project Lead
+
+Share your written project report with your faculty lead **even if it still needs improvement**. They can give you preliminary feedback early on, giving you time to revise before the final submission for grading. Remember that your faculty lead’s assessment will influence the grade you receive for **IBM 6200**.
+
+### Project Objectives (PO) vs. Analytics Objectives (AO)
+
+Clients often have expectations and deliverables that do not fully align with MSDM CEP requirements. For this reason, it is important to distinguish clearly between **project objectives (PO)** and **analytics objectives (AO)**.
+
+POs often include broader marketing or business outcomes—such as creating marketing content (e.g., designing a website or social media posts) or increasing conversions (e.g., customers, leads, sales). These are the goals of digital marketing activities.
+
+AOs, in contrast, must be **directly tied to data**, because analytics objectives guide the analysis you will present in the report.
+
+::: callout-tip
+### How to Tell if Something is a Project Objective
+
+One way to identify whether an objective is a PO or AO is to ask:
+
+-   **Is there data associated with this objective?**
+
+-   **Is the same dataset used for other analytics objectives relevant here?**
+
+If the answer is **no**, you are likely dealing with a **project objective**, not an analytics objective.
+
+Another way is to ask yourself what **method** (descriptive statistics, inferential statistics, predictive analytics) you would describe in **Chapter 3 (Methods)**.
+
+-   For example: *Is there any statistical method required to design a website?*
+
+    -   The answer is no—because designing a website is a **project activity**, not an analytics task.
+:::
+
+### How to Convert PO to AO {#how-to-convert-po-to-ao}
+
+When an objective is not related to data or methods, you will have little to write about in **Chapter 4 (Analysis and Results)**. Therefore, you must translate marketing or business objectives into analytics objectives.
+
+A useful guiding question is:
+
+> **What information do I need, and where can I find it, in order to achieve the project objectives?**
+
+::: callout-note
+#### Example: Website Design
+
+Suppose the PO is to design a website to engage potential clients and increase conversion rates. For the website to be effective, it must follow UX principles, conversion-centric design, and SEO best practices.
+
+To evaluate performance, you can collect visitor behavior metrics from **Google Analytics 4 (GA4)**, such as:
+
+-   bounce rate
+
+-   session duration
+
+-   conversion rate
+
+-   number of visitors
+
+These metrics allow you to identify the website’s strengths and weaknesses.
+
+Once you know **what data you need** and **where it comes from**, you can determine which **analytical methods** to apply. The next question becomes:
+
+> **What should I do with the data to generate insights that will help improve website performance?**
+
+You may also have expectations about **relationships among metrics**.\
+For example:
+
+-   High bounce rate on landing pages → likely low conversion rate\
+    (a negative relationship)
+
+You should also consider what counts as an acceptable bounce rate, session duration, or conversion rate. Comparing your metrics with **industry benchmarks** will help you identify areas for improvement.
+:::
+
+Following the logic shown in the example, you can lead to the following conclusion.
+
+::: callout-important
+#### Converting the PO to an AO
+
+**PO1:** Design a website to communicate results and engage potential client brands.\
+**AO1a:** Explore ways in which the website can be optimized for potential customers.
+:::
+
+Of course, AO above could have been expressed in different ways.
+
+-   **AO1b**: Generate insights from the GA4 and Google Ads data for website optimization
+
+-   **AO1c**: Generate insights from the GA4 and Google Ads data to increase visitor engagement and conversions.
+
+::: callout-caution
+#### Using the Best AO Statement
+
+Consider multiple options and settle with one that your team likes the best. A few criteria to consider are the clarity and concreteness of the statement.
+
+Using these criteria, you may choose AO1C as your formal AO1.
+:::
+
+### Data Collection for the Above AO
+
+#### Preparation: Owned Media {#preparation-owned-media}
+
+To address this AO, you need to collect KPIs through GA4. If no website exists, you must:
+
+-   create one,
+
+-   connect it to GA4,
+
+-   link Google Search Console to GA4, and
+
+-   use UTM parameters to track email and social media traffic.
+
+If this preparation has not been completed, it should be done as part of **Chapter 3 (Methods)**. At a minimum, you should complete this as soon as possible so you have **at least one month of accumulated GA4 data** before the spring term begins.
+
+Be sure to describe your digital marketing infrastructure and data collection plans in **Chapter 3**.
+
+#### ETL Tools for GA4 and Google Ads Data
+
+During the **winter**, you should set up the necessary own media (website, social media, email, Google Ads) and connect them to GA4.
+
+Once GA4 and Google Ads are operational, you will have data for spring analysis.
+
+During the **spring**, you can:
+
+-   use GA4/Google Ads dashboards for **descriptive statistics**, or
+
+-   import GA4/Google Ads data into **Google BigQuery** for greater data control, inferential analysis, and predictive modeling.
+
+-   Inside BigQuery, you can also use **Google Looker Studio** for custom visualizations and **Gemini AI** for modeling. If you prefer working in R/RStudio, R can connect directly to BigQuery. Packages like **bigrquery** allow your **dplyr** syntax to be translated into SQL automatically.
+
+::: callout-note
+#### How It Works
+
+`bigrquery` provides a *database backend* that `dplyr` can talk to using the **dbplyr** translation engine.
+
+You never write SQL—`dbplyr` generates and sends the SQL for you.
+
+Below is an illustration of codes.
+
+``` r
+library(bigrquery)
+library(dplyr)
+
+con <- dbConnect(
+  bigquery(),
+  project = "your-project-id",
+  dataset = "your_dataset"
+)
+
+tbl(con, "your_table") %>%
+  filter(bounce_rate > 0.5) %>% 
+  group_by(device_category) %>%
+  summarize(avg_session = mean(session_duration))
+```
+:::
+
+### Presentation Rehearsal
+
+> The CCIDM advisory board has generously offered to help you with your presentation. If you would like feedback, you may record your rehearsal and send it to me, and I will forward it to the board.
+
+> The board members are very busy, but they are eager to support you—presentation skills are essential in any organization. One board member is even looking to hire interns, so this could be a valuable opportunity.
+
+## **Winter Break Activities** {#winter-break-activities}
+
+After completing the Fall semester, you may be wondering how best to use the Winter Break to prepare for the Spring semester. The answer depends on your **project type**, **data availability**, and the **feedback you received** during and after your project proposal presentation—whether that feedback was formal or informal, written or verbal.
+
+While Winter Break is not a formal instructional period, using it strategically can help you catch up with missed tasks and significantly reduce pressure during the Spring semester.
+
+> **Important note:** You are **not expected to complete all of the activities below** during Winter Break. The goal is to make *meaningful progress where possible*, not to treat the break as a full academic term.
+
+### Suggested Activities During Winter Break
+
+Below are recommended activities to consider, depending on your project’s status.
+
+#### Implement Feedback
+
+-   Carefully review feedback received during your project proposal presentation and subsequent discussions.
+
+-   Revise your project plan, objectives, scope, or methodology as needed.
+
+#### Set Up Platforms and Access
+
+::: callout-important
+##### Preparation for Data Collection
+
+-   Set up required **digital marketing platforms** (e.g., Google Analytics, Google Ads) and confirm they are properly configured to collect data if you have not done so already.
+
+    -   For detailed discussion, refer to [**Preparation: Owned Media**](#preparation-owned-media) section.
+
+-   If your client already uses these platforms:
+
+    -   Ensure you have appropriate access
+
+    -   Verify data integrity and historical availability of the **secondary data**
+:::
+
+#### Collect Data
+
+::: callout-important
+-   If you do not yet have finalized datasets, begin collecting data according to your approved project plan.
+
+-   Early data collection helps identify issues before the Spring semester begins.
+:::
+
+#### Prepare and Clean Data (Optional)
+
+::: callout-tip
+-   If datasets are already available, use the break to clean, preprocess, and organize your data.
+
+-   This preparation will save substantial time once analysis begins.
+:::
+
+#### Continue Literature Review (if applicable)
+
+If you have deficiencies identified on literature review, the winter break is a good time to catch up. Often times, literature review is a prerquisite for data collection.
+
+::: callout-warning
+##### Catch Up
+
+-   Review relevant academic and industry literature to deepen your understanding of the problem context.
+
+-   Refine research questions, hypotheses, or analytical frameworks as needed.
+:::
+
+#### Build Technical Skills
+
+-   Strengthen any technical skills required for your project, such as:
+
+    -   Google Analytics
+
+    -   Google Ads
+
+    -   Google BigQuery
+
+    -   R or Python
+
+    -   SQL
+
+-   Even modest skill-building during the break can greatly improve efficiency in the Spring.
+
+::: callout-tip
+##### Resources to Consider for Skill Development
+
+-   I also have virtual classroom offered by [Data Camp](https://www.datacamp.com/) for most tools you need for analytics. If you want to utilize the free certification courses, please contact me. Some MSDM students are in the program already. For more information refer to [**DataCamp Virtual Classroom**](skills_tools_courses.qmd#datacamp-virtual-classroom).
+
+-   For other resources, see the relevant sections of the [**Skills, Tools, and Courses Alignment**](skills_tools_courses.qmd) page.
+:::
+
+#### Plan Ahead for Spring
+
+-   Outline a preliminary project timeline for the Spring semester.
+
+-   Set key milestones to ensure steady progress and avoid last-minute bottlenecks.
+
+### Alignment with the Spring Semester (IBM 6800 / CEP)
+
+The Spring semester—hosted in **IBM 6800 (MSDM Capstone Experience Project)**—moves quickly and assumes that teams are ready to make tangible progress early in the term.
+
+::: callout-tip
+#### Benefits
+
+Any preparatory work completed during Winter Break (e.g., feedback incorporation, data readiness, platform setup) will allow your team to:
+
+-   Engage more productively with your faculty lead
+
+-   Move faster into analysis and execution
+
+-   Reduce time pressure later in the semester
+:::
+
+### Looking Ahead
+
+::: callout-important
+By the first week of the Spring semester, teams should aim to:
+
+-   Have a **revised and clarified project proposal**
+
+-   Secure **data**
+
+-   Be ready to discuss next steps with their faculty lead
+
+Even partial progress in these areas will make a meaningful difference in your Spring capstone experience.
+:::
+
+## **Spring Semester** {#spring-semester}
+
+## **Summer Semester** {#summer-semester}

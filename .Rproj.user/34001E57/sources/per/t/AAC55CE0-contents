@@ -1,0 +1,184 @@
+---
+title: "Course Registration"
+subtitle: "Courses to Take Per Term"
+description: "Sequence of courses to take for two years for the MS in Digital Marketing Program"
+image: images/msdm-crosswalk.png
+date: November 2, 2025
+format: 
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 1
+    toc-expand: 1
+    code-overflow: scroll
+    number-sections: true
+    embed-resources: true
+    smooth-scroll: true
+    fontsize: 20px
+    other-links: 
+      - text: DWV 101
+        icon: award
+        href: https://www.cpp.edu/cba/customer-insights-lab/curriculum/certificate/dwv/index.shtml
+      - text: MS in Digital Marketing
+        icon: bank
+        href: https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml
+    link-external-icon: true
+    link-external-newwindow: true
+---
+
+::: {.callout-tip title="Tips:"}
+> 1.  **If you are new to the MSDM program, schedule an advising meeting with your faculty advisor and submit a Curriculum Contract.**\
+>     In this contract, you will select your [curriculum emphasis]{.underline} (Digital Marketing Strategy, Marketing Analytics, or Balanced) and your [completion roadmap]{.underline} (1-year or 2-year).
+>
+> 2.  **Before registering each semester, refer to the signed Curriculum Contract you submitted to your academic advisor.**\
+>     This will guide your course sequencing and ensure timely progress toward graduation.
+>
+> 3.  **The course listings on this page reflect the 2-year completion roadmap for students who began the program in Fall 2025 or later.**
+>
+> 4.  **Students who started the program before Fall 2025 should refer to the curriculum for their cohort:** [**MSDM Curriculum Prior to Fall 2025**](https://www.cpp.edu/cba/sgsb/curriculum/msdm-curriculum.shtml)
+>
+> 5.  **Students following the 1-year completion roadmap should enroll in a consolidated list of Year 1 and Year 2 courses each semester.**\
+>     This accelerated pathway requires careful scheduling to meet all requirements within one academic year.
+>
+> 6.  **All MSDM courses are offered only once per academic year.**\
+>     If you miss a course in its designated term, you will need to wait until the same term the following year to take it.
+>
+> 7.  **If you are in the first year of the 2-year completion roadmap, register only for first-year courses offered in that semester.**\
+>     Second-year courses for that semester should be taken during your second year.
+:::
+
+-   [Curriculum for Students Entering the Program in Fall 2025 or Later]{style="color: steelblue; font-weight: bold; font-size: 30px;"}
+
+    -   [Curriculum Overview](https://www.cpp.edu/cba/sgsb/curriculum/new-msdm-curriculum.shtml)
+
+    -   [Digital Marketing Strategy (DMS) Emphasis](https://www.cpp.edu/cba/sgsb/curriculum/msdm-digital-marketing-strategy-emphasis.shtml)
+
+    -   [Marketing Analytics (MA) Emphasis](https://www.cpp.edu/cba/sgsb/curriculum/msdm-marketing-analytics-emphasis.shtml)
+
+-   [Curriculum for Students Entering the Program Prior to Fall 2025]{style="color: steelblue; font-weight: bold; font-size: 30px;"}
+
+    -   [MSDM Curriculum Prior to Fall 2025](https://www.cpp.edu/cba/sgsb/curriculum/msdm-curriculum.shtml)
+
+------------------------------------------------------------------------
+
+# **Year 1, Fall**
+
+## Core Courses
+
+-   IBM 5910 - Strategic Data Wrangling and Visualization (3)
+
+-   IBM 6010 - Digital Marketing (3)
+
+## Electives
+
+-   No electives
+
+# **Year 1, Spring**
+
+## Core Courses
+
+-   IBM 6510 - Foundations of Customer Analytics (3)
+
+## Electives
+
+-   IBM 6100 - Search Engine Marketing (2)
+
+    -   Recommended for DMS Emphasis
+
+    -   Eligible for Emphasis Other category for MA Emphasis
+
+-   IBM 6150 - Database Marketing (2)
+
+    -   Recommended for DMS Emphasis
+
+    -   Eligible for Emphasis Other category for MA Emphasis
+
+-   IBM 6520 - Market Forecasting (2)[^1]
+
+    -   Recommended for MA Emphasis
+
+    -   Eligible for Emphasis Other category for DMS Emphasis
+
+[^1]: This course requires IBM 6510 as a prerequisite. To obtain a permission code to override the prerequisite, please contact Jennifer Cousins at CPGE (jlcousens at cpp.edu).
+
+# **Year 1, Summer**
+
+## Core Courses
+
+-   None
+
+## Electives
+
+-   IBM 6300 - Retailing in Digital Economy (3)
+
+    -   Recommended for DMS Emphasis
+
+    -   Eligible for Emphasis Other category for MA Emphasis
+
+-   IBM 6540 - Applied Machine Learning in Marketing (3)
+
+    -   Recommended for MA Emphasis
+
+    -   Eligible for Emphasis Other category for DMS Emphasis
+
+-   IBM 6600 - Marketing Text Analytics with LLMs and AI (2)
+
+    -   Recommended for MA Emphasis
+
+    -   Eligible for Emphasis Other category for DMS Emphasis
+
+# **Year 2, Fall**
+
+## Core Courses
+
+-   IBM 6200 - Online Consumer Psychology and Behaviors (3)
+
+    -   MSDM Culminating Experience Project housed in this course
+
+-   IBM 6500 - Customer Insights Methods and Survey Research (3)
+
+## Electives
+
+-   IBM 6450 - AI in Marketing (2)
+    -   Eligible for Emphasis Other category for DMS Emphasis
+    -   Eligible for Emphasis Other category for MA Emphasis
+
+# **Year 2, Spring**
+
+## Core Courses
+
+-   IBM 6400 - Current Issues in Digital Marketing (1)
+
+-   IBM 6800 - Data-Driven Digital Marketing Strategy I (2)[^2]
+
+    -   MSDM Culminating Experience Project housed in this course
+
+[^2]: This course requires four prerequisites, two of which are IBM 6200 and IBM 6500 that are offered in the fall semester. Students who want to register for this course before the end of fall semester should contact Jennifer Cousins (jlcousens at cpp.edu) to get a permission to override the requirements.
+
+## Electives
+
+-   IBM 6250 - Social Media Marketing (3)
+
+    -   Recommended for DMS Emphasis
+
+    -   Eligible for Emphasis Other category for MA Emphasis
+
+-   IBM 6530 - Marketing Analytics (3)
+
+    -   Recommended for MA Emphasis
+
+    -   Eligible for Emphasis Other category for DMS Emphasis
+
+# **Year 2, Summer**
+
+## Core Courses
+
+-   IBM 6950 - Data-Driven Digital Marketing Strategy II (2)
+
+    -   MSDM Culminating Experience Project housed in this course
+
+## Electives
+
+-   IBM 6700 - Marketing Data Management (2)
+    -   Eligible for Emphasis Other category for MA Emphasis
+    -   Eligible for Emphasis Other category for DMS Emphasis

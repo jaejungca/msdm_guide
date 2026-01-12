@@ -1,0 +1,228 @@
+---
+title: "MSDM Career & Program Guide"
+subtitle: "for Master of Science in Digital Marketing Program at Cal Poly Pomona"
+description: "Overview of the website contents: Course registration, job outlook, career guide, scholarship, certificates, and student club"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: images/SGSB-logo.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: marquee
+  image-shape: rectangle
+  image-width: 500px
+  links:
+    - icon: instagram
+      text: MSDM Instagram
+      href: https://www.instagram.com/cpp.msdm/
+    - icon: facebook
+      text: MSDM Facebook
+      href: https://www.facebook.com/cpp.msdm/
+    - icon: linkedin
+      text: MSDM Personal Profile
+      href: https://www.linkedin.com/in/msdm-cpp/
+    - icon: linkedin
+      text: MSDM Compnay Profile
+      href: https://www.linkedin.com/company/cal-poly-pomona-master-of-science-in-digital-marketing/
+
+format:
+  html:
+    backgroundcolor: "#F0EAD6"
+    fontcolor: "#069494"
+    linkcolor: "black"
+    #mainfont: "monospace"
+    fontsize: 20px
+    other-links: 
+      - text: MS in Digital Marketing
+        icon: mortarboard-fill
+        href: https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml
+      - text: DWV 101
+        icon: award
+        href: https://www.cpp.edu/cba/customer-insights-lab/curriculum/certificate/dwv/index.shtml
+      - text: IBM Department
+        icon: bank
+        href: https://www.cpp.edu/cba/international-business-marketing/index.shtml
+    link-external-icon: true
+    link-external-newwindow: true
+---
+
+![](images/msdm-crosswalk.png){fig-alt="a group of students walking on the crosswalk" fig-align="center"}
+
+## **About the Website:**
+
+This is a companion website for the [Master of Science in Digital Marketing Program](https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml), [Singelyn Graduate School of Business](https://www.cpp.edu/cba/sgsb/graduate-program.shtml) at [Cal Poly Pomona](https://www.cpp.edu/). The university is [highly ranked](https://www.cpp.edu/aboutcpp/rankings.shtml) for diversity, social mobility, and ROI. This site is maintained by the Director of the program to provide students with career guidance. Please direct all the questions to [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml).
+
+## **Objectives:**
+
+Your MSDM journey is filled with opportunities to grow, learn, and prepare for impactful careers in Digital Marketing and Marketing Analytics. This homepage serves as your starting point—linking you to the skills, tools, pathways, and experiences that will shape your professional future. Explore each section to discover how to build your capabilities and chart a meaningful career direction.
+
+## **Built Around What Learners Value Most**
+
+Based on national research with professionals across the insights and data industry, we designed this program around the five qualities students value most when choosing a post-baccalaureate program:
+
+1.  Faculty who understand industry needs,
+
+2.  Practical hands-on learning,
+
+3.  Curriculum that adapts to a changing market,
+
+4.  Strong professional connections, and
+
+5.  Access to advanced research infrastructure.
+
+## **Website Organization**
+
+1. **Career Outlook & Guide**
+
+    1. **Career Outlook**
+
+        1.  [Career Outlook](career_outlook_salary_digital_marketing.qmd#career-outlook)       
+        
+        2.  [Typical Job Roles in Digital Marketing](career_outlook_salary_digital_marketing.qmd#typical-job-titles)
+
+        3.  [Active Digital Marketing Job Postings](career_outlook_salary_digital_marketing.qmd#active-job-postings)
+
+        4.  [Digital Marketing & Analytics Job Outlook](career_outlook_salary_digital_marketing.qmd#digital-marketing-analytics-job-outlook)
+
+            1.  [Job Growth Rate, Volume, and Salary](career_outlook_salary_digital_marketing.qmd#job-growth-rate-volume-and-salary)
+
+            2.  [Understanding the Job Categories](career_outlook_salary_digital_marketing.qmd#understanding-the-job-categories)
+
+            3.  [Key Observations](career_outlook_salary_digital_marketing.qmd#key-observations)
+
+            4.  [Key Trends](career_outlook_salary_digital_marketing.qmd#key-trends)
+
+            5.  [Understanding the "Data Tier" in Marketing](career_outlook_salary_digital_marketing.qmd#understanding-the-data-tier-in-marketing)
+
+            6.  [Key Financial Insights](career_outlook_salary_digital_marketing.qmd#key-financial-insights)
+
+    2.  **Career Prep Guide**
+
+        1.  Digital Marketing Strategy Execution Jobs
+
+            -   [Skills and Knowledge for DMS Careers](career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-dms-careers)
+
+            -   [Common DMS Job Titles and Career Readiness](career_prep_digital_marketing_marketing_analytics.qmd#common-digital-marketing-job-titles-career-readiness)
+
+            -   [How to Prepare for DMS Careers](career_prep_digital_marketing_marketing_analytics.qmd#how-to-prepare-for-dms-careers)
+
+        2.  Marketing Analytics Jobs
+
+            -   [Skills and Knowledge for MA Careers](career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-analytics-careers)
+
+            -   [Comparisons between MA Job Roles](career_prep_digital_marketing_marketing_analytics.qmd#marketing-analysts-vs.-marketing-data-scientists-comparisons)
+
+        3.  Career Readiness Resources
+
+            -   [Career Center](career_prep_digital_marketing_marketing_analytics.qmd#career-center)
+
+            -   [Micro-Internship](career_prep_digital_marketing_marketing_analytics.qmd#micro-internship)
+
+        4.  [Networking](career_prep_digital_marketing_marketing_analytics.qmd#networking)
+
+2.  **MSDM Onboarding Guide**
+
+    1.  [Key Actions You Must Take Soon after Your Admission](curriculum_contract.qmd#key-actions-you-must-take-soon-after-your-admission)
+
+    2.  [Helpful websites for Admitted Students](curriculum_contract.qmd#helpful-websites-for-admitted-students)
+
+    3.  [Video Presentation about the Program & Curriculum](curriculum_contract.qmd#video-presentation-about-the-program-curriculum)
+
+    4.  [Step 1: Start Filling out **Curriculum Contract Form**](curriculum_contract.qmd#appointment-for-curriculum-contract)
+
+        -   **Curriculum Contract Form**
+
+    5.  [Step 2: Know the Curriculum (Degree Emphasis) Options](curriculum_contract.qmd#curriculum-new-curriculum)
+
+    6.  [Step 3: Know Curriculum Completion Roadmap Options](curriculum_contract.qmd#curriculum-roadmaps)
+
+    7.  [Step 4: Consider These Factors When Choosing a Degree Emphasis](curriculum_contract.qmd#factors-to-consider-when-choosing-degree-emphasis)
+
+    8.  [Step 5: Consider These Factors in Choosing a 1-Year vs. 2-Year Roadmap](curriculum_contract.qmd#choosing-a-1-year-vs.-2-year-roadmap)
+
+    9.  [Step 6: Plan Your Completion Roadmap with Worksheets](curriculum_contract.qmd#plan-your-roadmap-with-worksheets)
+
+    10.  [Step 7: Submit Curriculum Contract Form and Roadmap Worksheet to Your Advisor](curriculum_contract.qmd#submit-curriculum-contract-and-roadmap-worksheet)
+
+    11.  [Step 8: Register for Courses](curriculum_contract.html#register-for-courses)
+
+3.  **Course Registration**
+
+    1.  [Before You Register: What Every MSDM Student Should Know](course_registration.qmd)
+
+    2.  [Curriculum](course_registration.qmd#curriculum)
+
+    3.  [Year 1, Fall](course_registration.qmd#year-1-fall)
+
+    4.  [Year 1, Spring](course_registration.qmd#year-1-spring)
+
+    5.  [Year 1, Summer](course_registration.qmd#year-1-summer)
+
+    6.  [Year 2, Fall](course_registration.qmd#year-2-fall)
+
+    7.  [Year 2, Spring](course_registration.qmd#year-2-spring)
+
+    8.  [Year 2, Summer](course_registration.qmd#year-2-summer)
+
+4. **Skills & Tools**
+
+    1.  **Boot Camp**
+
+        1.  [Spreadsheet Skills](msdm_bootcamp.qmd#spreadsheet-skills)
+
+        2.  [R Programming and Statistics](msdm_bootcamp.qmd#r-programming-and-statistics)
+
+    2.  **Skills • Tools • Courses Alignment**
+
+        1.  [Tools and Skills along the Student Learning Journey](skills_tools_courses.qmd#tools-and-skills-along-the-student-learning-journey)
+
+        2.  [Project Management Tools](skills_tools_courses.qmd#project-management-tools)
+
+        3.  [Popular Video Editing Tools for Windows](skills_tools_courses.qmd#popular-video-editing-tools-for-windows)
+
+        4.  [Popular Video Editing Tools for Mac](skills_tools_courses.qmd#popular-video-editing-tools-for-mac)
+
+        5.  [SQL (Structured Query Language)](skills_tools_courses.qmd#sql-structured-query-language)
+
+        6.  [**Certifications**](skills_tools_courses.qmd#certifications)
+
+        7.  [CCIDM Virtual Workshops](skills_tools_courses.qmd#ccidm-workshops)
+
+        8.  [DataCamp Virtual Classroom](skills_tools_courses.qmd#datacamp-virtual-classroom)
+
+5.  **Capstone Project (MSDM Culminating Experience Project)** - A Required Year-Long Project
+
+    1.  [How to Manage Expectations](capstone_project.qmd#how-to-manage-expectations)
+
+    2.  [Project Milestones and Timelines](capstone_project.qmd#project-milestones-and-timelines)
+
+    3.  [How to Choose a Project](capstone_project.qmd#how-to-choose-a-project)
+
+    4.  [Fall Semester](capstone_project.qmd#fall-semester)
+
+    5.  [Winter Break Activities](capstone_project.qmd#winter-break-activities)
+
+    6.  [Spring Semester](capstone_project.qmd#spring-semester)
+
+    7.  [Summer Semester](capstone_project.qmd#summer-semester)
+
+6.  **Scholarships**
+
+    1.  Recruitment Scholarship
+
+    2.  Professional Development Scholarship
+
+    3.  Merit-Based Scholarship
+
+    4.  LOGRAR/PPOHA Grant
+
+    5.  LOGRAR Travel Request for Funding
+
+    6.  Healthcare Communications & Marketing Scholarships
+
+7.  **Student Club**
+
+```{r}
+#| echo: false
+#| results: 'hide'
+# This is a dummy chunk to trigger the _freeze folder
+1 + 1
+```
+------------------------------------------------------------------------

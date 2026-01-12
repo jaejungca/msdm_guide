@@ -1,0 +1,122 @@
+---
+title: "MSDM Companion Website Home Page"
+subtitle: "for Master of Science in Digital Marketing Program"
+description: "Overview of the website contents: Course registration, job outlook, career guide, scholarship, certificates, and student club"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: images/SGSB-logo.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: marquee
+  image-shape: rectangle
+  image-width: 500px
+  links:
+    - icon: instagram
+      text: MSDM Instagram
+      href: https://www.instagram.com/cpp.msdm/
+    - icon: facebook
+      text: MSDM Facebook
+      href: https://www.facebook.com/cpp.msdm/
+    - icon: linkedin
+      text: MSDM Personal Profile
+      href: https://www.linkedin.com/in/msdm-cpp/
+    - icon: linkedin
+      text: MSDM Compnay Profile
+      href: https://www.linkedin.com/company/cal-poly-pomona-master-of-science-in-digital-marketing/
+
+format:
+  html:
+    backgroundcolor: "#F0EAD6"
+    fontcolor: "#069494"
+    linkcolor: "black"
+    #mainfont: "monospace"
+    fontsize: 20px
+---
+
+![](images/msdm-crosswalk.png){fig-alt="a group of students walking on the crosswalk" fig-align="center"}
+
+## About the Website:
+
+This is a companion website for the [Master of Science in Digital Marketing Program](https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml), [Singelyn Graduate School of Business](https://www.cpp.edu/cba/sgsb/graduate-program.shtml) at [Cal Poly Pomona](https://www.cpp.edu/). The university is [highly ranked](https://www.cpp.edu/aboutcpp/rankings.shtml) for diversity, social mobility, and ROI. This site is maintained by Director of the program to provide students with career guidance. Please direct all the questions to [Dr. Jae Min Jung](https://www.cpp.edu/faculty/jmjung/index.shtml).
+
+## Objective:
+
+To provide current students with appropriate advising, this site will provide timely information about:
+
+1.  [**Prep Courses Prior to Starting MSDM?**](https://jmjung.quarto.pub/career_prep/msdm_bootcamp.html)
+
+2.  [**Course Registration**](https://jmjung.quarto.pub/career_prep/course_registration.html)
+
+    1.  Fall Semester (15 weeks)
+
+        1.  One-year Completion Roadmap
+
+        2.  Two-year Completion Roadmap
+
+    2.  Spring Semester (15 weeks)
+
+        1.  One-year Completion Roadmap
+
+        2.  Two-year Completion Roadmap
+
+    3.  Summer Term (10 weeks)
+
+        1.  One-year Completion Roadmap
+
+        2.  Two-year Completion Roadmap
+
+3.  [**Skills and Tools to Learn from Courses**](https://jmjung.quarto.pub/career_prep/skills_tools_courses.html)
+
+    1.  Skills and Tools per Course
+
+    2.  Course Sequence
+
+    3.  Project Management Platforms
+
+    4.  Video Editing Tools
+
+4.  [**Capstone Project (MSDM Culminating Experience Project)**](https://jmjung.quarto.pub/career_prep/capstone_project.html) - A Required Year-Long Project
+
+    1.  What to Consider When Choosing a Project (Early Fall)
+
+    2.  Recommendations Relevant for the Entire Project Journey (Fall, Spring, & Summer)
+
+    3.  Tips for Preparing for Successful Project Proposal (Fall Semester)
+
+5.  **Job Outlook**
+
+    1.  Digital Marketing Strategy Execution Jobs
+
+    2.  Marketing Analytics Jobs
+
+6.  **Career Guide**
+
+    1.  Digital Marketing Strategy Execution Jobs
+
+        -   [Skills Employers Look for DMS Jobs](https://jmjung.quarto.pub/career_prep/career_prep_digital_marketing_marketing_analytics.html#skills-employers-look-for-in-digital-marketing-roles)
+
+        -   [Common DMS Job Titles and Career Readiness](https://jmjung.quarto.pub/career_prep/career_prep_digital_marketing_marketing_analytics.html#common-digital-marketing-job-titles-career-readiness)
+
+        -   [DMS Career Self-Assessment](https://jmjung.quarto.pub/career_prep/career_prep_digital_marketing_marketing_analytics.html#digital-marketing-strategy-career-self-assessment)
+
+    2.  Marketing Analytics Jobs
+
+        -   [Skills and Knowledge for MA Jobs](https://jmjung.quarto.pub/career_prep/career_prep_digital_marketing_marketing_analytics.html#marketing-analysts-and-marketing-data-scientists-skills-and-knowledge)
+
+        -   [Comparisons between MA Job Roles](https://jmjung.quarto.pub/career_prep/career_prep_digital_marketing_marketing_analytics.html#marketing-analysts-vs.-marketing-data-scientists-comparisons)
+
+        -   [MA Career Self-Assessment](https://jmjung.quarto.pub/career_prep/career_prep_digital_marketing_marketing_analytics.html#marketing-analysts-vs.-marketing-data-scientists-comparisons)
+
+    3.  [SQL (Structured Query Language)](https://jmjung.quarto.pub/career_prep/career_prep_digital_marketing_marketing_analytics.html#sql-structured-query-language)
+
+7.  **Scholarships**
+
+    1.  Recruitment Scholarship
+
+    2.  Professional Development Scholarship
+
+    3.  Merit-Based Scholarship
+
+8.  [**Certificates (Recommended)**](https://jmjung.quarto.pub/career_prep/career_prep_digital_marketing_marketing_analytics.html#certifications)
+
+9.  **Student Club**
+
+------------------------------------------------------------------------

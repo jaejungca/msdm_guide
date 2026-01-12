@@ -1,0 +1,155 @@
+project: 
+  type: website
+  resources: 
+    - google1267df0bc9c2f454.html
+
+website: 
+  title: "MSDM Career & Program Guide"
+  google-analytics: "G-G21XFNERQJ"
+  favicon: images/CPP_Primary_Gold_favicon.png
+  description: "A comprehensive guide to career preparation for the MS in Digital Marketing program."
+  site-url: https://jmjung.quarto.pub/career_prep/
+  open-graph: true
+  image: images/msdm-crosswalk.png
+  twitter-card: true
+  cookie-consent: true
+  page-footer: 
+    left: "MSDM Program, SGSB, Cal Poly Pomona."
+    right:
+      - text: "© 2025 Cal Poly Pomona · All rights reserved."
+  navbar: 
+    right: 
+      - text: Home
+        href: index.qmd
+
+      - text: Careers
+        menu: 
+          - text: Career Outlook
+            href: career_outlook_salary_digital_marketing.qmd#career-outlook
+          - text: Typical Job Titles
+            href: career_outlook_salary_digital_marketing.qmd#typical-job-titles
+          - text: Active Job Postings
+            href: career_outlook_salary_digital_marketing.qmd#active-job-postings
+          - text: Job Growth Rate, Volume, and Salary
+            href: career_outlook_salary_digital_marketing.qmd#job-growth-rate-volume-and-salary
+          - text: Skills and Knowledge for DMS Careers
+            href: career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-dms-careers
+          - text: Skills and Knowledge for Analytics Careers
+            href: career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-analytics-careers
+          - text: Career Readiness Resources
+            href: career_prep_digital_marketing_marketing_analytics.qmd#career-readiness-resources
+
+      - text: Onboarding Guide
+        #href: curriculum_contract.qmd
+        menu:
+          - text: Helpful websites
+            href: curriculum_contract.qmd#helpful-websites-for-admitted-students
+          - text: Info Session Recording
+            href: curriculum_contract.qmd#video-presentation-about-the-program-curriculum
+          - text: Step 1 - Start Filling Out Curriculm Contract Form
+            href: curriculum_contract.qmd#appointment-for-curriculum-contract
+          - text: Step 2 - Know Curriculum (Degree Emphasis) Options
+            href: curriculum_contract.qmd#curriculum-new-curriculum
+          - text: Step 3 - Know Curriculum Roadmap Options
+            href: curriculum_contract.qmd#curriculum-roadmaps
+          - text: Step 4 - Consider Factors When Choosing Degree Emphasis
+            href: curriculum_contract.qmd#factors-to-consider-when-choosing-degree-emphasis
+          - text: Step 5 - Consider Factors When Choosing a Roadmap
+            href: curriculum_contract.qmd#choosing-a-1-year-vs.-2-year-roadmap
+          - text: Step 6 - Plan Your Roadmap with Worksheets
+            href: curriculum_contract.qmd#plan-your-roadmap-with-worksheets
+          - text: Step 7 - Submit Curriculum Contract & Roadmap Worksheet
+            href: curriculum_contract.qmd#submit-the-signed-curriculum-contract-to-your-advisor
+          - text: Step 8 - Register for Courses
+            href: curriculum_contract.qmd#register-for-courses
+
+      - text: Course Registration
+        #href: course_registration.qmd
+        menu:
+          - text: Course Selection Principles
+            href: course_registration.qmd#before-you-register-what-every-msdm-student-should-know
+          - text: Curriculum
+            href: course_registration.qmd#curriculum
+          - text: Year 1, Fall Courses
+            href: course_registration.qmd#year-1-fall
+          - text: Year 1, Spring Courses
+            href: course_registration.qmd#year-1-spring
+          - text: Year 1, Summer Courses
+            href: course_registration.qmd#year-1-summer
+          - text: Year 2, Fall Courses
+            href: course_registration.qmd#year-2-fall
+          - text: Year 2, Spring Courses
+            href: course_registration.qmd#year-2-spring
+          - text: Year 2, Summer Courses
+            href: course_registration.qmd#year-2-summer
+
+      - text: Skills & Tools
+        #href: skills_tools_courses.qmd
+        menu:
+          - text: Boot Camp
+            href: msdm_bootcamp.qmd
+          - text: Skills Roadmap (Courses & Tools)
+            href: skills_tools_courses.qmd#tools-and-skills-along-the-student-learning-journey
+          - text: Project Management
+            href: skills_tools_courses.qmd#project-management-tools
+          - text: Video Editing
+            href: skills_tools_courses.qmd#popular-video-editing-tools-for-windows
+          - text: SQL (Structured Query Language)
+            href: skills_tools_courses.qmd#sql-structured-query-language
+          - text: Certifications
+            href: skills_tools_courses.qmd#certifications
+          - text: Free Training Resources
+            href: skills_tools_courses.qmd#ccidm-workshops
+          
+      - text: Capstone Project
+        #href: capstone_project.qmd
+        menu:
+          - text: How to Manage Expectations
+            href: capstone_project.qmd#how-to-manage-expectations
+          - text: Project Milestones and Timelines
+            href: capstone_project.qmd#project-milestones-and-timelines
+          - text: How to Choose a Project
+            href: capstone_project.qmd#how-to-choose-a-project
+          - text: Fall Semester
+            href: capstone_project.qmd#fall-semester
+          - text: Winter Break Activities
+            href: capstone_project.qmd#winter-break-activities
+          - text: Spring Semester
+            href: capstone_project.qmd#spring-semester
+          - text: Summer Semester
+            href: capstone_project.qmd#summer-semester
+      
+format: 
+  html: 
+    include-in-header:
+      - text: |
+          <!-- Google Tag Manager -->
+          <script>
+          (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id=GTM-PBB7Q5WB'+dl;
+          f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GTM-PBB7Q5WB');
+          </script>
+          <!-- End Google Tag Manager -->
+    include-after-body:
+      - text: |
+          <!-- Google Tag Manager (noscript) -->
+          <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBB7Q5WB"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+          <!-- End Google Tag Manager (noscript) -->
+    toc: true
+    toc-expand: true
+    toc-depth: 3
+    #backgroundcolor: "#F0EAD6"
+    #fontcolor: "darkgreen"
+    #linkcolor: "black"
+    #mainfont: "monospace"
+    #fontsize: 15px
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.scss
+execute: 
+  freeze: auto

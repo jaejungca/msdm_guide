@@ -1,0 +1,128 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+
+/* Hide visible page description (used for SEO only) */
+.quarto-title .description {
+  display: none !important; 
+}
+
+/* Keep subtitle visible */
+.quarto-title .subtitle {
+  display: block !important; 
+}
+
+
+/* Colors */
+$body-bg: #FFFFFF;
+$body-color: rgb(55, 58, 60);
+$link-color: rgb(39, 128, 227);
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 17px;
+
+
+/* =========================
+   MSDM tables (responsive)
+   ========================= */
+.msdm-table {
+  margin: 1rem 0 2rem;
+  overflow-x: auto;           /* horizontal scroll on small screens */
+  -webkit-overflow-scrolling: touch;
+}
+
+.msdm-table table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 760px;           /* prevent squishing on mobile */
+}
+
+.msdm-table thead th {
+  background: var(--bs-secondary-bg);
+  color: var(--bs-emphasis-color);
+  border-bottom: 1px solid var(--bs-border-color);
+  font-weight: 600;
+}
+
+.msdm-table th,
+.msdm-table td {
+  padding: .65rem .8rem;
+  border-bottom: 1px solid var(--bs-border-color);
+  vertical-align: top;
+}
+
+.msdm-table tbody tr:nth-child(even) {
+  background: var(--bs-tertiary-bg);
+}
+
+/* Tiny caps for course codes (nice touch) */
+.msdm-course-code {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .02em;
+  opacity: .85;
+}
+
+/* Badges for Core / Elective */
+.badge-core,
+.badge-elective {
+  display: inline-block;
+  font-size: .825rem;
+  padding: .15rem .5rem;
+  border-radius: .5rem;
+  border: 1px solid;
+}
+
+.badge-core {
+  color: var(--bs-success);
+  border-color: var(--bs-success);
+  background: color-mix(in srgb, var(--bs-success), transparent 90%);
+}
+
+.badge-elective {
+  color: var(--bs-info);
+  border-color: var(--bs-info);
+  background: color-mix(in srgb, var(--bs-info), transparent 90%);
+}
+
+/* Optional "tag pill" look if you wrap tools in <em class="tag">...</em> */
+.msdm-table em.tag {
+  background: var(--bs-secondary-bg);
+  border: 1px solid var(--bs-border-color);
+  border-radius: .5rem;
+  padding: .05rem .45rem;
+  font-style: normal;
+  white-space: nowrap;
+  margin-right: .25rem;
+}
+
+/* =========================
+   Scrollable wide tables
+   ========================= */
+
+.table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1rem 0;
+
+  table {
+    width: max-content;       // let the table expand naturally
+    min-width: 100%;          // but not smaller than the container
+    border-collapse: collapse;
+    white-space: nowrap;      // prevent columns from wrapping
+  }
+}
+
+/* Optional: apply globally to all tables (use cautiously) */
+
+/*.quarto-table table,
+table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+  max-width: 100%;
+} 
+*/
+
