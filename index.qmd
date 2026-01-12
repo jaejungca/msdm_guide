@@ -77,13 +77,47 @@ Based on national research with professionals across the insights and data indus
 
 -   Classes begin for all students: Saturday, **January 17**
 
--   Holidays
+-   Census Day: February 13
+
+-   Spring Break: Saturday, **March 28** - April 3
+
+-   SGSB Hooding & Graduation Ceremony: May 9 at Rose Garden & CLA Paseo
+
+-   Finals: May 9 - 15
+
+-   Commencement Ceremony: May 17
+
+-   Gradues Due: May 22, 9:00 am
+
+-   **Holidays**
 
     -   Martin Luther King Jr. Day: January 19
 
     -   Cesar Chavez Day: March 31
 
--   Spring Break: Saturday, **March 28** - April 3
+## **Important Dates for Summer 2026**
+
+-   Priority Registration Period: March 9 - 10
+
+-   General Registration Period: March 12 - May 6
+
+-   Add/Drop Period: May 13 - June 10
+
+-   Last day to drop and receive 100% refund: June 2
+
+-   Classes begin for all students: Wednesday, **June 3**
+
+-   Census Day: June 29
+
+-   Finals: August 10 - 14
+
+-   Gradues Due: August 17, 9:00 am
+
+-   **Holidays**
+
+    -   Juneteenth: June 19
+
+    -   Independence Day: July 3
 
 ## **Website Organization**
 
@@ -237,7 +271,7 @@ Based on national research with professionals across the insights and data indus
 
 7.  **Student Club**
 
-```r
+``` r
 #| echo: false
 #| results: 'hide'
 # This is a dummy chunk to trigger the _freeze folder
