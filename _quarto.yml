@@ -8,7 +8,7 @@ website:
   google-analytics: "G-G21XFNERQJ"
   favicon: images/CPP_Primary_Gold_favicon.png
   description: "A comprehensive guide to career preparation for the MS in Digital Marketing program."
-  site-url: https://jmjung.quarto.pub/career_prep/
+  site-url: https://ms-digital-marketing-cpp.netlify.app/
   open-graph: true
   image: images/msdm-crosswalk.png
   twitter-card: true
