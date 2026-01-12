@@ -67,14 +67,32 @@ Based on national research with professionals across the insights and data indus
 
 5.  Access to advanced research infrastructure.
 
+## **Important Dates for Spring 2026**
+
+-   Add/Drop Period: January 5 - January 30
+
+-   New Student Orientation at SGSB: January 14
+
+-   Last day to drop and receive 100% refund: January 16
+
+-   Classes begin for all students: Saturday, **January 17**
+
+-   Holidays
+
+    -   Martin Luther King Jr. Day: January 19
+
+    -   Cesar Chavez Day: March 31
+
+-   Spring Break: Saturday, **March 28** - April 3
+
 ## **Website Organization**
 
-1. **Career Outlook & Guide**
+1.  **Career Outlook & Guide**
 
-    1. **Career Outlook**
+    1.  **Career Outlook**
 
-        1.  [Career Outlook](career_outlook_salary_digital_marketing.qmd#career-outlook)       
-        
+        1.  [Career Outlook](career_outlook_salary_digital_marketing.qmd#career-outlook)
+
         2.  [Typical Job Roles in Digital Marketing](career_outlook_salary_digital_marketing.qmd#typical-job-titles)
 
         3.  [Active Digital Marketing Job Postings](career_outlook_salary_digital_marketing.qmd#active-job-postings)
@@ -139,9 +157,9 @@ Based on national research with professionals across the insights and data indus
 
     9.  [Step 6: Plan Your Completion Roadmap with Worksheets](curriculum_contract.qmd#plan-your-roadmap-with-worksheets)
 
-    10.  [Step 7: Submit Curriculum Contract Form and Roadmap Worksheet to Your Advisor](curriculum_contract.qmd#submit-curriculum-contract-and-roadmap-worksheet)
+    10. [Step 7: Submit Curriculum Contract Form and Roadmap Worksheet to Your Advisor](curriculum_contract.qmd#submit-curriculum-contract-and-roadmap-worksheet)
 
-    11.  [Step 8: Register for Courses](curriculum_contract.html#register-for-courses)
+    11. [Step 8: Register for Courses](curriculum_contract.html#register-for-courses)
 
 3.  **Course Registration**
 
@@ -161,7 +179,7 @@ Based on national research with professionals across the insights and data indus
 
     8.  [Year 2, Summer](course_registration.qmd#year-2-summer)
 
-4. **Skills & Tools**
+4.  **Skills & Tools**
 
     1.  **Boot Camp**
 
@@ -225,4 +243,5 @@ Based on national research with professionals across the insights and data indus
 # This is a dummy chunk to trigger the _freeze folder
 1 + 1
 ```
+
 ------------------------------------------------------------------------
