@@ -836,25 +836,25 @@ Encourage students to **publish on GitHub + LinkedIn**:
 
 ## What is Positron?
 
-**Positron** is a free, next-generation data science IDE from Posit (formerly RStudio) that supports both **Python and R** natively—it’s designed for polyglot workflows. It’s built on the open-source **Code OSS** (the foundation of VS Code) and brings a modern, extensible environment tailored for data work ([isabel.quarto.pub+12Posit+12jumpingrivers.com+12.](https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com "https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com"))
+**Positron** is a free, next-generation data science IDE from Posit (formerly RStudio) that supports both **Python and R** natively—it’s designed for polyglot workflows. It’s built on the open-source **Code OSS** (the foundation of VS Code) and brings a modern, extensible environment tailored for data work
 
 Key features include:
 
--   **Variable & Data Frame Explorer**: Explore, filter, sort, and summarize your data interactively ([Posit;](https://posit.co/products/enterprise/workbench/?utm_source=chatgpt.com "https://posit.co/products/enterprise/workbench/?utm_source=chatgpt.com")[Posit+2heise online+2](https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com "https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com")).
+-   **Variable & Data Frame Explorer**: Explore, filter, sort, and summarize your data interactively
 
--   **Multi‑Session Console**: Run R and Python code in parallel, each in separate consoles, without modifying your source files ([positron.posit.co+9Posit+9heise online+9.](https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com "https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com"))
+-   **Multi‑Session Console**: Run R and Python code in parallel, each in separate consoles, without modifying your source files
 
--   **Interpreter & Environment Management**: Easily switch between different R and Python environments ([Posit+10Posit+10drmowinckels.io+10](https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com "https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com"))
+-   **Interpreter & Environment Management**: Easily switch between different R and Python environments
 
--   **Polished UI & AI Assistance**: Includes a modern editor with support for VSIX extensions and the Positron Assistant for contextual AI-based help ([drmowinckels.io+5Posit+5isabel.quarto.pub+5](https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com "https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com"))
+-   **Polished UI & AI Assistance**: Includes a modern editor with support for VSIX extensions and the Positron Assistant for contextual AI-based help
 
--   **Database Connection Pane**: Built-in support for browsing and querying SQL data sources directly within the IDE ([Posit](https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com "https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com"))
+-   **Database Connection Pane**: Built-in support for browsing and querying SQL data sources directly within the IDE
 
--   **Integrated Data App Workflow**: Launch and debug Shiny, Streamlit, Dash, or FastAPI apps with a single click ([Posit+1](https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com "https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com"))
+-   **Integrated Data App Workflow**: Launch and debug Shiny, Streamlit, Dash, or FastAPI apps with a single click
 
 ## How Does It Compare to RStudio for Data Warehouse Integration?
 
-RStudio remains a highly stable and familiar environment for R work, especially in statistical modeling and reproducible reporting with R Markdown or Quarto ([Posit+14positron.posit.co+14Wikipedia+14](https://positron.posit.co/migrate-rstudio-compare.html?utm_source=chatgpt.com "https://positron.posit.co/migrate-rstudio-compare.html?utm_source=chatgpt.com")). However, when it comes to interfacing with data warehouses—typically SQL-heavy work—Positron offers distinct advantages:
+RStudio remains a highly stable and familiar environment for R work, especially in statistical modeling and reproducible reporting with R Markdown or Quarto. However, when it comes to interfacing with data warehouses—typically SQL-heavy work—Positron offers distinct advantages:
 
 ### Advantages of Positron:
 
@@ -862,15 +862,15 @@ RStudio remains a highly stable and familiar environment for R work, especially 
 
 2.  **Polyglot Workflow**: For teams or students who may use both R and Python for ETL, modeling, or automation, Positron lets them do so in one session—no context-switching needed.
 
-3.  **Modern, Customizable UI**: Being based on VS Code, Positron supports a wide ecosystem of extensions, customizable layout, and flexible workflows ([denniseirorere.com+14drmowinckels.io+14Occasional Divergences+14Links to an external site.](https://drmowinckels.io/blog/2024/positron/?utm_source=chatgpt.com "https://drmowinckels.io/blog/2024/positron/?utm_source=chatgpt.com")[Occasional Divergences+1.](https://occasionaldivergences.com/posts/positron-intro/?utm_source=chatgpt.com "https://occasionaldivergences.com/posts/positron-intro/?utm_source=chatgpt.com"))
+3.  **Modern, Customizable UI**: Being based on VS Code, Positron supports a wide ecosystem of extensions, customizable layout, and flexible workflows
 
 ### Things to Keep in Mind:
 
--   **Beta Maturity**: Positron is still relatively new and under active development. Some features familiar from RStudio—like inline output in Quarto documents, workspace autosave on restart, history pane, and RStudio Add-ins—are not yet fully implemented ([positron.posit.co+2Wikipedia+2](https://positron.posit.co/migrate-rstudio-compare.html?utm_source=chatgpt.com "https://positron.posit.co/migrate-rstudio-compare.html?utm_source=chatgpt.com"))
+-   **Active Development**: Positron is still relatively new and under active development. Some features familiar from RStudio—like inline output in Quarto documents, workspace autosave on restart, history pane, and RStudio Add-ins—are not yet fully implemented.
 
--   **Learning Curve**: Switching from RStudio may take some onboarding time, especially for users accustomed to its tightly integrated interface ([jumpingrivers.com](https://www.jumpingrivers.com/blog/why-move-to-positron-r/?utm_source=chatgpt.com "https://www.jumpingrivers.com/blog/why-move-to-positron-r/?utm_source=chatgpt.com"))
+-   **Learning Curve**: Switching from RStudio may take some onboarding time, especially for users accustomed to its tightly integrated interface
 
--   **Foundation**: RStudio continues to be maintained with a focus on stability, especially for R-heavy workflows. Positron is additive, not a replacement ([Posit;](https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com "https://posit.co/blog/positron-product-announcement-aug-2025/?utm_source=chatgpt.com")[positron.posit.co](https://positron.posit.co/migrate-rstudio-compare.html?utm_source=chatgpt.com "https://positron.posit.co/migrate-rstudio-compare.html?utm_source=chatgpt.com"))
+-   **Foundation**: RStudio continues to be maintained with a focus on stability, especially for R-heavy workflows. Positron is additive, not a replacement
 
 ## Judgment Call: Is Positron Better for Data Warehouse Workflows?
 
@@ -886,7 +886,7 @@ That said, if the student is focused primarily on R and relies heavily on RMarkd
 
 ## Recommendation for Marketing Data Science Tools
 
--   **For SQL-heavy, polyglot, or app-deployment workflows**: Encourage them to experiment with **Positron**. Its features align well with modern data engineering and analytics workflows.
+-   **For SQL-heavy, polyglot, or app-deployment workflows**: Experiment with **Positron**. Its features align well with modern data engineering and analytics workflows.
 
 -   **For R-focused, academic, or reproducibility-heavy tasks**: **RStudio** remains excellent and highly reliable—especially for teaching foundations in R.
 
@@ -904,7 +904,7 @@ That said, if the student is focused primarily on R and relies heavily on RMarkd
 
 2.  **Quarto**
 
--   Install Quarto CLI, then VS Code **“Quarto”** extension for render/preview and project workflows (websites/books). ([Quarto;](https://quarto.org/docs/tools/vscode/index.html?utm_source=chatgpt.com "https://quarto.org/docs/tools/vscode/index.html?utm_source=chatgpt.com")[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=quarto.quarto&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=quarto.quarto&utm_source=chatgpt.com"); [GitHub](https://github.com/quarto-dev/quarto/blob/main/apps/vscode/README.md?utm_source=chatgpt.com "https://github.com/quarto-dev/quarto/blob/main/apps/vscode/readme.md?utm_source=chatgpt.com"))
+-   Install Quarto CLI, then VS Code **“Quarto”** extension for render/preview and project workflows (websites/books).
 
 3.  **Python**
 
@@ -914,41 +914,31 @@ That said, if the student is focused primarily on R and relies heavily on RMarkd
 
 **A. Pure SQL inside VS Code**
 
--   Use **SQLTools** plus the driver for your warehouse (Snowflake, Databricks, Postgres, etc.) to browse schemas and run queries inline. ([Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=mtxr.sqltools&utm_source=chatgpt.com"); [SQLTools](https://vscode-sqltools.mteixeira.dev/?utm_source=chatgpt.com "https://vscode-sqltools.mteixeira.dev/?utm_source=chatgpt.com"))
+-   Use **SQLTools** plus the driver for your warehouse (Snowflake, Databricks, Postgres, etc.) to browse schemas and run queries inline.
 
 -   Examples:
 
-    -   **Snowflake** VS Code extension (SQL + Snowpark integration). [Snowflake DocumentationLinks to an external site.](https://docs.snowflake.com/en/user-guide/vscode-ext?utm_source=chatgpt.com "https://docs.snowflake.com/en/user-guide/vscode-ext?utm_source=chatgpt.com")
+    -   **Snowflake** VS Code extension (SQL + Snowpark integration).
 
-    -   **Databricks** driver for SQLTools (query SQL Warehouses directly). [Microsoft LearnLinks to an external site.](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sqltools-driver?utm_source=chatgpt.com "https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sqltools-driver?utm_source=chatgpt.com")[Visual Studio MarketplaceLinks to an external site.](https://marketplace.visualstudio.com/items?itemName=databricks.sqltools-databricks-driver&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=databricks.sqltools-databricks-driver&utm_source=chatgpt.com")
+    -   **Databricks** driver for SQLTools (query SQL Warehouses directly).
 
 -   FYI for Microsoft stacks: Azure Data Studio is being retired in 2026; Microsoft recommends moving to VS Code + SQL extensions. [Microsoft LearnLinks to an external site.](https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com "https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com")
 
 **B. R + DBI/odbc from your code**
 
--   Use **DBI** with **odbc** (or backend-specific drivers like `RPostgres`, `bigrquery`) and optionally `dbplyr` to write dplyr that translates to SQL. [dbi.r-dbi.orgLinks to an external site.](https://dbi.r-dbi.org/?utm_source=chatgpt.com "https://dbi.r-dbi.org/?utm_source=chatgpt.com")[odbc.r-dbi.orgLinks to an external site.](https://odbc.r-dbi.org/?utm_source=chatgpt.com "https://odbc.r-dbi.org/?utm_source=chatgpt.com")[GitHubLinks to an external site.](https://github.com/r-dbi/odbc/blob/main/README.md?utm_source=chatgpt.com "https://github.com/r-dbi/odbc/blob/main/readme.md?utm_source=chatgpt.com")
+-   Use **DBI** with **odbc** (or backend-specific drivers like `RPostgres`, `bigrquery`) and optionally `dbplyr` to write dplyr that translates to SQL.
 
 **C. Python from your code**
 
--   Use **SQLAlchemy**, **pyodbc**, **snowflake-snowpark-python**, or **databricks-sql-connector** within VS Code’s Python/Jupyter workflow (extensions above cover environments and notebooks). (General pattern supported by the Python/Jupyter extensions.) [Visual Studio MarketplaceLinks to an external site.](https://marketplace.visualstudio.com/items?itemName=ms-python.python&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=ms-python.python&utm_source=chatgpt.com")[Microsoft for DevelopersLinks to an external site.](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release/?utm_source=chatgpt.com "https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release/?utm_source=chatgpt.com")
+-   Use **SQLAlchemy**, **pyodbc**, **snowflake-snowpark-python**, or **databricks-sql-connector** within VS Code’s Python/Jupyter workflow (extensions above cover environments and notebooks). (General pattern supported by the Python/Jupyter extensions.)
 
 ### VS Code vs. Positron vs. RStudio (for your use case)
 
--   **VS Code**: Most mature **polyglot** environment today; deep SQL tooling; constant releases; huge extension ecosystem (including Quarto). Great when students mix R, Python, and warehouse SQL. [Microsoft for DevelopersLinks to an external site.](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release/?utm_source=chatgpt.com "https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release/?utm_source=chatgpt.com")
+-   **VS Code**: Most mature **polyglot** environment today; deep SQL tooling; constant releases; huge extension ecosystem (including Quarto). Great when students mix R, Python, and warehouse SQL.
 
--   **Positron**: Promising R+Python IDE from Posit with data/variable explorer and SQL pane, but still maturing; some RStudio niceties aren’t fully there yet. If you need “ready today” for warehousing, VS Code wins on stability and breadth. (Context: Positron pages highlight active development and gaps vs RStudio.) [QuartoLinks to an external site.](https://quarto.org/docs/tools/vscode/index.html?utm_source=chatgpt.com "https://quarto.org/docs/tools/vscode/index.html?utm_source=chatgpt.com")
+-   **Positron**: Promising R+Python IDE from Posit with data/variable explorer and SQL pane, but still maturing; some RStudio niceties aren’t fully there yet. If you need “ready today” for warehousing, VS Code wins on stability and breadth. (Context: Positron pages highlight active development and gaps vs RStudio.)
 
 -   **RStudio**: Still superb for **R-first** teaching (R Markdown/Quarto, tidyverse, Shiny) but not as strong for multi-language + warehouse dev as VS Code’s ecosystem.
-
-### Quick-start checklist for your class
-
--   Install: **VS Code**, R, Python, **Quarto CLI**.
-
--   Extensions: **R**, **Quarto**, **Python**, **Jupyter**, and **SQLTools** (+ your warehouse driver; e.g., Snowflake/Databricks/MSSQL). [Visual Studio Marketplace+3Visual Studio Marketplace+3Visual Studio Marketplace+3Links to an external site.](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=reditorsupport.r&utm_source=chatgpt.com")
-
--   R packages: `languageserver`, `DBI`, `odbc`, `dbplyr` (and `httpgd` for plotting). [odbc.r-dbi.orgLinks to an external site.](https://odbc.r-dbi.org/?utm_source=chatgpt.com "https://odbc.r-dbi.org/?utm_source=chatgpt.com")[dbi.r-dbi.orgLinks to an external site.](https://dbi.r-dbi.org/?utm_source=chatgpt.com "https://dbi.r-dbi.org/?utm_source=chatgpt.com")
-
--   Test project: a **Quarto** `.qmd` that runs a small SQL query (via SQLTools or DBI), then analyzes results in **R** and **Python** chunks. (There are public examples showing R+Python in one Quarto doc.) [kgmuzungu.github.ioLinks to an external site.](https://kgmuzungu.github.io/VSCode_with_Python_R_Quarto/?utm_source=chatgpt.com "https://kgmuzungu.github.io/vscode_with_python_r_quarto/?utm_source=chatgpt.com")[appsilon.comLinks to an external site.](https://www.appsilon.com/post/quarto-python-and-vscode?utm_source=chatgpt.com "https://www.appsilon.com/post/quarto-python-and-vscode?utm_source=chatgpt.com")
 
 ### Bottom line
 
@@ -1266,6 +1256,8 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 ## Career Center
 
+> The following recommended by CPP Career Center.
+
 -   [Virtual Career Center](Suggestions%20by%20Role%20(MS%20in%20Digital%20Marketing))
 -   [Focus 2 Career](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRbTmbIKdzCA&data=05%7C02%7Cjmjung%40cpp.edu%7C4ce0b1dfee2a45c1577c08de3815a181%7C164ba61e39ec4f5d89ffaa1f00a521b4%7C0%7C0%7C639009865682180889%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Jywwx58qw4hipGRD1mqIajjnD%2F4aZlyCO7O8W3P8DpE%3D&reserved=0): for assessments as well as career and industry exploration
 -   [Handshake](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6wjflqZOpR0&data=05%7C02%7Cjmjung%40cpp.edu%7C4ce0b1dfee2a45c1577c08de3815a181%7C164ba61e39ec4f5d89ffaa1f00a521b4%7C0%7C0%7C639009865682195411%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=31fubtHgJZx3AF2YEhhNncVuiWnhxTIqhnA0EPDxOI8%3D&reserved=0): professional profile, job search, and access to career events
@@ -1274,9 +1266,26 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 ## Micro-Internship
 
+### What Is Mirco-Internship?
+
+> At Cal Poly Pomona, a micro-internship is a short-term, paid, project-based professional assignment (usually 5-40 hours) that lets students quickly gain hands-on experience, explore career paths, build skills, and network with employers, functioning as an alternative or precursor to traditional internships and available year-round, often remotely. These projects mimic tasks given to new hires, such as market research or content creation, and are managed through [Parker Dewey](https://info.parkerdewey.com/cpp) via the university's Innovation Incubator. 
+>
+> -   [**Micro-Internship Office website**](https://www.cpp.edu/ii/micro-internships/about-micro-internships.shtml)
+
+::: callout-note
+#### Facts:
+
+> Each year, several courses in the MSDM program incorporate Micro-Internships as part of the course experience. To date, IBM 6010, IBM 6100, and IBM 6300 have participated in the Micro-Internship initiative.
+>
+> Below is a newsletter article highlighting the impact MSDM students made while supporting a nonprofit organization in advancing its mission.
+:::
+
 -   [***Micro-Internship, Major Impact: Business Students Drive Digital Marketing Strategy for Global Nonprofit***](https://www.cpp.edu/cba/news/micro-internship-msdm24.shtml) (A newsletter story)
--   [**Micro-Internship Office website**](https://www.cpp.edu/ii/micro-internships/about-micro-internships.shtml)
 
 ## Networking
 
--   MSDM Student Club
+### OptiMark Digital Marketing & Analytics Society
+
+It is MSDM students’ main co-curricular community, offering activities that complement the curriculum and support professional growth.
+
+-   [Overview Slides](https://www.beautiful.ai/player/-OiugYa-TF_yHpi1_ZOX/)
