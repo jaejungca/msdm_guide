@@ -109,7 +109,7 @@ format:
 
     -   Eligible for Emphasis Other category for DMS Emphasis
 
-[^2]: This course requires IBM 6510 as a prerequisite. To obtain a permission code to override the prerequisite, please contact Jennifer Cousins at CPGE (jlcousens at cpp.edu).
+[^2]: This course requires IBM 6510 as a prerequisite. We put both courses together knowing that concurrent enrollment is not an issue. We will help you enroll in IBM 6520 by issuing you a permission code. Please contact **Jennifer Cousins** at CPGE (email: jlcousens at cpp.edu).
 
 ## **Year 1, Summer**
 
@@ -175,11 +175,13 @@ format:
 
     -   Eligible for Emphasis Other category for MA Emphasis
 
--   IBM 6530 - Marketing Analytics (3)
+-   IBM 6530 - Marketing Analytics (3)[^5]
 
     -   Recommended for MA Emphasis
 
     -   Eligible for Emphasis Other category for DMS Emphasis
+
+[^5]: IBM 6530 will not be offered until Spring 2027. This course is not part of Curriculum for the class of 2026.
 
 ## **Year 2, Summer**
 
@@ -191,6 +193,8 @@ format:
 
 ### Electives
 
--   IBM 6700 - Marketing Data Management (2)
+-   IBM 6700 - Marketing Data Management (2)[^6]
     -   Eligible for Emphasis Other category for MA Emphasis
     -   Eligible for Emphasis Other category for DMS Emphasis
+
+[^6]: IBM 6700 will not be offered until Summer 2027. The class of 2026 should take IBM 6600.
