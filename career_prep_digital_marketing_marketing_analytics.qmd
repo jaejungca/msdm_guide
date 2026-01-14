@@ -1269,23 +1269,23 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 ### What Is Mirco-Internship?
 
 > At Cal Poly Pomona, a micro-internship is a short-term, paid, project-based professional assignment (usually 5-40 hours) that lets students quickly gain hands-on experience, explore career paths, build skills, and network with employers, functioning as an alternative or precursor to traditional internships and available year-round, often remotely. These projects mimic tasks given to new hires, such as market research or content creation, and are managed through [Parker Dewey](https://info.parkerdewey.com/cpp) via the university's Innovation Incubator. 
->
-> -   [**Micro-Internship Office website**](https://www.cpp.edu/ii/micro-internships/about-micro-internships.shtml)
+
+-   [**Micro-Internship Office website**](https://www.cpp.edu/ii/micro-internships/about-micro-internships.shtml)
 
 ::: callout-note
 #### Facts:
 
-> Each year, several courses in the MSDM program incorporate Micro-Internships as part of the course experience. To date, IBM 6010, IBM 6100, and IBM 6300 have participated in the Micro-Internship initiative.
->
-> Below is a newsletter article highlighting the impact MSDM students made while supporting a nonprofit organization in advancing its mission.
+Each year, several courses in the MSDM program incorporate Micro-Internships as part of the course experience. To date, IBM 6010, IBM 6100, and IBM 6300 have participated in the Micro-Internship initiative.
+
+Below is a newsletter article highlighting the impact MSDM students made while supporting a nonprofit organization in advancing its mission.
 :::
 
 -   [***Micro-Internship, Major Impact: Business Students Drive Digital Marketing Strategy for Global Nonprofit***](https://www.cpp.edu/cba/news/micro-internship-msdm24.shtml) (A newsletter story)
 
-## Networking
+## Extra-Curricular Opportunities
 
 ### OptiMark Digital Marketing & Analytics Society
 
-It is MSDM students’ main co-curricular community, offering activities that complement the curriculum and support professional growth.
+> It is MSDM students’ main co-curricular community, offering activities that complement the curriculum and support professional growth.
 
 -   [Overview Slides](https://www.beautiful.ai/player/-OiugYa-TF_yHpi1_ZOX/)

@@ -173,7 +173,9 @@ Based on national research with professionals across the insights and data indus
 
             -   [Micro-Internship](career_prep_digital_marketing_marketing_analytics.qmd#micro-internship)
 
-        4.  [Networking](career_prep_digital_marketing_marketing_analytics.qmd#networking)
+        4.  Extra-Curricular Opportunities
+
+            -   [OptiMark Digital Marketing & Analytics Society](career_prep_digital_marketing_marketing_analytics.qmd#optimark-digital-marketing-analytics-society)
 
 2.  **MSDM Onboarding Guide**
 
@@ -275,6 +277,5 @@ Based on national research with professionals across the insights and data indus
 
     6.  Healthcare Communications & Marketing Scholarships
 
-7.  **Student Club**
 
 ------------------------------------------------------------------------
