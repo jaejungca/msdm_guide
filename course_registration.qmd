@@ -32,10 +32,10 @@ format:
 ## **Before You Register: What Every MSDM Student Should Know**
 
 ::: {.callout-tip title="Tips:"}
-1.  **If you are new to the MSDM program, schedule an advising meeting with your academic advisor**[^1] **and submit a [Curriculum Contract](curriculum_contract.qmd#appointment-for-curriculum-contract).**\
-    In this contract, you will select your [curriculum emphasis]{.underline} (Digital Marketing Strategy, Marketing Analytics, or Balanced) and your [completion roadmap]{.underline} (1-year or 2-year). Failure to submit the curriculum contract will lead to an academic hold placed on your account, which will prevent you from registering in future courses.
+1.  **If you are new to the MSDM program, you must submit a [Curriculum Contract Form](curriculum_contract.qmd#appointment-for-curriculum-contract). Consider scheduling an advising meeting with your academic advisor**[^1] **if you need help.**\
+    In this contract, you will select your [Degree Emphasis]{.underline} (Digital Marketing Strategy, Marketing Analytics, or Balanced/Customized) and your [Completion Roadmap Worksheet]{.underline}. Failure to submit the curriculum contract will lead to an academic hold placed on your account, which will prevent you from registering in future courses.
 
-2.  **Before registering each semester, refer to the signed Curriculum Contract you submitted to your academic advisor.**\
+2.  **Before registering each semester, refer to the [Curriculum Completion Roadmap Worksheet]{.underline} you submitted to your academic advisor.**\
     This will guide your course sequencing and ensure timely progress toward graduation.
 
 3.  **If you are in the first year of the 2-year completion roadmap, register only for first-year courses offered in that semester.**\
@@ -53,6 +53,9 @@ format:
 
 8.  **All MSDM courses are offered only once per academic year.**\
     If you miss a course in its designated term, you will need to wait until the same term the following year to take it.
+
+9.  **If the course is full, do not panic. Contact the program director (Dr. Jung).**\
+    If the course is full, it won't show up in your schedule unless you chose all courses (closed and open). By default, only open courses will show up. The program director and the CPGE staff (Jennifer Cousens) can assist you. Never choose a different course just because the course is full. We know you need to take the class to fulfill your contract, so we will do our best to help you.
 :::
 
 [^1]: Program director (Dr. Jung) is your academic advisor.
