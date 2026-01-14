@@ -1264,18 +1264,23 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 -   [VMock](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuUtsfiCyYE0&data=05%7C02%7Cjmjung%40cpp.edu%7C4ce0b1dfee2a45c1577c08de3815a181%7C164ba61e39ec4f5d89ffaa1f00a521b4%7C0%7C0%7C639009865682207188%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VdGY3nFi1zlxVOP2Hjlsv4JnlQiEgiM3fdzK8Ll2kMI%3D&reserved=0): AI-powered resume review support, including optimizing features to tailor to different job postings
 -   [Big Interview](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlQmW1KUaM3w%26t&data=05%7C02%7Cjmjung%40cpp.edu%7C4ce0b1dfee2a45c1577c08de3815a181%7C164ba61e39ec4f5d89ffaa1f00a521b4%7C0%7C0%7C639009865682219360%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Zm%2BO3AF7kP9QI5zzZi6%2F7VlvqX%2F%2FfyceY5F%2BLgR2wac%3D&reserved=0): AI-guided practice for both general and industry-specific interview questions
 
-## Micro-Internship
+## Micro-Internships
 
 ### What Is Mirco-Internship?
 
 > At Cal Poly Pomona, a micro-internship is a short-term, paid, project-based professional assignment (usually 5-40 hours) that lets students quickly gain hands-on experience, explore career paths, build skills, and network with employers, functioning as an alternative or precursor to traditional internships and available year-round, often remotely. These projects mimic tasks given to new hires, such as market research or content creation, and are managed through [Parker Dewey](https://info.parkerdewey.com/cpp) via the university's Innovation Incubator. 
+>
+> Below are some sites that gives you information about funding, how to apply, and issues related to international and DACA students.
 
--   [**Micro-Internship Office website**](https://www.cpp.edu/ii/micro-internships/about-micro-internships.shtml)
+-   [**Micro-Internships: Overview for Students**](https://www.cpp.edu/ii/micro-internships/for-students.shtml)
+-   [CPP Launches Micro-Internship Program Based on a \$1.7 Million Grant](https://www.cpp.edu/news/content/2025/02/cpp-launches-micro-internship-program-based-on-a-1.7-million-grant/index.shtml)
+
+### How It Has Been Adopted in MSDM Program?
 
 ::: callout-note
 #### Facts:
 
-Each year, several courses in the MSDM program incorporate Micro-Internships as part of the course experience. To date, IBM 6010, IBM 6100, and IBM 6300 have participated in the Micro-Internship initiative.
+Each year, several courses in the MSDM program incorporate Micro-Internships as part of the course experience. To date, **IBM 6010**, **IBM 6100**, and **IBM 6300** have participated in the Micro-Internship initiative.
 
 Below is a newsletter article highlighting the impact MSDM students made while supporting a nonprofit organization in advancing its mission.
 :::
