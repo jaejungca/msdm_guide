@@ -3,7 +3,7 @@ title: "MSDM Onboarding Steps for Admitted Students"
 subtitle: "From Admission to Curriculum Plan"
 description: "Welcome to MSDM! This page outlines the key steps you’ll take before the program begins, including important tasks, resources, and your final curriculum plan submission. Move through the sections in order to stay on track."
 image: images/msdm-crosswalk.png
-date: January 9, 2026
+date: January 14, 2026
 format: 
   html:
     toc: true
@@ -59,35 +59,43 @@ format:
 
 ## **Essential On-Campus Websites for New Students** {#essential-on-campus-websites}
 
-### The Websites You Need Immediately for Onboarding
+### The Resources You Need Immediately for Onboarding
 
-The list should cover all you need for onboarding, but if something is missing, let me know.
+> The list should cover all you need for onboarding at Cal Poly Pomona, but if something is missing, let me know.
 
--   [Activating Your Bronco Account](https://www.cpp.edu/it/2step/index.shtml)
+1.  [Activating Your Bronco Account](https://www.cpp.edu/it/2step/index.shtml)
 
--   [How to Submit Your Intent to Enroll](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/www.cpp.edu/admissions/graduate/intent-to-enroll-deposit-tutorial-cpge.pdf)
+2.  [How to Submit Your Intent to Enroll](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/www.cpp.edu/admissions/graduate/intent-to-enroll-deposit-tutorial-cpge.pdf)
 
--   [How to request I-20](https://www.cpp.edu/international/students/new-students/request-i-20.shtml) (International Students only)
+3.  [How to request I-20](https://www.cpp.edu/international/students/new-students/request-i-20.shtml) (International Students only)
 
--   [New Student Registration Guide](https://www.cpp.edu/studentsuccess/guides/new-student-registration.shtml)
+4.  [New Student Registration Guide](https://www.cpp.edu/studentsuccess/guides/new-student-registration.shtml)
 
--   [Admitted Graduate Checklist](https://www.cpp.edu/admissions/graduate/masters-admitted.shtml)
+5.  [Admitted Graduate Checklist](https://www.cpp.edu/admissions/graduate/masters-admitted.shtml)
 
--   [MSDM Course Registration for Spring 2026](https://jmjung.quarto.pub/career_prep/course_registration.html#year-1-spring)
+6.  [MSDM Course Registration for Spring 2026](https://jmjung.quarto.pub/career_prep/course_registration.html#year-1-spring)
 
--   [Financial Aid and Scholarships for Graduate Students](https://www.cpp.edu/financial-aid/graduate/newly-admitted-and-current.shtml)
+7.  [Financial Aid and Scholarships for Graduate Students](https://www.cpp.edu/financial-aid/graduate/newly-admitted-and-current.shtml)
 
--   [Public Class Schedule](https://schedule.cpp.edu/)
+8.  [Public Class Schedule](https://schedule.cpp.edu/)
 
--   [Handshake](https://cpp.joinhandshake.com/login)
+9.  On-Campus Jobs
 
--   [CPT](https://www.cpp.edu/international/students/u-s-employment/cpt.shtml#:~:text=CPT%20is%20employment%20that%20is,who%20meets%20the%20eligibility%20requirements.)
+    1.  [Handshake](https://cpp.joinhandshake.com/login) (Most jobs are posted here at CPP)
 
--   [MSDM Curriculum Page on the Official MSDM Site](https://www.cpp.edu/cba/sgsb/curriculum/new-msdm-curriculum.shtml)
+    2.  [Cal Poly Pomona Enterprises](https://secure6.saashr.com/ta/6041387.careers?CareersSearch=&ein_id=68100417&career_portal_id=4341766&lang=en-US)
 
--   [FAQs on the Official MSDM Site](https://www.cpp.edu/cba/graduate-business-programs/programs/frequently-asked-questions-master-degree-in-digital-marketing-and-marketing-analytics.shtml)
+10. [CPT](https://www.cpp.edu/international/students/u-s-employment/cpt.shtml#:~:text=CPT%20is%20employment%20that%20is,who%20meets%20the%20eligibility%20requirements.)
 
-### The Websites You Need Throughout Your Study
+11. [MSDM Curriculum Page on the Official MSDM Site](https://www.cpp.edu/cba/sgsb/curriculum/new-msdm-curriculum.shtml)
+
+12. [FAQs on the Official MSDM Site](https://www.cpp.edu/cba/graduate-business-programs/programs/frequently-asked-questions-master-degree-in-digital-marketing-and-marketing-analytics.shtml)
+
+### On-Campus Resources You Need Throughout Your Study
+
+> Revisit here to access the websites whenever you need throughout your learning journey.
+
+-   [SGSB New Student Orientation Slides](https://livecsupomona-my.sharepoint.com/:b:/g/personal/jmjung_cpp_edu/IQAuZN6vYLYkSpj7UxXD7R2_AUpEPLq6fsC3fzLxj_MPga8?e=5vl18X) (CPP Login Required)
 
 -   [Graduate Student Handbook 2025-2026](https://www.cpp.edu/gradstudies/graduate-student-handbook.shtml#academic-policies)
 
