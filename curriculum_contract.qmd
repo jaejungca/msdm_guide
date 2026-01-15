@@ -34,7 +34,7 @@ format:
 ::: callout-important
 **Congratulations** **on your acceptance into the program!** Welcome to the MSDM Admitted Student Resource Hub. This page provides essential information to help you transition smoothly into the program—from activating your accounts and submitting required documents to understanding curriculum options, choosing your degree emphasis, and planning your roadmap. Use this guide as your starting point to complete key onboarding tasks and explore the academic decisions that will shape your MSDM journey.
 
-**Most importantly,** you will need to meet with me to review the curriculum and finalize your decisions. To make the most of our 20-minute meeting, please come prepared by reviewing the curriculum, considering your roadmap options, and identifying any questions you would like to discuss. Thoughtful preparation will help us use our time together effectively.
+**Most importantly,** you will need to **meet** with **me** to review the curriculum and finalize your curriculum decisions **if this page doesn't give you enough information**. Please come prepared by reviewing the curriculum, considering your roadmap options, and identifying any questions you would like to discuss. Thoughtful preparation will help us use our time together effectively.
 :::
 
 ## **Key Actions You Must Take Soon after Your Admission**
@@ -57,9 +57,11 @@ format:
 
 8.  Register for courses.
 
-## **Helpful Websites for Admitted Students**
+## **Essential On-Campus Websites for New Students** {#essential-on-campus-websites}
 
-The list should cover all you need, but if something is missing, let me know.
+### The Websites You Need Immediately for Onboarding
+
+The list should cover all you need for onboarding, but if something is missing, let me know.
 
 -   [Activating Your Bronco Account](https://www.cpp.edu/it/2step/index.shtml)
 
@@ -81,9 +83,23 @@ The list should cover all you need, but if something is missing, let me know.
 
 -   [CPT](https://www.cpp.edu/international/students/u-s-employment/cpt.shtml#:~:text=CPT%20is%20employment%20that%20is,who%20meets%20the%20eligibility%20requirements.)
 
--   [MSDM Curriculum](https://www.cpp.edu/cba/sgsb/curriculum/new-msdm-curriculum.shtml)
+-   [MSDM Curriculum Page on the Official MSDM Site](https://www.cpp.edu/cba/sgsb/curriculum/new-msdm-curriculum.shtml)
 
--   [FAQs](https://www.cpp.edu/cba/graduate-business-programs/programs/frequently-asked-questions-master-degree-in-digital-marketing-and-marketing-analytics.shtml)
+-   [FAQs on the Official MSDM Site](https://www.cpp.edu/cba/graduate-business-programs/programs/frequently-asked-questions-master-degree-in-digital-marketing-and-marketing-analytics.shtml)
+
+### The Websites You Need Throughout Your Study
+
+-   [Graduate Student Handbook 2025-2026](https://www.cpp.edu/gradstudies/graduate-student-handbook.shtml#academic-policies)
+
+-   [Graduate Studies Forms](https://www.cpp.edu/gradstudies/current-students/forms.shtml)
+
+-   [Policies and Procedures](https://www.cpp.edu/gradstudies/current-students/policies-procedures.shtml)
+
+-   [Academic Calendars](https://www.cpp.edu/academic-programs/academic-calendar/)
+
+-   [Workshops and Tutorials](https://www.cpp.edu/gradstudies/current-students/workshops-and-tutorials.shtml)
+
+-   [Funding Opportunities](https://www.cpp.edu/gradstudies/current-students/funding.shtml)
 
 ## **Video Presentation about the Program & Curriculum**
 
