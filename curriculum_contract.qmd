@@ -203,7 +203,7 @@ format:
 
 In this contract form, you will be asked to do three big tasks:
 
-1.  **Selecting Your** [**degree emphasis:**]{.underline}
+1.  **Selecting Your** [**Degree Emphasis:**]{.underline}
 
     -   Digital Marketing Strategy (DMS),
 
@@ -211,7 +211,7 @@ In this contract form, you will be asked to do three big tasks:
 
     -   Balanced
 
-2.  **Selecting Your [completion roadmap]{.underline}**:
+2.  **Selecting Your [Completion Roadmap]{.underline}**:
 
     -   1-year
 
@@ -343,6 +343,40 @@ Based on the immediate career goal right after graduation, my recommendation for
 -   If you prefer to take **Analytics (Marketing Data Specialist) Roles**, such as Marketing Data Analytist, Marketing Data Scientist, and Marketing Data Engineer –\> choose **Marketing Analytics Emphasis**.
 :::
 
+### Pay (ROI) Considerations
+
+> For the early career stage of jobs you will be seeking right after graduation, we will focus on the three roles below, leaving out the strategy/leadership roles, which are the latter stage of your career.
+
+1.  **Content & Creative Roles**
+
+    -   **Content Marketer/Copywriter**: \$61,000 – \$73,660
+
+    -   **Social Media Manager**: \$64,000 – \$74,536
+
+2.  **Technical & Performance Roles**
+
+    -   **SEO Specialist** / Analyst**:** \$66,000 – \$81,407
+
+    -   **PPC / Paid Media Specialist:** \$70,000 - \$81,000
+
+    -   **Email / CRM Specialist**: \$79,911 – \$95,000
+
+3.  **Analytics Roles**
+
+    -   **Marketing Data Analyst**: \$82,000 – \$93,336
+    -   **Marketing Data Scientist**: \$118,000 – \$165,018
+    -   **Marketing Data Engineer:** \$134,000 – \$195,000
+
+> For details, go to the [Job Outlook and Salary](career_outlook_salary_digital_marketing.qmd#job-growth-rate-volume-and-salary) section.
+
+::: callout-tip
+#### Tips
+
+-   In general, Return On Investment is in this order: **Analtyics Roles** \> **Technical & Performance Roles** \> **Content & Creative Roles**.
+
+-   If you’re aiming for the highest ROI (typically, higher pay), **analytics roles** are often the best path. In that case, consider choosing the **Marketing Analytics Emphasis**.
+:::
+
 ### Upward mobility
 
 Many students pursue a master’s degree to advance their careers.
@@ -369,39 +403,7 @@ A common pattern is:
 -   If you handle data but lack confidence in statistics or machine learning → Strengthen your **Marketing Analytics** foundation.
 :::
 
-### Pay (ROI) Considerations
-
-> Salaries in digital marketing vary by role type (creative vs. performance vs. analytics vs. strategy/leadership), location, and experience level. For the early career stage of jobs you will be seeking right after graduation, I will focus on three roles, leaving out the strategy/leadership roles. For details, go to the [Job Outlook and Salary](career_outlook_salary_digital_marketing.qmd#job-growth-rate-volume-and-salary) section.
-
-1.  **Content & Creative Roles**
-
-    -   **Content Marketer/Copywriter**: \$61,000 – \$73,660
-
-    -   **Social Media Manager**: \$64,000 – \$74,536
-
-2.  **Technical & Performance Roles**
-
-    -   **SEO Specialist** / Analyst**:** \$66,000 – \$81,407
-
-    -   **PPC / Paid Media Specialist:** \$70,000 - \$81,000
-
-    -   **Email / CRM Specialist**: \$79,911 – \$95,000
-
-3.  **Analytics Roles**
-
-    -   **Marketing Data Analyst**: \$82,000 – \$93,336
-    -   **Marketing Data Scientist**: \$118,000 – \$165,018
-    -   **Marketing Data Engineer:** \$134,000 – \$195,000
-
-::: callout-tip
-#### Tips
-
--   In general, Return On Investment is in this order: **Analtyics Roles** \> **Technical & Performance Roles** \> **Content & Creative Roles**.
-
--   If you’re aiming for the highest ROI (typically, higher pay), **analytics roles** are often the best path. In that case, consider choosing the **Marketing Analytics Emphasis**.
-:::
-
-### Job Prospects (Domestic vs. International Students)
+### VISA Status (Domestic vs. International Students)
 
 #### Domestic Students
 
@@ -423,7 +425,7 @@ Face different hiring realities:
 In general, international students seeking U.S. employment are often better off choosing the **Marketing Analytics** emphasis or the **Balanced/Mixed** option.
 :::
 
-#### Strategic Consideration
+### Strategic Consideration
 
 You are not required to follow the recommended elective lists exactly. Choose the courses that best strengthen your skills and make you a well-rounded professional. We support a customized curriculum within the allowed electives. This makes the **Balanced/Mixed Option** attractive.
 
