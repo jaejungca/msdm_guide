@@ -371,69 +371,34 @@ A common pattern is:
 
 ### Pay (ROI) Considerations
 
-Salaries in digital marketing vary by role type (creative vs. performance vs. analytics vs. strategy/leadership), location, and experience level. The figures below are **U.S. national estimates** shown as:
-
--   **Blended average** = mean of **ZipRecruiter + Glassdoor + Salary.com**
-
--   **Typical range + top earners** = ZipRecruiter 25th–75th percentile, plus 90th percentile (where available)
-
-> **Tip for students:** Use these as directional benchmarks, then check “in your area” estimates and real internship/job postings in your target city.
-
-Below are the salary information as of **January 6, 2026**.
+> Salaries in digital marketing vary by role type (creative vs. performance vs. analytics vs. strategy/leadership), location, and experience level. For the early career stage of jobs you will be seeking right after graduation, I will focus on three roles, leaving out the strategy/leadership roles. For details, go to the [Job Outlook and Salary](career_outlook_salary_digital_marketing.qmd#job-growth-rate-volume-and-salary) section.
 
 1.  **Content & Creative Roles**
 
-    -   **Content Writer / SEO Writer** — **Blended avg:** **\~\$80K** (ZipRecruiter \$84,151; Glassdoor \~\$84K; Salary.com \$72,912).\
-        ZipRecruiter typical **\$49K–\$96.5K**; top earners **\$186K**.
+    -   **Content Marketer/Copywriter**: \$61,000 – \$73,660
 
-    -   **Copywriter** — **Blended avg:** **\~\$79K** (ZipRecruiter \$76,412; Glassdoor \$86,199; Salary.com \$73,481).\
-        ZipRecruiter typical **\$58K–\$86.5K**; top earners **\$121.5K**.
-
-    -   **Social Media Manager** — **Blended avg:** **\~\$83K** (ZipRecruiter \$64,845; Glassdoor \$71,474; Salary.com \$112,750).\
-        ZipRecruiter typical **\$47.5K–\$76.5K**; top earners **\$95.5K**.\
-        *Note:* Salary.com’s figure is much higher here, which is why the blended average rises. (Not “wrong,” just a different data/model mix.) [[Salary.com]{.underline}](https://www.salary.com/research/salary/alternate/social-media-manager-salary?utm_source=chatgpt.com){alt="https://www.salary.com/research/salary/alternate/social-media-manager-salary?utm_source=chatgpt.com"}
-
-    -   **Graphic Designer** — **Blended avg:** **\~\$63K** (ZipRecruiter \$55,951; Glassdoor \$63,801; Salary.com \$69,387).\
-        ZipRecruiter typical **\$41.5K–\$65K**; top earners **\$77.5K**.
-
-    -   **Visual Designer (often UI/UX-leaning)** — **Blended avg:** **\~\$91K** (ZipRecruiter \$97,173; Glassdoor \$105,186; Salary.com \$71,867).\
-        ZipRecruiter typical **\$71.5K–\$120.5K**; top earners **\$160K**.
+    -   **Social Media Manager**: \$64,000 – \$74,536
 
 2.  **Technical & Performance Roles**
 
-    -   **SEO Specialist** — **Blended avg:** **\~\$84K** (ZipRecruiter \$67,388; Glassdoor \$85,944; Salary.com \$99,062).\
-        ZipRecruiter typical **\$53K–\$75K**; top earners **\$90K**.
+    -   **SEO Specialist** / Analyst**:** \$66,000 – \$81,407
 
-    -   **Paid Search / PPC Specialist** — **Blended avg:** **\~\$77K** (ZipRecruiter *Paid Search Specialist* \$56,423; Glassdoor *Paid Search Specialist* \$82,605; Salary.com *Paid Search Specialist* \$92,325).\
-        ZipRecruiter typical **\$46K–\$66K**; top earners **\$77K**.\
-        *Note:* looking at **Paid Search / SEM** titles across sources generally produces a higher (and often more realistic) benchmark than the narrower “PPC Specialist” label alone. [[Glassdoor]{.underline}](https://www.glassdoor.com/Salaries/paid-search-specialist-salary-SRCH_KO0%2C22.htm?utm_source=chatgpt.com){alt="https://www.glassdoor.com/Salaries/paid-search-specialist-salary-SRCH_KO0%2C22.htm?utm_source=chatgpt.com"}
+    -   **PPC / Paid Media Specialist:** \$70,000 - \$81,000
 
-    -   **Email Marketing Specialist** — **Blended avg:** **\~\$73K** (ZipRecruiter \$69,583; Glassdoor \$76,107; Salary.com \$72,172).\
-        ZipRecruiter typical **\$54.5K–\$78K**; top earners **\$111K**.
-
-    -   *(In job postings, PPC is also commonly labeled “Paid Search,” “SEM Specialist,” or “Performance Marketing.”)*
+    -   **Email / CRM Specialist**: \$79,911 – \$95,000
 
 3.  **Analytics Roles**
 
-    -   **Marketing Data Analyst** — **Blended avg:** **\~\$82K** (ZipRecruiter \$92,811; Glassdoor \$82,855; Salary.com \$71,188).\
-        ZipRecruiter typical **\$72K–\$112K**; top earners **\$129.5K**.
-    -   **Marketing Data Scientist** — **Blended avg:** **\~\$137K** (ZipRecruiter \$165,018; Glassdoor \$127,657; **Salary.com Data Scientist** \$118,402 used as closest comparable national benchmark).\
-        ZipRecruiter typical **\$133.5K–\$170K**; top earners **\$243K**. [[ZipRecruiter]{.underline}](https://www.ziprecruiter.com/Salaries/Marketing-Data-Scientist-Salary?utm_source=chatgpt.com){alt="https://www.ziprecruiter.com/Salaries/Marketing-Data-Scientist-Salary?utm_source=chatgpt.com"}
-        -   *Note:* Salary.com’s page labeled exactly “Marketing Data Scientist” appears to map to a much lower pay band than what ZipRecruiter/Glassdoor show for the same title, so using Salary.com’s **Data Scientist** benchmark is usually closer to market reality for this role family.
-    -   **Data Scientist (general)** — **Blended avg:** **\~\$132K** (ZipRecruiter \$122,738; Glassdoor \$153,566; Salary.com \$118,402).\
-        ZipRecruiter typical **\$98.5K–\$136K**; top earners **\$173K**.
-
-4.  **Strategy & Leadership Roles (often mid-career+)**
-
-    -   **Digital Marketing Manager** — **Blended avg:** **\~\$111K** (ZipRecruiter \$87,719; Glassdoor \$130,412; Salary.com \$115,281).\
-        ZipRecruiter typical **\$68.5K–\$100K**; top earners **\$122K**.
-    -   **Marketing Manager** — **Blended avg:** **\~\$104K** (ZipRecruiter \$83,488; Glassdoor \$106,785; Salary.com \$121,659).\
-        ZipRecruiter typical **\$60K–\$98K**; top earners **\$125K**.
+    -   **Marketing Data Analyst**: \$82,000 – \$93,336
+    -   **Marketing Data Scientist**: \$118,000 – \$165,018
+    -   **Marketing Data Engineer:** \$134,000 – \$195,000
 
 ::: callout-tip
 #### Tips
 
-If you’re aiming for the highest ROI (typically, higher pay), **analytics roles** are often the best path. In that case, consider choosing the **Marketing Analytics emphasis**.
+-   In general, Return On Investment is in this order: **Analtyics Roles** \> **Technical & Performance Roles** \> **Content & Creative Roles**.
+
+-   If you’re aiming for the highest ROI (typically, higher pay), **analytics roles** are often the best path. In that case, consider choosing the **Marketing Analytics Emphasis**.
 :::
 
 ### Job Prospects (Domestic vs. International Students)
