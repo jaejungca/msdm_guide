@@ -42,8 +42,8 @@ website:
       - text: Onboarding Guide
         #href: curriculum_contract.qmd
         menu:
-          - text: Helpful websites
-            href: curriculum_contract.qmd#helpful-websites-for-admitted-students
+          - text: Essential On-Campus Websites
+            href: curriculum_contract.qmd#essential-on-campus-websites
           - text: Info Session Recording
             href: curriculum_contract.qmd#video-presentation-about-the-program-curriculum
           - text: Step 1 - Start Filling Out Curriculm Contract Form
