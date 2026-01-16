@@ -54,7 +54,7 @@ If you plan to work in the U.S. after graduation using OPT/STEM OPT, it’s impo
 
 Many MSDM international students plan to work in the U.S. after graduation using **OPT/STEM OPT**. Because the MSDM program is STEM-designated, eligible students may have up to **3 years of work authorization** (OPT + STEM OPT). If you plan to work beyond that period, most students will eventually need an employer-supported option such as **H-1B** (or another long-term work path).
 
-### 1) Understand the employer “lift”: OPT/STEM OPT vs. H-1B
+## Understand the employer “lift”: OPT/STEM OPT vs. H-1B
 
 It helps to separate two employer decisions:
 
@@ -66,7 +66,7 @@ It helps to separate two employer decisions:
 >
 > A company may be willing to hire on OPT/STEM OPT but may not be willing (or able) to support H-1B later. Treat these as **two separate questions** in your job search.
 
-### 2) Role strategy: which digital marketing paths tend to be more “sponsorship-friendly”?
+## Role strategy: which digital marketing paths tend to be more “sponsorship-friendly”?
 
 Sponsorship is always employer- and role-specific, but **in general**, roles with clearer “specialized skill + degree alignment” tend to have stronger sponsorship potential.
 
@@ -88,7 +88,7 @@ Sponsorship is always employer- and role-specific, but **in general**, roles wit
 
     -   Why: These roles can be excellent careers, but employers may view many of them as more generalist, and sponsorship is often less common in smaller orgs/agencies that hire heavily in these areas.
 
-### 3) Skills that increase sponsorship odds (add under each role group)
+## Skills that increase sponsorship odds (add under each role group)
 
 These are practical “signals” students can build into coursework, projects, and portfolios.
 
@@ -116,7 +116,7 @@ These are practical “signals” students can build into coursework, projects, 
 
 -   Forecasting/marketing mix modeling/measurement frameworks
 
-### 4) How to ask recruiters the right question (script)
+## How to ask recruiters the right question (script)
 
 Use a direct, professional line that separates OPT from long-term sponsorship:
 
@@ -130,7 +130,7 @@ Good follow-ups (optional):
 
 -   “If sponsorship is possible, when do you typically start the process?”
 
-### 5) How to align your curriculum with long-term U.S. work goals
+## How to align your curriculum with long-term U.S. work goals
 
 If your top priority is maximizing long-term work options, students are often best served by:
 
