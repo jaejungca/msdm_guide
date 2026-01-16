@@ -88,6 +88,8 @@ Sponsorship is always employer- and role-specific, but **in general**, roles wit
 
     -   Why: These roles can be excellent careers, but employers may view many of them as more generalist, and sponsorship is often less common in smaller orgs/agencies that hire heavily in these areas.
 
+> For more about job roles above and guidance for international students, visit [Typical Job Roles in Digital Marketing](career_outlook_salary_digital_marketing.qmd#typical-job-titles).
+
 ## Skills that increase sponsorship odds (add under each role group)
 
 These are practical “signals” students can build into coursework, projects, and portfolios.
@@ -139,6 +141,8 @@ If your top priority is maximizing long-term work options, students are often be
 -   Choosing a **Balanced/Mixed** path **but intentionally building technical depth** (SQL, analytics implementation, automation, experimentation, BI).
 
 > If you prefer **Digital Marketing Strategy**, you can still succeed—just be intentional about adding “specialized” signals through projects (measurement, experiments, dashboards, technical tooling) so your profile isn’t purely generalist.
+>
+> For more details about how to align your curriculum with your long-term employment in the U.S., please see [**VISA Status (Domestic vs. International Students)**](curriculum_contract#visa-status-domestic-vs.-international-students) **section.**
 
 ::: callout-tip
 ## Summary & Conclusion:
