@@ -325,7 +325,29 @@ In the first fall semester, Spring admits can take:
 
 Choosing between **Digital Marketing Strategy, Marketing Analytics,** and **Balanced/Mixed Option** requires careful thought. Below are key factors to guide your decision.
 
-### Post-Graduation Career Goal
+### VISA Status (Domestic vs. International Students)
+
+#### Domestic Students
+
+Generally secure employment after completing the program, if flexible with pay.
+
+#### International Students
+
+Face different hiring realities:
+
+-   Companies must demonstrate they cannot fill the job with a U.S. citizen to sponsor an H-1B Visa.
+
+-   U.S. candidates are plentiful in creative and implementation roles (social media, digital marketing execution).
+
+-   Fewer U.S. candidates pursue STEM-related analytics roles, making international students **more competitive in jobs in Analytics Roles and Technical & Performance Roles**.
+
+::: callout-tip
+#### Bottom line:
+
+In general, international students seeking U.S. employment are often better off choosing the **Marketing Analytics** emphasis or the **Balanced/Mixed** option.
+:::
+
+### Your Passion
 
 Entry to mid-level career jobs in Digital Marketing can be grouped under three big categories before they move into leadership roles. For details about the taxonomy, refer to [Typical Job Roles in Digital Marketing](career_outlook_salary_digital_marketing.qmd#typical-job-titles).
 
@@ -373,7 +395,7 @@ Based on the immediate career goal right after graduation, my recommendation for
 ::: callout-tip
 #### Tips
 
--   In general, Return On Investment is in this order: **Analtyics Roles** \> **Technical & Performance Roles** \> **Content & Creative Roles**.
+-   In general, Return On Investment is in this order: **Analytics Roles** \> **Technical & Performance Roles** \> **Content & Creative Roles**.
 
 -   If you’re aiming for the highest ROI (typically, higher pay), **analytics roles** are often the best path. In that case, consider choosing the **Marketing Analytics Emphasis**.
 :::
@@ -402,28 +424,6 @@ A common pattern is:
 -   If you already have several years of digital marketing experience → Consider **Marketing Analytics** courses.
 
 -   If you handle data but lack confidence in statistics or machine learning → Strengthen your **Marketing Analytics** foundation.
-:::
-
-### VISA Status (Domestic vs. International Students)
-
-#### Domestic Students
-
-Generally secure employment after completing the program, if flexible with pay.
-
-#### International Students
-
-Face different hiring realities:
-
--   Companies must demonstrate they cannot fill the job with a U.S. citizen to sponsor an H-1B Visa.
-
--   U.S. candidates are plentiful in creative and implementation roles (social media, digital marketing execution).
-
--   Fewer U.S. candidates pursue STEM-related analytics roles, making international students **more competitive in jobs in Analytics Roles and Technical & Performance Roles**.
-
-::: callout-tip
-#### Bottom line:
-
-In general, international students seeking U.S. employment are often better off choosing the **Marketing Analytics** emphasis or the **Balanced/Mixed** option.
 :::
 
 ### Strategic Consideration
