@@ -24,18 +24,10 @@ website:
 
       - text: Careers
         menu: 
-          - text: Career Outlook
-            href: career_outlook_salary_digital_marketing.qmd#career-outlook
-          - text: Typical Job Titles
-            href: career_outlook_salary_digital_marketing.qmd#typical-job-titles
-          - text: Active Job Postings
-            href: career_outlook_salary_digital_marketing.qmd#active-job-postings
-          - text: Job Outlook and Salary
-            href: career_outlook_salary_digital_marketing.qmd#job-growth-rate-volume-and-salary
-          - text: Skills and Knowledge for DMS Careers
-            href: career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-dms-careers
-          - text: Skills and Knowledge for Analytics Careers
-            href: career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-analytics-careers
+          - text: Career Options, Outlook, Salary
+            href: career_outlook_salary_digital_marketing.qmd
+          - text: Career Readiness Guide
+            href: career_prep_digital_marketing_marketing_analytics.qmd
           - text: Career Readiness Resources
             href: career_prep_digital_marketing_marketing_analytics.qmd#career-readiness-resources
 
