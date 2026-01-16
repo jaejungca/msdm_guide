@@ -323,28 +323,46 @@ In the first fall semester, Spring admits can take:
 
 ## **Step 4: Consider These Factors When Choosing Degree Emphasis** {#factors-to-consider-when-choosing-degree-emphasis}
 
-Choosing between **Digital Marketing Strategy, Marketing Analytics,** and **Balanced/Mixed Option** requires careful thought. Below are key factors to guide your decision.
+Choosing between **Digital Marketing Strategy, Marketing Analytics,** and **Balanced/Customized Option** requires careful thought. Below are key factors to guide your decision.
 
 ### VISA Status (Domestic vs. International Students)
 
 #### Domestic Students
 
-Generally secure employment after completing the program, if flexible with pay.
+Domestic students typically face fewer constraints in hiring. Job outcomes depend mainly on experience, skill fit, and flexibility on role, location, and compensation.
 
 #### International Students
 
-Face different hiring realities:
+International students often face different hiring realities:
 
--   Companies must demonstrate they cannot fill the job with a U.S. citizen to sponsor an H-1B Visa.
+**A. OPT/STEM OPT is usually “easier” for employers than H-1B**
 
--   U.S. candidates are plentiful in creative and implementation roles (social media, digital marketing execution).
+-   During OPT/STEM OPT, you already have work authorization, so many employers can hire you with relatively low legal burden.
 
--   Fewer U.S. candidates pursue STEM-related analytics roles, making international students **more competitive in jobs in Analytics Roles and Technical & Performance Roles**.
+-   For **STEM OPT**, employers must be in **E-Verify** and support the student’s **Form I-983 training plan** requirements.
+
+**B. H-1B is employer-sponsored and more demanding**
+
+-   H-1B requires the employer to file an H-1B petition for a **“specialty occupation”** role (typically one that requires a bachelor’s degree or higher in a **specific specialty**).
+
+-   Employers must also file a **Labor Condition Application (LCA)** and attest to wage and working condition requirements.
+
+**C. Hiring on OPT and sponsoring H-1B are often different decisions**
+
+-   An employer may be willing to hire for OPT/STEM OPT but not sponsor H-1B because H-1B involves legal filings, fees, compliance obligations, and (for many employers) timing uncertainty.
 
 ::: callout-tip
-#### Bottom line:
+#### Bottom line (General guidance):
 
-In general, international students seeking U.S. employment are often better off choosing the **Marketing Analytics** emphasis or the **Balanced/Mixed** option.
+If your priority is maximizing long-term U.S. work options, you are often better positioned in roles that clearly align with **specialized, degree-linked skills**—especially **analytics** and **more technical performance/MarTech** roles.
+
+-   **Marketing Analytics emphasis**: generally strongest alignment with “specialty occupation” patterns (measurement, experimentation, modeling, data work).
+
+-   **Balanced/Mixed option**: a strong second choice if you intentionally build technical/analytics depth (e.g., SQL, analytics implementation, experimentation, BI).
+
+-   **Digital Marketing Strategy emphasis**: can still lead to great careers, but sponsorship can be less common in roles that are primarily creative, coordination, or generalist execution—because degree specificity may be harder to document.
+
+***Note***: This is general information, not legal advice. Sponsorship depends on the employer, the exact job description, and current rules.
 :::
 
 ### Your Passion

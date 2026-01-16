@@ -79,6 +79,14 @@ These roles focus on the "what"—the actual assets users see and interact with.
 
 -   **Graphic / Visual Designer:** Creates the visual identity for ads, social posts, and email templates.
 
+::: callout-tip
+## Career note for international students (general guidance):
+
+These roles can be great careers, but **H-1B sponsorship is often less common** because many positions don’t consistently require a highly specialized degree and are more frequently offered by smaller teams or agencies.
+
+***Disclaimer***: This is general information, not legal advice. Visa policies and sponsorship decisions depend on the employer, the specific job description, and current regulations.
+:::
+
 **2. Technical & Performance Roles**
 
 These roles focus on the "how"—the data, algorithms, and paid spend that get the content in front of the right people.
@@ -89,9 +97,28 @@ These roles focus on the "how"—the data, algorithms, and paid spend that get t
 
 -   **Email Marketing Specialist:** Designs and automates email campaigns, segments customer lists, and tracks open rates.
 
+::: callout-note
+## Career note for international students (general guidance):
+
+Sponsorship likelihood varies a lot here. Roles that emphasize **analytics implementation, marketing technology, automation, and data (e.g., SQL, tagging, dashboards, experimentation)** tend to align better with H-1B patterns than roles that are primarily creative or campaign coordination.
+
+***Disclaimer***: This is general information, not legal advice. Visa policies and sponsorship decisions depend on the employer, the specific job description, and current regulations.
+:::
+
 **3. Marketing Data Specialist Breakdown (U.S.)**
 
--   **Marketing Analyst / Data Scientist:** Interprets data from all channels to tell the team what’s working and where money is being wasted.
+These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
+
+-   **Marketing Analyst / Digital Marketing Analyst**: Analyzes performance across channels (web, paid media, email, social) to identify what’s working and where to improve.
+-   **Marketing Data Scientist**: Builds statistical or machine learning models for marketing (e.g., attribution, forecasting, customer segmentation, experimentation).
+
+::: callout-important
+## Career note for international students (general guidance):
+
+These roles are **often the most H-1B-friendly** in digital marketing because they more clearly map to specialized, degree-linked skill sets (statistics, analytics, data science, computing), and because larger employers who sponsor are more likely to hire for these positions.
+
+***Disclaimer***: This is general information, not legal advice. Visa policies and sponsorship decisions depend on the employer, the specific job description, and current regulations.
+:::
 
 ::: callout-caution
 "Data Scientist" and "Data Analyst" roles often seem "missing" from digital marketing tables because they occupy a unique **cross-functional space**.
