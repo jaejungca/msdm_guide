@@ -153,7 +153,9 @@ Based on national research with professionals across the insights and data indus
 
     2.  **Career Prep Guide**
 
-        1.  Digital Marketing Strategy Execution Jobs
+        1.  [Career Guidance for Internatoinal Students](career_prep_digital_marketing_marketing_analytics.qmd#career-guidance-for-international-students) 
+
+        2.  Digital Marketing Strategy Execution Jobs
 
             -   [Skills and Knowledge for DMS Careers](career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-dms-careers)
 
@@ -161,19 +163,19 @@ Based on national research with professionals across the insights and data indus
 
             -   [How to Prepare for DMS Careers](career_prep_digital_marketing_marketing_analytics.qmd#how-to-prepare-for-dms-careers)
 
-        2.  Marketing Analytics Jobs
+        3.  Marketing Analytics Jobs
 
             -   [Skills and Knowledge for MA Careers](career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-analytics-careers)
 
             -   [Comparisons between MA Job Roles](career_prep_digital_marketing_marketing_analytics.qmd#marketing-analysts-vs.-marketing-data-scientists-comparisons)
 
-        3.  Career Readiness Resources
+        4.  Career Readiness Resources
 
             -   [Career Center](career_prep_digital_marketing_marketing_analytics.qmd#career-center)
 
             -   [Micro-Internships](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships)
 
-        4.  Extra-Curricular Opportunities
+        5.  Extra-Curricular Opportunities
 
             -   [OptiMark Digital Marketing & Analytics Society](career_prep_digital_marketing_marketing_analytics.qmd#optimark-digital-marketing-analytics-society)
 

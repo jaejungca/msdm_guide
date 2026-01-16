@@ -6,7 +6,7 @@ image: images/msdm-crosswalk.png
 author: 
   - name: "MSDM Faculty"
     affiliation: "Cal Poly Pomona"
-date: January 9, 2025
+date: January 16, 2025
 format: 
   html:
     toc: true
@@ -42,6 +42,114 @@ Digital Marketing and Marketing Analytics offer exciting, high-impact career pat
 Please note that **coursework alone may not provide complete proficiency in every tool or skill you hope to master**. To become truly career-ready, you should make a concerted effort to train yourself beyond the classroom.
 
 Take advantage of the many extracurricular opportunities—workshops, symposiums, guest speakers, and more—offered by the ***Center for Customer Insights and Digital Marketing***, ***the MSDM Club***, and programs across the university. These experiences will deepen your learning and help you stand out in a competitive marketplace.
+:::
+
+::: callout-caution
+## For International Students:
+
+If you plan to work in the U.S. after graduation using OPT/STEM OPT, it’s important to understand that employers often treat **short-term hiring (OPT/STEM OPT)** and **long-term sponsorship (such as H-1B)** as two separate decisions. Roles that emphasize **analytics, measurement, marketing technology, and automation** may provide more opportunities for long-term sponsorship than purely creative or generalist execution roles. See the “Guidance for International Students” section below for practical strategies and recruiter questions.
+:::
+
+# **Career Guidance for International Students** {#career-guidance-for-international-students}
+
+Many MSDM international students plan to work in the U.S. after graduation using **OPT/STEM OPT**. Because the MSDM program is STEM-designated, eligible students may have up to **3 years of work authorization** (OPT + STEM OPT). If you plan to work beyond that period, most students will eventually need an employer-supported option such as **H-1B** (or another long-term work path).
+
+### 1) Understand the employer “lift”: OPT/STEM OPT vs. H-1B
+
+It helps to separate two employer decisions:
+
+-   **Hiring you on OPT/STEM OPT (short-term work authorization):** Often easier for employers because you already have work authorization. (STEM OPT does add some employer requirements such as E-Verify participation and a training plan.)
+
+-   **Supporting H-1B (long-term work authorization):** Often a bigger decision because it requires legal filings, fees, and compliance—and depends on the role being a good fit for H-1B criteria.
+
+> **Bottom Line:**
+>
+> A company may be willing to hire on OPT/STEM OPT but may not be willing (or able) to support H-1B later. Treat these as **two separate questions** in your job search.
+
+### 2) Role strategy: which digital marketing paths tend to be more “sponsorship-friendly”?
+
+Sponsorship is always employer- and role-specific, but **in general**, roles with clearer “specialized skill + degree alignment” tend to have stronger sponsorship potential.
+
+-   **Marketing Data & Analytics roles (often strongest alignment)**
+
+    -   Examples: Digital Marketing Analyst, Marketing Analyst, Marketing Data Scientist
+
+    -   Why: Typically more clearly tied to specialized training (analytics, statistics, computing, experimentation).
+
+-   **Technical & Performance roles (mixed; strongest when they’re truly technical)**
+
+    -   Examples: SEO Specialist, PPC Specialist, Email/CRM Specialist
+
+    -   Why: These can become more sponsorship-aligned when the job includes **measurement, tagging, automation, data, and systems** (MarTech/CRM/analytics implementation).
+
+-   **Content & Creative roles (often more challenging for sponsorship)**
+
+    -   Examples: Social Media Manager, Content Writer, Copywriter, Designer
+
+    -   Why: These roles can be excellent careers, but employers may view many of them as more generalist, and sponsorship is often less common in smaller orgs/agencies that hire heavily in these areas.
+
+### 3) Skills that increase sponsorship odds (add under each role group)
+
+These are practical “signals” students can build into coursework, projects, and portfolios.
+
+**Content & Creative — skills to stand out**
+
+-   Portfolio with measurable outcomes (CTR, engagement growth, conversions)
+
+-   SEO fundamentals + basic GA4 reporting
+
+-   Light data skills: Excel/Sheets, simple dashboards, A/B test mindset
+
+**Technical & Performance — skills that move you into the “more sponsor-friendly” zone**
+
+-   SQL (even basic) + GA4 + tag management (GTM)
+
+-   Marketing automation/CRM tooling (HubSpot, Marketo, Salesforce Marketing Cloud)
+
+-   Experimentation and reporting (lift tests, conversion tracking, attribution basics)
+
+**Marketing Data & Analytics — strongest sponsor signal skills**
+
+-   SQL + Python/R + statistics/experiment design
+
+-   BI tools (Tableau/Power BI/Looker) + data storytelling
+
+-   Forecasting/marketing mix modeling/measurement frameworks
+
+### 4) How to ask recruiters the right question (script)
+
+Use a direct, professional line that separates OPT from long-term sponsorship:
+
+>  “I’m authorized to work on OPT/STEM OPT after graduation. Does your company also support work visa sponsorship (H-1B or other) for this role family?”
+
+Good follow-ups (optional):
+
+-   “Have you sponsored for this role type before (analytics / marketing ops / data)?”
+
+-   “Is your policy different by role, team, or location?”
+
+-   “If sponsorship is possible, when do you typically start the process?”
+
+### 5) How to align your curriculum with long-term U.S. work goals
+
+If your top priority is maximizing long-term work options, students are often best served by:
+
+-   Choosing **Marketing Analytics** emphasis, **or**
+
+-   Choosing a **Balanced/Mixed** path **but intentionally building technical depth** (SQL, analytics implementation, automation, experimentation, BI).
+
+> If you prefer **Digital Marketing Strategy**, you can still succeed—just be intentional about adding “specialized” signals through projects (measurement, experiments, dashboards, technical tooling) so your profile isn’t purely generalist.
+
+::: callout-tip
+## Summary & Conclusion:
+
+Many MSDM international students plan to work in the U.S. using OPT/STEM OPT after graduation. While OPT/STEM OPT provides work authorization for a limited period, continuing to work in the U.S. longer-term may require an employer-supported option (often H-1B or another pathway). Because employers may be willing to hire on OPT/STEM OPT but not pursue sponsorship later, international students should be especially intentional about (1) targeting role families with stronger sponsorship patterns (often **analytics** and more technical **performance/MarTech** roles), (2) building a portfolio that demonstrates specialized, degree-linked skills (e.g., **SQL, experimentation, dashboards, automation**), and (3) asking recruiters early whether the company supports sponsorship for the role.
+:::
+
+::: callout-warning
+## Disclaimer
+
+*This is general career guidance, not legal advice. Visa options and sponsorship decisions depend on the employer, the job description, and current regulations.*
 :::
 
 # **Skills Employers Look for in Digital Marketing Roles** {#skills-and-knowledge-for-dms-careers}
