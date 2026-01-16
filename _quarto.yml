@@ -24,11 +24,11 @@ website:
 
       - text: Careers
         menu: 
-          - text: Career Options, Outlook, Salary
+          - text: Career Options, Outlook, & Salary
             href: career_outlook_salary_digital_marketing.qmd
           - text: Career Readiness Guide
             href: career_prep_digital_marketing_marketing_analytics.qmd
-          - text: Career Readiness Resources
+          - text: Career Development Resources
             href: career_prep_digital_marketing_marketing_analytics.qmd#career-readiness-resources
 
       - text: Onboarding Guide
