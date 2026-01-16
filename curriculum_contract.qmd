@@ -225,6 +225,10 @@ In this contract form, you will be asked to do three big tasks:
 #### Start Working on the Curriculum Contract Form
 
 -   [**Curriculum Contract Form**](https://docs.google.com/forms/d/e/1FAIpQLScVZmiDXi5ACscy7zVIbynt3YLxrxB6bxnYR1kHMEO_8itxaQ/viewform?usp=dialog) (Google Form)
+
+<!-- -->
+
+-   [**Failure to submit the curriculum contract and roadmap worksheet will result in an academic hold**]{style="color: red; font-weight: bold;"}, which will prevent you from registering for future courses.
 :::
 
 ::: callout-tip
@@ -350,15 +354,12 @@ Based on the immediate career goal right after graduation, my recommendation for
 1.  **Content & Creative Roles**
 
     -   **Content Marketer/Copywriter**: \$61,000 – \$73,660
-
     -   **Social Media Manager**: \$64,000 – \$74,536
 
 2.  **Technical & Performance Roles**
 
     -   **SEO Specialist** / Analyst**:** \$66,000 – \$81,407
-
     -   **PPC / Paid Media Specialist:** \$70,000 - \$81,000
-
     -   **Email / CRM Specialist**: \$79,911 – \$95,000
 
 3.  **Analytics Roles**
@@ -476,6 +477,8 @@ As you prepare for your curriculum contract and make an appointment to meet with
 > Use one of the ***worksheets*** below to plan your curriculum roadmap for the duration of your study. As you plan, be sure to follow the [Course Registration Instructions](course_registration.qmd#before-you-register-what-every-msdm-student-should-know).
 >
 > For more information about the **curriculum completion roadmap**, see the [Curriculum Roadmap Section](#curriculum-new-curriculum).
+>
+> [**Failure to submit the curriculum contract and roadmap worksheet will result in an academic hold**]{style="color: red; font-weight: bold;"}, which will prevent you from registering for future courses.
 
 ### Fall-Admitted Students
 
@@ -498,6 +501,8 @@ As you prepare for your curriculum contract and make an appointment to meet with
 3.  Once I receive an email with your Curriculum Roadmap Worksheet, I will review it and ***give you feedback***.
 
 4.  Your Curriculum Worksheet will be placed under your folder. If you ever needs to change curriculum later, contact me. I will be happy to discuss with you and assisting you in finding best courses for your career path.
+
+5.  [**Failure to submit the curriculum contract and roadmap worksheet will result in an academic hold**]{style="color: red; font-weight: bold;"}, which will prevent you from registering for future courses.
 
 ## **Step 8: Register for Courses** {#register-for-courses}
 

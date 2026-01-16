@@ -42,6 +42,8 @@ website:
       - text: Onboarding Guide
         #href: curriculum_contract.qmd
         menu:
+          - text: Key Actions You Must take
+            href: curriculum_contract.qmd#key-actions-you-must-take-soon-after-your-admission
           - text: Essential On-Campus Websites
             href: curriculum_contract.qmd#essential-on-campus-websites
           - text: Info Session Recording
