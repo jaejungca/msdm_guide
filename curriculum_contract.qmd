@@ -530,7 +530,7 @@ As you prepare for your curriculum contract and make an appointment to meet with
 
 1.  Before registering each semester, review your **Curriculum Completion Roadmap Worksheet**. It helps you plan course sequencing and stay on track for graduation.
 
-2.  For detailed on courses available for a specific semester, go to the [**Course Registration**](course_registration.qmd)tab in the menu.
+2.  For detailed on courses available for a specific semester, go to the [**Course Registration**](course_registration.qmd) tab in the menu.
 
 3.  After you register for your first semester, consider taking [**Boot Camp short courses**](msdm_bootcamp.qmd) if you'd like to strengthen your skills in Excel or R (including Statistics).
 
