@@ -197,7 +197,11 @@ format:
 
 ## **Step 1: Start Filling out Curriculum Contract Form** {#appointment-for-curriculum-contract}
 
-> **To plan for your curriculum, fill out the Curriculum Contract Form available below. If you have any question about the curriculum, you are welcome to schedule an appointment with your academic advisor**[^1] **before you complete the Curriculum Contract Form below.**
+> **To plan for your curriculum, fill out the Curriculum Contract Form available below.**
+>
+> -   To complete the form, you will need to read through ***Step 1 through Step 6***.
+>
+> **If you have any question about the curriculum, you are welcome to schedule an appointment with your academic advisor**[^1] **before you complete the Curriculum Contract Form below.**
 
 [^1]: Program director (Dr. Jung) is your academic advisor.
 
@@ -209,7 +213,7 @@ In this contract form, you will be asked to do three big tasks:
 
     -   Marketing Analytics (MA)
 
-    -   Balanced
+    -   Balanced/Customized
 
 2.  **Selecting Your [Completion Roadmap]{.underline}**:
 
@@ -219,32 +223,32 @@ In this contract form, you will be asked to do three big tasks:
 
     -   2-year
 
-3.  **Planing [your roadmap with worksheet](#plan-your-roadmap-with-worksheets) and sending it to the academic advisor.**
+3.  **Complete [your Roadmap Worksheet](#plan-your-roadmap-with-worksheets) and sending it to the academic advisor.**
 
 ::: callout-important
 #### Start Working on the Curriculum Contract Form
 
 -   [**Curriculum Contract Form**](https://docs.google.com/forms/d/e/1FAIpQLScVZmiDXi5ACscy7zVIbynt3YLxrxB6bxnYR1kHMEO_8itxaQ/viewform?usp=dialog) (Google Form)
 
-<!-- -->
+-   Submit the **curriculum contract form** above online and email a completed **roadmap spreadsheet** to your academic advisor, who is the MSDM program director.
 
--   [**Failure to submit the curriculum contract and roadmap worksheet will result in an academic hold**]{style="color: red; font-weight: bold;"}, which will prevent you from registering for future courses.
+-   [**Failure to submit the (1) curriculum contract and (2) roadmap worksheet will result in an academic hold**]{style="color: red; font-weight: bold;"}, which will prevent you from registering for future courses.
 :::
 
 ::: callout-tip
 ### Tips
 
-In deciding the two things above, refer to the next four sections, which are listed below
+In deciding the three things above, refer to the following Steps:
 
--   [**Curriculum (New Curriculum)**](#curriculum-new-curriculum)
+-   [Step 2: Know the Curriculum (Degree Emphasis) Options](#curriculum-new-curriculum)
 
--   [**Curriculum Roadmaps**](#curriculum-roadmaps)
+-   [Step 3: Know Curriculum Completion Roadmap Options](#curriculum-roadmaps)
 
--   [**Factors to Consider When Choosing Degree Emphasis**](#factors-to-consider-when-choosing-degree-emphasis)
+-   [Step 4: Which Curriculum Option to Choose?](#factors-to-consider-when-choosing-degree-emphasis)
 
--   [**Choosing a 1-Year vs. 2-Year Roadmap**](#choosing-a-1-year-vs.-2-year-roadmap)
+-   [Step 5: Which Roadmap to Choose?](#choosing-a-1-year-vs.-2-year-roadmap)
 
-Once you made an informed decision. fill out the **curriculum contract form** below and email a **roadmap spreadsheet** to your academic advisor, who is the MSDM program director.
+-   [Step 6: Complete Your Roadmap Worksheet](#plan-your-roadmap-with-worksheets)
 :::
 
 ## **Step 2: Know the Curriculum (Degree Emphasis) Options** {#curriculum-new-curriculum}
@@ -321,7 +325,7 @@ In the first fall semester, Spring admits can take:
 
 -   IBM 6200 (Required for second fall)
 
-## **Step 4: Consider These Factors When Choosing Degree Emphasis** {#factors-to-consider-when-choosing-degree-emphasis}
+## **Step 4: Which Curriculum Opton to Choose?** {#factors-to-consider-when-choosing-degree-emphasis}
 
 Choosing between **Digital Marketing Strategy, Marketing Analytics,** and **Balanced/Customized Option** requires careful thought. Below are key factors to guide your decision.
 
@@ -448,7 +452,7 @@ A common pattern is:
 
 You are not required to follow the recommended elective lists exactly. Choose the courses that best strengthen your skills and make you a well-rounded professional. We support a customized curriculum within the allowed electives. This makes the **Balanced/Mixed Option** attractive.
 
-## **Step 5: Consider These Factors in Choosing a 1-Year vs. 2-Year Roadmap** {#choosing-a-1-year-vs.-2-year-roadmap}
+## **Step 5: Which Completion Roadmap to Choose?** {#choosing-a-1-year-vs.-2-year-roadmap}
 
 As you prepare for your curriculum contract and make an appointment to meet with me, I want to provide you with some information to consider in your decision to choose a 1-year vs. a 2-year completion roadmap. 
 
@@ -490,7 +494,7 @@ As you prepare for your curriculum contract and make an appointment to meet with
 
     -   One-year students save approximately **\$2,100**
 
-## **Step 6: Plan Your Roadmap with Worksheets** {#plan-your-roadmap-with-worksheets}
+## **Step 6: Complete Your Roadmap Worksheet** {#plan-your-roadmap-with-worksheets}
 
 > Use one of the ***worksheets*** below to plan your curriculum roadmap for the duration of your study. As you plan, be sure to follow the [Course Registration Instructions](course_registration.qmd#before-you-register-what-every-msdm-student-should-know).
 >
@@ -510,11 +514,11 @@ As you prepare for your curriculum contract and make an appointment to meet with
 
     -   Two worksheet options (2-year and 1.5-year tracks) are included in the file.
 
-## **Step 7: Submit the Curriculum Contract Form and Curriculum Worksheet to Your Advisor** {#submit-curriculum-contract-and-roadmap-worksheet}
+## **Step 7: Submit the (1) Curriculum Contract Form and (2) Curriculum Worksheet to Your Advisor** {#submit-curriculum-contract-and-roadmap-worksheet}
 
-1.  Fill out the ***Curriculum Contract form*** introduced in [the Start Filling out Curriculum Contract Form section](#appointment-for-curriculum-contract). When you click the submit button on the Google form, your advisor will receive the form. At the same time, you will receive a copy for your reference.
+1.  Fill out the ***Curriculum Contract form*** introduced in [the Start Filling out Curriculum Contract Form section](#appointment-for-curriculum-contract). When you click the **submit button** on the Google form, your advisor will receive the form. At the same time, you will receive a copy for your reference.
 
-2.  In the form, you will be asked to fill out a ***Curriculum Roadmap Worksheet*** (Excel spreadsheet) and send it to the academic advisor ([Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)). To do so, download the file, save it with your first name_last name in front of the file name, choose the correct worksheet for your roadmap, fill out the worksheet, and email the completed worksheet to the academic advisor.
+2.  In the form, you will be asked to fill out a ***Curriculum Roadmap Worksheet*** (Excel spreadsheet) and **email** it as an attachment to the academic advisor ([Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)). To do so, download the file, save it with your first name_last name in front of the file name, choose the correct worksheet for your roadmap, fill out the worksheet, and email the completed worksheet to the academic advisor.
 
 3.  Once I receive an email with your Curriculum Roadmap Worksheet, I will review it and ***give you feedback***.
 
