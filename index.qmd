@@ -129,7 +129,7 @@ Based on national research with professionals across the insights and data indus
 
 1.  **Career Outlook & Guide**
 
-    1.  **Career Outlook**
+    1.  **Career Options, Outlook, and Salary**
 
         1.  [Career Outlook](career_outlook_salary_digital_marketing.qmd#career-outlook)
 
@@ -151,7 +151,7 @@ Based on national research with professionals across the insights and data indus
 
             6.  [Key Financial Insights](career_outlook_salary_digital_marketing.qmd#key-financial-insights)
 
-    2.  **Career Prep Guide**
+    2.  **Career Preparation Guide**
 
         1.  [Career Guidance for Internatoinal Students](career_prep_digital_marketing_marketing_analytics.qmd#career-guidance-for-international-students) 
 
@@ -169,9 +169,11 @@ Based on national research with professionals across the insights and data indus
 
             -   [Comparisons between MA Job Roles](career_prep_digital_marketing_marketing_analytics.qmd#marketing-analysts-vs.-marketing-data-scientists-comparisons)
 
-        4.  Career Readiness Resources
+        4.  On-Campus Support Resources
 
             -   [Career Center](career_prep_digital_marketing_marketing_analytics.qmd#career-center)
+
+            -   [CBA Career Hub](career_prep_digital_marketing_marketing_analytics.qmd#cba-career-hub)
 
             -   [Micro-Internships](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships)
 
