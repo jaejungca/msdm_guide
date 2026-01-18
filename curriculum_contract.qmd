@@ -73,7 +73,7 @@ format:
 
 5.  [Admitted Graduate Checklist](https://www.cpp.edu/admissions/graduate/masters-admitted.shtml)
 
-6.  [MSDM Course Registration for Spring 2026](https://jmjung.quarto.pub/career_prep/course_registration.html#year-1-spring)
+6.  [MSDM Course Registration for Spring 2026](course_registration.qmd#year-1-spring)
 
 7.  [Financial Aid and Scholarships for Graduate Students](https://www.cpp.edu/financial-aid/graduate/newly-admitted-and-current.shtml)
 
