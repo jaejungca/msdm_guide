@@ -131,25 +131,27 @@ Based on national research with professionals across the insights and data indus
 
     1.  Introduction
 
-    2.  Apply Checklist
+    2.  Video Presentation about the Program & Curriculum
 
-    3.  University Overview
+    3.  Apply Checklist
 
-    4.  College & Program Overview
+    4.  University Overview
 
-    5.  Curriculum & Completion Roamap Options
+    5.  College & Program Overview
 
-    6.  Target Digital Marketing Career Roles
+    6.  Curriculum & Completion Roamap Options
 
-    7.  Key Features and Costs
+    7.  Target Digital Marketing Career Roles
 
-    8.  Prograam Support Environment
+    8.  Key Features and Costs
 
-    9.  Real-World Experience & Network
+    9.  Prograam Support Environment
 
-    10. More Information & Contacts
+    10. Real-World Experience & Network
 
-    11. Frequently Asked Questions
+    11. More Information & Contacts
+
+    12. Frequently Asked Questions
 
 2.  **Career Outlook & Guide**
 
@@ -211,25 +213,23 @@ Based on national research with professionals across the insights and data indus
 
     2.  [Essential On-Campus Websites](curriculum_contract.qmd#essential-on-campus-websites)
 
-    3.  [Video Presentation about the Program & Curriculum](curriculum_contract.qmd#video-presentation-about-the-program-curriculum)
-
-    4.  [Step 1: Start Filling out **Curriculum Contract Form**](curriculum_contract.qmd#appointment-for-curriculum-contract)
+    3.  [Step 1: Start Filling out **Curriculum Contract Form**](curriculum_contract.qmd#appointment-for-curriculum-contract)
 
         -   **Curriculum Contract Form**
 
-    5.  [Step 2: Know the Curriculum (Degree Emphasis) Options](curriculum_contract.qmd#curriculum-new-curriculum)
+    4.  [Step 2: Know the Curriculum (Degree Emphasis) Options](curriculum_contract.qmd#curriculum-new-curriculum)
 
-    6.  [Step 3: Know Curriculum Completion Roadmap Options](curriculum_contract.qmd#curriculum-roadmaps)
+    5.  [Step 3: Know Curriculum Completion Roadmap Options](curriculum_contract.qmd#curriculum-roadmaps)
 
-    7.  [Step 4: Which Curriculum Option to Choose?](curriculum_contract.qmd#factors-to-consider-when-choosing-degree-emphasis)
+    6.  [Step 4: Which Curriculum Option to Choose?](curriculum_contract.qmd#factors-to-consider-when-choosing-degree-emphasis)
 
-    8.  [Step 5: Which Completion Roadmap to Choose?](curriculum_contract.qmd#choosing-a-1-year-vs.-2-year-roadmap)
+    7.  [Step 5: Which Completion Roadmap to Choose?](curriculum_contract.qmd#choosing-a-1-year-vs.-2-year-roadmap)
 
-    9.  [Step 6: Complete Your Roadmap Worksheet](curriculum_contract.qmd#plan-your-roadmap-with-worksheets)
+    8.  [Step 6: Complete Your Roadmap Worksheet](curriculum_contract.qmd#plan-your-roadmap-with-worksheets)
 
-    10. [Step 7: Submit Curriculum Contract Form and Roadmap Worksheet to Your Advisor](curriculum_contract.qmd#submit-curriculum-contract-and-roadmap-worksheet)
+    9.  [Step 7: Submit Curriculum Contract Form and Roadmap Worksheet to Your Advisor](curriculum_contract.qmd#submit-curriculum-contract-and-roadmap-worksheet)
 
-    11. [Step 8: Register for Courses](curriculum_contract.html#register-for-courses)
+    10. [Step 8: Register for Courses](curriculum_contract.html#register-for-courses)
 
 4.  **Course Registration**
 
