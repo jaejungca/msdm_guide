@@ -48,6 +48,8 @@ If you’re deciding whether to apply, this page walks through the university co
 
 To apply, you’ll typically prepare:
 
+### Required:
+
 -   Transcripts (unofficial is commonly acceptable for review; official required after enrollment)
 
     -   A 4-year bachelor’s degree (or equivalent)
@@ -62,15 +64,25 @@ To apply, you’ll typically prepare:
 
 -   (For International students only): English proficiency documentation if applicable
 
--   Optional:
+    -   Cal Poly Pomona English Language Institute (CPELI) offers English learning programs. CPELI level 6 is acceptable for satisfying CPP English proficiency requirement of SGSB graduate program admission purpose. Details can be found at <https://www.cpp.edu/cpeli/>.
 
-    -   Portfolio,
+### Optional:
 
-    -   Project samples,
+-   Portfolio,
 
-    -   Certifications,
+-   Project samples,
 
-    -   GMAT/GRE scores (if you have them)
+-   Certifications,
+
+-   GMAT/GRE scores (if you have them)
+
+### Application Deadlines
+
+-   Application Deadline for Fall Admission: July 1 (May 1 for international students)
+
+-   Application Deadline for Spring Admission: November 1 (October 1 for international students)
+
+### Where to Apply:
 
 ## University Overview
 
