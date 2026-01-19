@@ -38,13 +38,13 @@ execute:
   freeze: auto
 ---
 
-## [**Introduction**]{style="color: #069494; font-weight: bold; font-size: 30px;"}
+## [Introduction]{style="color: #069494; font-weight: bold; font-size: 30px;"}
 
-Cal Poly Pomona’s **Master of Science in Digital Marketing (MSDM)** is designed for people who want a graduate degree that blends **digital marketing strategy** with **marketing analytics**—so you can both *execute marketing effectively* and *use data to guide decisions*. The program is housed in the **College of Business Administration** and supported by the **Center for Customer Insights and Digital Marketing**.
+Cal Poly Pomona’s Master of Science in Digital Marketing (MSDM) is designed for people who want a graduate degree that blends digital marketing strategy with marketing analytics—so you can both *execute marketing effectively* and *use data to guide decisions*. The program is housed in the College of Business Administration and supported by the Center for Customer Insights and Digital Marketing.
 
 If you’re deciding whether to apply, this page walks through the university context, program structure, admissions requirements, costs, support, real-world experiences, and the most common questions prospective students ask.
 
-## Apply Checklist
+## **Apply Checklist**
 
 To apply, you’ll typically prepare:
 
@@ -64,6 +64,12 @@ To apply, you’ll typically prepare:
 
 -   (For International students only): English proficiency documentation if applicable
 
+    -   TOEFL score of 550 (paper-based), 213 (computer-based) or 80 (internet-based)
+
+    -   IELTS of 6.5 or above
+
+    -   Duolingo Test 105 and above 
+
     -   Cal Poly Pomona English Language Institute (CPELI) offers English learning programs. CPELI level 6 is acceptable for satisfying CPP English proficiency requirement of SGSB graduate program admission purpose. Details can be found at <https://www.cpp.edu/cpeli/>.
 
 ### Optional:
@@ -76,21 +82,23 @@ To apply, you’ll typically prepare:
 
 -   GMAT/GRE scores (if you have them)
 
-### Application Deadlines
+### Application Deadlines:
 
--   Application Deadline for Fall Admission: July 1 (May 1 for international students)
+-   Fall Admission: July 1 (May 1 for international students)
 
--   Application Deadline for Spring Admission: November 1 (October 1 for international students)
+-   Spring Admission: November 1 (October 1 for international students)
 
 ### Where to Apply:
 
-## University Overview
+Submit all the application document at [**Cal State Apply**](https://www.calstate.edu/apply/graduate). Look for the MSDM Program under Cal Poly Pomona Extended University.
+
+## **University Overview**
 
 Cal Poly Pomona is located about **30 miles east of downtown Los Angeles**, in the city of Pomona. The university includes **nine colleges** and about **29,000 students**.
 
 CPP is known for its polytechnic, **“learn by doing”** approach—combining theory with practical, hands-on learning. The university is also recognized for a strong combination of **quality and affordability**, along with a diverse student body and accessibility across Southern California.
 
-## College & Program Overview
+## **College & Program Overview**
 
 The **College of Business Administration** includes **200+ faculty** and **5,000+ students**, and the business programs are **AACSB-accredited** (a distinction held by a small percentage of business schools worldwide). The college includes six departments, and the MSDM program is housed in **International Business & Marketing**.
 
@@ -100,7 +108,7 @@ The MSDM program was created through the **Center for Customer Insights and Digi
 
 This program is offered in partnership with a university unit that supports **enrollment and tuition services**. The academic program itself is run through the College of Business Administration and aligns with AACSB standards. This structure exists because the program is **self-support** (not state-funded), and the partnership helps manage enrollment and outstanding student services.
 
-## Curriculum & Admissions
+## **Curriculum & Admissions**
 
 ### What you’ll learn (Student Learning Outcomes)
 
@@ -118,6 +126,11 @@ By graduation, you’ll be able to:
 -   **Electives: 14 units (3 Options)**
     -   You can choose electives for either (1) **Digital Marketing Strategy** emphasis or (2) **Marketing Analytics** emphasis.
     -   Alternatively, you can choose a (3) **Balanced/Customized** option by taking a mix of courses from both emphases to tailor one's needs for target career roles and get the best of both worlds.
+-   **Culminating Experience Project (Capstone / CEP)**\
+    The program includes a **multi-semester client project**. Student teams work with a faculty lead across three semesters:
+    -   **Fall:** proposal and project plan
+    -   **Spring:** data analysis and recommendations
+    -   **Summer:** digital marketing plan implementation, results observation, and reflection
 
 ### Completion Roadmaps
 
@@ -136,16 +149,6 @@ By graduation, you’ll be able to:
 
 -   **1.5-Year Roadmap**\
     A compressed, very intensive course work only for the fall semester. This is best for students without a full-time job.
-
-### Culminating Experience Project (Capstone / CEP)
-
-The program includes a **multi-semester client project**. Student teams work with a faculty lead across three semesters:
-
--   **Fall:** proposal and project plan
-
--   **Spring:** data analysis and recommendations
-
--   **Summer:** digital marketing plan implementation, results observation, and reflection
 
 ## Career Roles & Curriculum Options
 
@@ -189,16 +192,8 @@ Sponsorship likelihood varies a lot here. Roles that emphasize **analytics imple
 
 These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
 
--   **Marketing Analyst / Digital Marketing Analyst**: Analyzes performance across channels (web, paid media, email, social) to identify what’s working and where to improve.
--   **Marketing Data Scientist**: Builds statistical or machine learning models for marketing (e.g., attribution, forecasting, customer segmentation, experimentation).
-
-**Which One Should You Choose?**
-
-> The main difference between these roles isn't just the data they look at, but the **tools** they use and the **math** they perform:
->
-> -   **Marketing Analyst:** Uses **Excel, Google Analytics, and Tableau**. They are great at storytelling and explaining "what happened" to the marketing team.
->
-> -   **Marketing Data Scientist:** Uses **Python, R, and SQL**. They build machine learning models to automate marketing decisions, such as "dynamic pricing" (like how Uber prices change during rain).
+-   **Marketing Analyst / Digital Marketing Analyst**: Analyzes performance across channels (web, paid media, email, social) to identify what’s working and where to improve. Uses **Excel, Google Analytics, and Tableau**. They are great at storytelling and explaining "what happened" to the marketing team
+-   **Marketing Data Scientist**: Builds statistical or machine learning models for marketing (e.g., attribution, forecasting, customer segmentation, experimentation). Uses **Python, R, and SQL**. They build machine learning models to automate marketing decisions, such as "dynamic pricing" (like how Uber prices change during rain).
 
 ::: callout-important
 ## Career note for international students (general guidance):
@@ -230,7 +225,7 @@ Based on the immediate target career roles right after graduation, my recommenda
 -   If you prefer to take **Analytics (Marketing Data Specialist) Roles**, such as Marketing Data Analytist, Marketing Data Scientist, and Marketing Data Engineer –\> choose **Marketing Analytics Emphasis**.
 :::
 
-## Key Features & Costs
+## **Key Features & Costs**
 
 ### Program format (onsite program)
 
@@ -252,7 +247,7 @@ The program is **STEM-designated**, which can be especially valuable for interna
 
 **Out-of-state tuition note:** Students outside California pay the **same per-unit tuition** in this program structure as California residents.
 
-## Program Support Environment
+## **Program Support Environment**
 
 Students are supported through:
 
@@ -278,7 +273,7 @@ Students are supported through:
 
 -   **Healthcare Communications & Marketing Scholarships**
 
-## Real-World Experience & Network
+## **Real-World Experience & Network**
 
 ### Micro-internships (course-embedded, sometimes paid)
 
@@ -304,12 +299,24 @@ Students build **portfolio websites** showcasing digital marketing and analytics
 
 The MSDM student club is being developed and formalized, creating opportunities for leadership roles and peer community building.
 
-## Contacts
+## **More Information & Contacts**
 
--   **Program & curriculum questions:** Program Director (Dr. Jae Jang)
--   **Registration/tuition/services:** Program Manager (Ashley Cutright)
+### More Information:
 
-## Frequently Asked Questions
+-   **Official MSDM Website**: The official [**MSDM website at CPP domain**](https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml) has official information about the program.
+
+    -   [**Frequently Asked Questions on the official site**](https://www.cpp.edu/cba/sgsb/frequently-asked-questions/frequently-asked-questions-master-degree-in-digital-marketing-and-marketing-analytics.shtml): This site has a lot of FAQ items that are not provided on this page.
+
+-   **MSDM Mailing List**: Consider adding your email to the [MSDM mailing list](https://www.cpp.edu/cba/sgsb/rfi-forms/msdm-rfi.shtml) for periodic timely information for events.
+
+-   **MSDM Information Session**: We offer a virtual information session periodically via Zoom. Contact [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml) if you don't see it at[**Singelyn Graduate School Information Sessions**](https://www.cpp.edu/cba/sgsb/schedule.shtml)**.**
+
+### Contacts:
+
+-   **Program & curriculum questions:** Program Director ([Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml))
+-   **Registration/tuition/services:** Program Manager (Ashley Cartwright)
+
+## **Frequently Asked Questions**
 
 ### What is the MSDM program designed to prepare students for?
 
