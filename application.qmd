@@ -233,7 +233,7 @@ Cal Poly Pomona (CPP) ranks highly as a top public university in the West, often
 Rankings can vary by publication and year, but CPP consistently appears as a leading polytechnic and regional university, especially strong in value, social mobility, and specific programs like engineering. 
 :::
 
-## **College & Program Overview**
+## **Colleges & Program Overview**
 
 The **College of Business Administration** includes **200+ faculty** and **5,000+ students**, and is **AACSB-accredited** (a distinction held by a small percentage (\~6%) of business schools worldwide). The college includes six departments and **Singelyn Graduate School of Business**, and the MSDM program is housed in **International Business & Marketing**.
 
@@ -268,11 +268,18 @@ By graduation, you’ll be able to:
 ### Program Structure (34 units)
 
 -   **Core required courses: 20 units**
--   **Electives: 14 units (3 Options)**
-    -   You can choose electives for either (1) **Digital Marketing Strategy** emphasis or (2) **Marketing Analytics** emphasis.
-    -   Alternatively, you can choose a (3) **Balanced/Customized** option by taking a mix of courses from both emphases to tailor one's needs for target career roles and get the best of both worlds.
+
+-   **Electives: 14 units (3 Options):**
+
+    You can choose electives for either
+
+    -   \(1\) **Digital Marketing Strategy** emphasis or
+    -   \(2\) **Marketing Analytics** emphasis or
+    -   \(3\) **Balanced/Customized** option (by taking a mix of courses from both emphases to tailor one's needs for target career roles and get the best of both worlds.)
+
 -   **Culminating Experience Project (Capstone / CEP)**\
     The program includes a **multi-semester client project**. Student teams work with a faculty lead across three semesters:
+
     -   **Fall:** proposal and project plan
     -   **Spring:** data analysis and recommendations
     -   **Summer:** digital marketing plan implementation, results observation, and reflection
@@ -372,13 +379,25 @@ Based on the immediate target career roles right after graduation, my recommenda
 
 ## **Key Features & Costs**
 
-### Program format (onsite program)
+### Three Curriculum Options:
 
-This is an **onsite** program (you must be able to commute), but it uses a **hybrid approach** where up to **50% of class time may be virtual**. For example, in a 15-week semester, a course could meet 8 weeks in person and 7 weeks on Zoom.
+-   \(1\) **Digital Marketing Strategy** emphasis or
+-   \(2\) **Marketing Analytics** emphasis or
+-   \(3\) **Balanced/Customized** option
 
 ### STEM designation (important for international students)
 
-The program is **STEM-designated**, which can be especially valuable for international students because it may extend post-graduation OPT eligibility (from 1 year to up to 3 years total).
+The program is **STEM-designated**, which can be especially valuable for international students because it may extend post-graduation OPT eligibility (from 1 year to up to 3 years total).Program Type (onsite program, not online)
+
+### Comletion Time
+
+-   Fall admission: 1-year or 2-year
+
+-   Spring admission: 1.5 years or 2-year
+
+### Program Type: Onsite (not online)
+
+This is an **onsite** program (you must be able to commute), but it uses a **hybrid class modality** where up to **50% of class time may be virtual**. For example, in a 15-week semester, a course could meet 8 weeks in person and 7 weeks on Zoom.
 
 ### Tuition & fees (as explained in the info session)
 
@@ -390,65 +409,75 @@ The program is **STEM-designated**, which can be especially valuable for interna
     -   **\$30,150** for one-year completion
     -   **\$32,250** for two-year completion due to additional term fees
 
-**Out-of-state tuition note:** Students outside California pay the **same per-unit tuition** in this program structure as California residents.
+::: callout-important
+### Out-of-state tuition note:
+
+Students outside California pay the **same per-unit tuition** in this program structure as California residents.
+:::
 
 ## **Program Support Environment**
 
 Students are supported through:
 
--   Program guidance on curriculum and planning
+-   **Program guidance on curriculum and planning**
 
--   Financial aid resources
+-   **Scholarships**
 
--   On-campus job opportunities (many students find campus jobs and work across departments; jobs are typically posted through Handshake)
+    -   **Recruitment scholarship:** no separate application (evaluated based on your admission materials)
 
-### Scholarships and Assistantships
+    -   **Professional development scholarship:** typically after at least one semester; may support certifications
 
--   **Recruitment scholarship:** no separate application (evaluated based on your admission materials)
+    -   **Merit-based scholarship:** typically after at least one semester; the graduate school sends application calls
 
--   **Professional development scholarship:** typically after at least one semester; may support certifications
+    -   **LOGRAR/PPOHA Grant**
 
--   **Merit-based scholarship:** typically after at least one semester; the graduate school sends application calls
+    -   **LOGRAR Travel Request for Funding**
 
--   **TA/RA assistantships:** limited availability; often arranged through faculty hiring needs
+    -   **Healthcare Communications & Marketing Scholarships**
 
--   **LOGRAR/PPOHA Grant**
+-   **Assistantships**
 
--   **LOGRAR Travel Request for Funding**
+    -   **TA:** Contact professors who teach IBM 3012 (Principles of Marketing Management).
 
--   **Healthcare Communications & Marketing Scholarships**
+    -   **RA:** limited availability. Look at opportunities on [Handshake](https://careercenter.cpp.edu/channels/handshake-101/) or [Cal Poly Pomona Enterprises website](https://cppenterprises.org/services/employment-services/employment-opportunities/).
 
-## **Real-World Experience & Network**
+-   **Financial aid resources**
 
-### Micro-internships (course-embedded, sometimes paid)
+    -   <https://www.cpp.edu/financial-aid/index.shtml>
 
-Some courses include **micro-internship experiences** that involve working with a real client. In examples shared, students completed client-facing work, met weekly with the client, and received compensation while completing class projects.
+-   **On-campus job opportunities** (many students find campus jobs and work across departments; jobs are typically posted through Handshake)
 
-For international students, when a micro-internship is required as part of a course, exceptions may apply regarding timing for work authorization processes.
+    -   [Handshake](https://careercenter.cpp.edu/channels/handshake-101/)
 
-### Center events and professional exposure
+-   **Jobs for International Students**
 
-Through the Center and college initiatives, students can access:
+    -   CPT (after 2 semesters or earlier if CPT is required for micro-internship offered by a course)
 
--   Research seminars and virtual workshops
+    -   OPT (up to 3 years)
 
--   Expert speaker events
+-   **Micro-internships** (small-scale, course-embedded, paid internship )
 
--   A spring Innovation Symposium bringing business leaders, advisory board members, alumni, and partners together
+    Some courses include [**micro-internship experiences**](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships) that involve working with a real client. In examples shared, students completed client-facing work, met weekly with the client, and received compensation while completing class projects.
 
-### Portfolio development
+    For **international students**, when a micro-internship is required as part of a course, exceptions to CTP applys regarding timing for work authorization processes.
 
-Students build **portfolio websites** showcasing digital marketing and analytics projects, dashboards/visualizations, and professional materials like resumes.
+-   **Student Club**: [**OptiMark Digital Marketing & Analytics Soceity**](career_prep_digital_marketing_marketing_analytics.qmd#optimark-digital-marketing-analytics-society), an MSDM student club.
 
-### Student community
+-   [**Research Seminar**](https://www.cpp.edu/cba/customer-insights-lab/research/seminar/index.shtml)
 
-The MSDM student club is being developed and formalized, creating opportunities for leadership roles and peer community building.
+-   [**Virtual Workshops**](https://www.cpp.edu/cba/customer-insights-lab/resources/virtual-workshops/index.shtml)
+
+-   [**Expert Speaker Series**](https://www.cpp.edu/cba/customer-insights-lab/industry-partnership/speakers/index.shtml)
+
+-   [**Innovation Symposium**](https://www.cpp.edu/cba/symposium.shtml)
 
 ## **More Information & Contacts**
 
 ### More Information:
 
--   **Official MSDM Website**: The official [**MSDM website at CPP domain**](https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml) has official information about the program.
+-   **Official MSDM Website**:
+
+    -   The official [**MSDM website at CPP domain**](https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml) has official information about the program.
 
     -   [**Frequently Asked Questions on the official site**](https://www.cpp.edu/cba/sgsb/frequently-asked-questions/frequently-asked-questions-master-degree-in-digital-marketing-and-marketing-analytics.shtml): This site has a lot of FAQ items that are not provided on this page.
 
