@@ -253,55 +253,6 @@ With CPGE support, students benefit from:
 
 -   **Global & lifelong learning opportunities:** Connect with peers and professionals locally and abroad through CPGE’s global programs.
 
-## **Curriculum & Completion Roadmap Options**
-
-### What you’ll learn (Student Learning Outcomes)
-
-By graduation, you’ll be able to:
-
--   Translate marketing problems into research questions or hypotheses
--   Apply consumer psychology and behavior concepts to real marketing problems
--   Build models and make **data-informed marketing recommendations**
--   Develop an effective digital marketing plan
--   Communicate clearly in writing and presentations
-
-### Program Structure (34 units)
-
--   **Core required courses: 20 units**
-
--   **Electives: 14 units (3 Options):**
-
-    You can choose electives for either
-
-    -   \(1\) **Digital Marketing Strategy** emphasis or
-    -   \(2\) **Marketing Analytics** emphasis or
-    -   \(3\) **Balanced/Customized** option (by taking a mix of courses from both emphases to tailor one's needs for target career roles and get the best of both worlds.)
-
--   **Culminating Experience Project (Capstone / CEP)**\
-    The program includes a **multi-semester client project**. Student teams work with a faculty lead across three semesters:
-
-    -   **Fall:** proposal and project plan
-    -   **Spring:** data analysis and recommendations
-    -   **Summer:** digital marketing plan implementation, results observation, and reflection
-
-### Completion Roadmaps
-
-#### Fall Admission:
-
--   **2-Year Roadmap**\
-    Typically about **6 units per semester** and is designed to be manageable for many working professionals.
-
--   **1-Year Roadmap**\
-    A compressed, very intensive option that combines the first- and second-year load. This is best for students without a full-time job.
-
-#### Spring Admission:
-
--   **2-Year Roadmap**\
-    Typically about **6 units per semester** and is designed to be manageable for many working professionals.
-
--   **1.5-Year Roadmap**\
-    A compressed, very intensive course work only for the fall semester. This is best for students without a full-time job.
-
 ## **Target Digital Marketing Career Roles**
 
 Digital marketing is a vast field where roles are typically categorized by the **channel** they manage (like social media or email) or the **level of strategy** involved. Here is a breakdown of typical jobs in digital marketing categorized by specialization and seniority.
@@ -366,6 +317,43 @@ As you move up the ladder, the focus shifts from "doing" to "planning." These ar
 -   **Chief Marketing Officer (CMO):** The highest executive level, responsible for the brand’s total marketing vision and budget.
 
 ::: callout-tip
+For detailed information about Job Outlook and Salary, see [**Digital Marketing & Analytics Job Outlook**](career_outlook_salary_digital_marketing.qmd#digital-marketing-analytics-job-outlook).
+:::
+
+## **Curriculum & Completion Roadmap Options**
+
+### Expeced Student Learning Outcomes
+
+By graduation, you’ll be able to:
+
+-   Translate marketing problems into research questions or hypotheses
+-   Apply consumer psychology and behavior concepts to real marketing problems
+-   Build models and make **data-informed marketing recommendations**
+-   Develop an effective digital marketing plan
+-   Communicate clearly in writing and presentations
+
+### Curriculum Options (34 units)
+
+> While a [detailed description of the curriculum](curriculum_contract.qmd#curriculum-new-curriculum) can be found on a section of Onboarding Guide, here is a concise overview of the curriculum structure.
+
+-   **Core required courses: 20 units**
+
+-   **Electives: 14 units (3 Options):**
+
+    You can choose electives from one of the following three options below to support your desired [**Digital Marketing Career Role**](#target-digital-marketing-career-roles):
+
+    -   \(1\) **Digital Marketing Strategy** emphasis or
+    -   \(2\) **Marketing Analytics** emphasis or
+    -   \(3\) **Balanced/Customized** option (by taking a mix of courses from both emphases to tailor one's needs for target career roles and get the best of both worlds.)
+
+-   **Culminating Experience Project (Capstone / CEP)**\
+    The program includes a **multi-semester client project**. Student teams work with a faculty lead across three semesters:
+
+    -   **Fall:** proposal and project plan
+    -   **Spring:** data analysis and recommendations
+    -   **Summer:** digital marketing plan implementation, results observation, and reflection
+
+::: callout-tip
 ## Recommendations for Curriculum Emphasis
 
 Based on the immediate target career roles right after graduation, my recommendation for Degree Emphasis would be different as follows:
@@ -377,9 +365,23 @@ Based on the immediate target career roles right after graduation, my recommenda
 -   If you prefer to take **Analytics (Marketing Data Specialist) Roles**, such as Marketing Data Analytist, Marketing Data Scientist, and Marketing Data Engineer –\> choose **Marketing Analytics Emphasis**.
 :::
 
-::: callout-tip
-For detailed information about Job Outlook and Salary, see [**Digital Marketing & Analytics Job Outlook**](career_outlook_salary_digital_marketing.qmd#digital-marketing-analytics-job-outlook).
-:::
+### Completion Roadmaps
+
+#### Fall Admission:
+
+-   **2-Year Roadmap**\
+    Typically about **6 units per semester** and is designed to be manageable for many working professionals.
+
+-   **1-Year Roadmap**\
+    A compressed, very intensive option that combines the first- and second-year load. This is best for students without a full-time job.
+
+#### Spring Admission:
+
+-   **2-Year Roadmap**\
+    Typically about **6 units per semester** and is designed to be manageable for many working professionals.
+
+-   **1.5-Year Roadmap**\
+    A compressed, very intensive course work only for the fall semester. This is best for students without a full-time job.
 
 ## **Key Features & Tuition/Fee** {#key-features-cost}
 

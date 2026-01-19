@@ -139,9 +139,9 @@ Based on national research with professionals across the insights and data indus
 
     5.  [Colleges & Program Overview](application.qmd#colleges-program-overview)
 
-    6.  [Curriculum & Completion Roamap Options](application.qmd#curriculum-completion-roadmap-options)
+    6.  [Target Digital Marketing Career Roles](application.qmd#target-digital-marketing-career-roles)
 
-    7.  [Target Digital Marketing Career Roles](application.qmd#target-digital-marketing-career-roles)
+    7.  [Curriculum & Completion Roamap Options](application.qmd#curriculum-completion-roadmap-options)
 
     8.  [Key Features and Costs](application.qmd#key-features-cost)
 
