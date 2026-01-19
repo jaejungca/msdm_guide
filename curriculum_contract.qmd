@@ -111,7 +111,7 @@ format:
 
 ## **Video Presentation about the Program & Curriculum**
 
-If you have not attended MSDM information session before, seeing the video recording will be beneficial. Go to [**Video Presentation about the Program & Curriculum**](application.qmd#video-presentation-msdm)
+If you have not attended MSDM information session before, seeing the video recording will be beneficial. Go to [**MSDM Program Information Session**](application.qmd#video-presentation-msdm)
 
 ## **Step 1: Start Filling out Curriculum Contract Form** {#appointment-for-curriculum-contract}
 

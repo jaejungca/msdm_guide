@@ -136,19 +136,19 @@ To apply, you’ll typically prepare:
 
 ### Required:
 
--   Transcripts (unofficial is commonly acceptable for review; official required after enrollment)
+-   **Transcripts** (unofficial is commonly acceptable for review; official required after enrollment)
 
     -   A 4-year bachelor’s degree (or equivalent)
 
-    -   Minimum GPA requirement
+    -   Minimum GPA requirement: 2.5 out of 4.0
 
--   1 recommendation letter (professor or work supervisor)
+-   **1 recommendation letter** (professor or work supervisor)
 
--   Statement of purpose (often \~250–300 words)
+-   **Statement of purpose** (often \~250–300 words)
 
--   Resume
+-   **Resume**
 
--   (For International students only): English proficiency documentation if applicable
+-   (For International students only): **English proficiency documentation** if applicable
 
     -   TOEFL score of 550 (paper-based), 213 (computer-based) or 80 (internet-based)
 
@@ -170,13 +170,24 @@ To apply, you’ll typically prepare:
 
 ### Application Deadlines:
 
--   Fall Admission: July 1 (May 1 for international students)
+-   **Fall Admission**: July 1 (*May 1* for international students)
 
--   Spring Admission: November 1 (October 1 for international students)
+-   **Spring Admission**: November 1 (*October 1* for international students)
+
+-   **International Students**: Because visa interview appointments at U.S. embassies/consulates can be limited in some countries, we strongly recommend applying as early as possible so you have enough time to receive your I-20 and schedule a visa interview before your intended start term.
 
 ### Where to Apply:
 
 Submit all the application document at [**Cal State Apply**](https://www.calstate.edu/apply/graduate). Look for the MSDM Program under Cal Poly Pomona Extended University.
+
+### How We Evaluate Applications:
+
+::: callout-tip
+-   **Rolling review:** Applications are reviewed on a rolling basis, so earlier submissions may receive decisions sooner.
+-   **Statement of purpose matters:** We take the statement of purpose (personal statement) seriously. Applicants with clear career goals and a strong rationale for pursuing the MSDM are viewed favorably.
+-   **Holistic evaluation:** We review each application holistically, considering academic performance, professional experience, and evidence of commitment to your career goals. A weakness in one area can be **complemented** by strength in another.
+-   **Program fit:** We also consider how well your career goals align with the program’s strengths in digital marketing strategy and marketing analytics.
+:::
 
 ## **University Overview**
 
@@ -184,15 +195,63 @@ Cal Poly Pomona is located about **30 miles east of downtown Los Angeles**, in t
 
 CPP is known for its polytechnic, **“learn by doing”** approach—combining theory with practical, hands-on learning. The university is also recognized for a strong combination of **quality and affordability**, along with a diverse student body and accessibility across Southern California.
 
+### Overall Rankings
+
+Cal Poly Pomona (CPP) ranks highly as a top public university in the West, often placing #2 among Top Public Schools and #3 regionally in U.S. News & World Report (2026), and is recognized by The Wall Street Journal for social mobility, ranking #22 overall and #1 polytechnic for social mobility in the U.S. (2026), while its Engineering program is nationally recognized, tied for 9th best undergraduate program where doctorates aren't offered.
+
+### Key Rankings & Highlights (2026 Data):
+
+-   **U.S. News & World Report**:
+
+    -   #2 Top Public School in the West 
+
+    -   #3 Regional Universities West 
+
+    -   #2 Most Innovative 
+
+    -   #2 Best College for Veterans 
+
+    -   #9 (tie) Undergraduate Engineering (no doctorate) 
+
+-   **The Wall Street Journal/College Pulse**:
+
+    -   #22 Best Colleges in the U.S. 
+
+    -   #13 for Social Mobility (Highest ranked polytechnic) 
+
+-   **Polytechnic Excellence**:
+
+    -   #1 Polytechnic University for Diversity & Economic Mobility (CollegeNET, 2024). 
+
+**Other Noteworthy Rankings:**
+
+-   **Money Magazine** : Ranked #28 nationally for Best Colleges by Value (2022). 
+
+-   **Forbes** : Named one of America's Top Colleges (2025-26). 
+
+::: callout-note
+Rankings can vary by publication and year, but CPP consistently appears as a leading polytechnic and regional university, especially strong in value, social mobility, and specific programs like engineering. 
+:::
+
 ## **College & Program Overview**
 
-The **College of Business Administration** includes **200+ faculty** and **5,000+ students**, and the business programs are **AACSB-accredited** (a distinction held by a small percentage of business schools worldwide). The college includes six departments, and the MSDM program is housed in **International Business & Marketing**.
+The **College of Business Administration** includes **200+ faculty** and **5,000+ students**, and is **AACSB-accredited** (a distinction held by a small percentage (\~6%) of business schools worldwide). The college includes six departments and **Singelyn Graduate School of Business**, and the MSDM program is housed in **International Business & Marketing**.
 
 The MSDM program was created through the **Center for Customer Insights and Digital Marketing**, and the program draws support from faculty across business and related areas (including Economics, CIS, and Hospitality Management for select courses).
 
-### Why your application may show “Extended University”
+### Why MSDM may show “Extended University” on Cal State Apply Website
 
-This program is offered in partnership with a university unit that supports **enrollment and tuition services**. The academic program itself is run through the College of Business Administration and aligns with AACSB standards. This structure exists because the program is **self-support** (not state-funded), and the partnership helps manage enrollment and outstanding student services.
+This program is offered in partnership with the **College of Professional and Global Education (CPGE)**, a university unit that supports enrollment and student services for self-support programs. CPGE helps deliver Cal Poly Pomona’s “learn-by-doing” approach to working professionals and adult learners while the academic program remains anchored in the College of Business Administration and aligns with **AACSB standards**.
+
+With CPGE support, students benefit from:
+
+-   **Flexible learning options:** Programs built for professionals balancing work, family, and education.
+
+-   **Career-focused curriculum:** Courses designed with input from faculty and industry experts to ensure real-world relevance.
+
+-   **Streamlined support:** CPGE manages registration, tuition, and student services, so you can focus on learning.
+
+-   **Global & lifelong learning opportunities:** Connect with peers and professionals locally and abroad through CPGE’s global programs.
 
 ## **Curriculum & Completion Roadmap Options**
 
@@ -300,7 +359,7 @@ As you move up the ladder, the focus shifts from "doing" to "planning." These ar
 -   **Chief Marketing Officer (CMO):** The highest executive level, responsible for the brand’s total marketing vision and budget.
 
 ::: callout-tip
-## Recommendations
+## Recommendations for Curriculum Emphasis
 
 Based on the immediate target career roles right after graduation, my recommendation for Degree Emphasis would be different as follows:
 
