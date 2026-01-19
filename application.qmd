@@ -377,7 +377,11 @@ Based on the immediate target career roles right after graduation, my recommenda
 -   If you prefer to take **Analytics (Marketing Data Specialist) Roles**, such as Marketing Data Analytist, Marketing Data Scientist, and Marketing Data Engineer –\> choose **Marketing Analytics Emphasis**.
 :::
 
-## **Key Features & Costs**
+::: callout-tip
+For detailed information about Job Outlook and Salary, see [**Digital Marketing & Analytics Job Outlook**](career_outlook_salary_digital_marketing.qmd#digital-marketing-analytics-job-outlook).
+:::
+
+## **Key Features & Tuition/Fee** {#key-features-cost}
 
 ### Three Curriculum Options:
 
@@ -397,7 +401,12 @@ The program is **STEM-designated**, which can be especially valuable for interna
 
 ### Program Type: Onsite (not online)
 
-This is an **onsite** program (you must be able to commute), but it uses a **hybrid class modality** where up to **50% of class time may be virtual**. For example, in a 15-week semester, a course could meet 8 weeks in person and 7 weeks on Zoom.
+This is an **onsite** program, not an online program; thus, you must be able to commute to be in the program.
+
+### Class Modality/Time
+
+-   **Class Modality**: We uses a **hybrid class modality** where up to **50% of class time may be virtual**. For example, in a 15-week semester, a course could meet 8 weeks in person and 7 weeks on Zoom. Most professors tend to alternate between in-person and online meetings every other week.
+-   **Class time**: Classes are scheduled weekday evenings and/or Saturday mornings
 
 ### Tuition & fees (as explained in the info session)
 
@@ -412,7 +421,7 @@ This is an **onsite** program (you must be able to commute), but it uses a **hyb
 ::: callout-important
 ### Out-of-state tuition note:
 
-Students outside California pay the **same per-unit tuition** in this program structure as California residents.
+Students outside California, including international students, pay the **same per-unit tuition** in this program structure as California residents.
 :::
 
 ## **Program Support Environment**
@@ -487,8 +496,8 @@ Students are supported through:
 
 ### Contacts:
 
--   **Program & curriculum questions:** Program Director ([Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml))
--   **Registration/tuition/services:** Program Manager (Ashley Cartwright)
+-   **Program & curriculum questions:** Program Director ([Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)), Director of CCIDM, Singelyn Graduate School of Business, College of Business Administration
+-   **Registration/tuition/services:** Ashley Cartwright (arcartwright\@cpp.edu), Sr. Program Manager, College of Professional and Global Education
 
 ## **Frequently Asked Questions**
 
