@@ -8,7 +8,7 @@ format:
   html:
     toc: true
     toc-location: right-body
-    toc-depth: 2
+    toc-depth: 3
     toc-expand: 1
     code-overflow: scroll
     number-sections: true
@@ -39,13 +39,13 @@ The digital marketing landscape is a dynamic ecosystem that balances creative st
 
 **Note**: This document was created based on data from the U.S. Bureau of Labor Statistics and industry-specific hiring forecasts.
 
-# **Career Outlook & The "AI-Augmented" Future** {#career-outlook}
+## **Career Outlook & The "AI-Augmented" Future** {#career-outlook}
 
 > The digital marketing landscape is currently in a state of "AI-augmented" growth. While automation is changing the tasks, it is not replacing the need for skilled practitioners; rather, it is **raising the bar for what a "skilled" marketer** looks like.
 
 The long-term outlook for digital marketing remains exceptionally strong, with the **U.S. Bureau of Labor Statistics** projecting a **6% to 22% growth rate** through 2034—faster than the average for all occupations. However, the nature of the work is shifting from "execution" to "orchestration."
 
-## Key Trends Shaping the Next Decade
+### Key Trends Shaping the Next Decade
 
 -   **The AI Premium:** By 2028, "AI Literacy" will be as fundamental as Excel. Marketers who can use generative AI to scale content while maintaining human brand standards are expected to command **20–40% higher salaries**.
 
@@ -55,13 +55,13 @@ The long-term outlook for digital marketing remains exceptionally strong, with t
 
 -   **Human-Centric Branding:** As AI-generated content floods the web, "human" skills like **behavioral psychology, empathy-driven storytelling, and community building** will become the ultimate competitive advantages.
 
-## Future-Proofing Your Career
+### Future-Proofing Your Career
 
 To stay competitive, professionals should aim for a **"T-Shaped" skill set**: deep expertise in one technical area (like SQL or SEO) paired with a broad understanding of the entire marketing funnel.
 
 > **Expert Insight:** "AI won't replace marketers, but marketers who use AI will replace those who don't." The next decade belongs to the **Creative Technologist**—the professional who can speak both the language of the brand and the language of the algorithm.
 
-# **Typical Job Roles in Digital Marketing** {#typical-job-titles}
+## **Typical Job Roles in Digital Marketing** {#typical-job-titles}
 
 Digital marketing is a vast field where roles are typically categorized by the **channel** they manage (like social media or email) or the **level of strategy** involved. Because the industry moves fast, new roles like "AI Marketing Specialist" are also becoming common.
 
@@ -80,7 +80,7 @@ These roles focus on the "what"—the actual assets users see and interact with.
 -   **Graphic / Visual Designer:** Creates the visual identity for ads, social posts, and email templates.
 
 ::: callout-tip
-## Career note for international students (general guidance):
+### Career note for international students (general guidance):
 
 These roles can be great careers, but **H-1B sponsorship is often less common** because many positions don’t consistently require a highly specialized degree and are more frequently offered by smaller teams or agencies.
 
@@ -98,7 +98,7 @@ These roles focus on the "how"—the data, algorithms, and paid spend that get t
 -   **Email Marketing Specialist:** Designs and automates email campaigns, segments customer lists, and tracks open rates.
 
 ::: callout-note
-## Career note for international students (general guidance):
+### Career note for international students (general guidance):
 
 Sponsorship likelihood varies a lot here. Roles that emphasize **analytics implementation, marketing technology, automation, and data (e.g., SQL, tagging, dashboards, experimentation)** tend to align better with H-1B patterns than roles that are primarily creative or campaign coordination.
 
@@ -113,7 +113,7 @@ These roles focus on **measurement and decision-making**—turning marketing dat
 -   **Marketing Data Scientist**: Builds statistical or machine learning models for marketing (e.g., attribution, forecasting, customer segmentation, experimentation).
 
 ::: callout-important
-## Career note for international students (general guidance):
+### Career note for international students (general guidance):
 
 These roles are **often the most H-1B-friendly** in digital marketing because they more clearly map to specialized, degree-linked skill sets (statistics, analytics, data science, computing), and because larger employers who sponsor are more likely to hire for these positions.
 
@@ -163,7 +163,7 @@ As you move up the ladder, the focus shifts from "doing" to "planning." These ar
 
 -   **Chief Marketing Officer (CMO):** The highest executive level, responsible for the brand’s total marketing vision and budget.
 
-## Comparison of Core Specializations
+### Comparison of Core Specializations
 
 |  |  |  |
 |------------------------|------------------------|------------------------|
@@ -173,10 +173,10 @@ As you move up the ladder, the focus shifts from "doing" to "planning." These ar
 | **Social Media Manager** | Build brand awareness & community | Hootsuite, Canva, Sprout Social |
 | **Marketing Analyst/Data Scientist** | Provide data-driven insights | Google Analytics 4, Looker Studio, Tableau, R/Python, SQL |
 
-## Digital Marketing Job Roles at a Glance
+### Digital Marketing Job Roles at a Glance
 
 ::: callout-important
-### Conclusion
+#### Conclusion
 
 Digital marketing careers typically fall into four role families.
 
@@ -185,17 +185,17 @@ Digital marketing careers typically fall into four role families.
 Over time, many professionals move into **Strategy & Leadership roles**, where the work shifts from execution to planning, prioritization, and managing teams and budgets.
 :::
 
-# **Active Digital Marketing Job Postings** {#active-job-postings}
+## **Active Digital Marketing Job Postings** {#active-job-postings}
 
 ::: callout-note
-## Note:
+### Note:
 
 To provide an accurate picture of the job market, I’ve compiled data based on general industry trends from major platforms like **LinkedIn and Indeed**.
 
 Please note that these numbers are **estimates** based on global English-speaking job postings. The "Percentage" represents the share of the total digital marketing job pool for that specific role.
 :::
 
-## Summary Table of Active Job Postings
+### Summary Table of Active Job Postings
 
 |  |  |  |
 |------------------------|------------------------|------------------------|
@@ -212,7 +212,7 @@ Please note that these numbers are **estimates** based on global English-speakin
 
 : Digital Marketing Job Distribution
 
-## Key Takeaways from the Data
+### Key Takeaways from the Data
 
 -   **Social Media Dominance:** Social Media remains the largest entry point for the industry because almost every business (from local cafes to global tech giants) requires a dedicated presence.
 
@@ -220,9 +220,9 @@ Please note that these numbers are **estimates** based on global English-speakin
 
 -   **The Technical Gap:** While roles like **Marketing Analyst** and **Product Marketing** have lower total numbers, they often command higher salaries because the skill set is more specialized and harder to find.
 
-# **Digital Marketing & Analytics Job Outlook**
+## **Digital Marketing & Analytics Job Outlook**
 
-## Job Growth Rate, Volume, and Salary {#job-growth-rate-volume-and-salary}
+### Job Growth Rate, Volume, and Salary {#job-growth-rate-volume-and-salary}
 
 The following table is sorted by **salary in descending order** and includes the 10-year growth outlook (2024–2034) based on data from the U.S. Bureau of Labor Statistics and industry-specific hiring forecasts.
 
@@ -246,12 +246,12 @@ The following table is sorted by **salary in descending order** and includes the
 : 2025 U.S. Digital Marketing & Analytics: Comprehensive Market Data
 
 ::: callout-tip
-## Market Insights & Prelude to the Next Sections
+### Market Insights & Prelude to the Next Sections
 
 While the raw data provides a snapshot of the current landscape, the true value lies in the patterns beneath the surface. The following analysis deciphers these metrics to highlight critical shifts in market demand, emerging high-growth trends, and the financial premiums associated with technical specialization. By examining these insights, you can move beyond general market knowledge and begin to architect a career trajectory that aligns with the industry's most lucrative and future-proof trajectories.
 :::
 
-## Understanding the Job Categories
+### Understanding the Job Categories
 
 -   **Strategy & Leadership:** These roles generally require the most experience. They focus on the "big picture" and often involve managing people and multi-million dollar budgets.
 
@@ -261,7 +261,7 @@ While the raw data provides a snapshot of the current landscape, the true value 
 
 -   **Social & Content:** These roles are the most visible and have the highest volume of entry-level opportunities, though they face the most pressure from generative AI tools in 2025.
 
-## Key Observations
+### Key Observations
 
 -   **High Volume vs. High Value:** The roles with the highest number of jobs (**Marketing Manager**, **Social Media**) tend to have more moderate salary ranges. Conversely, the roles with the smallest market share (**Marketing Engineer**, **CMO**, **Data Scientist**) offer the highest compensation due to the specialized skills or level of responsibility required.
 
@@ -271,7 +271,7 @@ While the raw data provides a snapshot of the current landscape, the true value 
 
 -   **Specialization Premium:** Moving from a generalist **Content Marketer** ($61k-\$74k$) into a more technical **SEO Specialist** or **Email/CRM Specialist** role generally provides a noticeable salary floor increase, even if the total job pool is smaller.
 
-## Key Trends
+### Key Trends
 
 -   The gap between "Performance" and "Data" is narrowing. For example, modern **SEO Specialists** and **PPC Specialists** are now expected to know basic **SQL** or data visualization (Tableau/Looker) to keep up with the automated bidding environments of Google and Meta.
 
@@ -287,7 +287,7 @@ While the raw data provides a snapshot of the current landscape, the true value 
 
 -   **The Strategic Shift:** ***Product Marketing Managers*** ($12\%$) are outgrowing *general Marketing Managers* ($7\%$). In a crowded market, the ability to define a unique product "identity" is becoming more valuable than just running standard ad campaigns.
 
-## Understanding the "Data Tier" in Marketing
+### Understanding the "Data Tier" in Marketing
 
 By looking at the rows highlighted in **bold**, we can see that the data-centric side of marketing actually makes up about **14.4%** of the total workforce.
 
@@ -299,7 +299,7 @@ By looking at the rows highlighted in **bold**, we can see that the data-centric
 
 -   **The Marketing Engineer (1.4%):** This is a highly specialized niche. They ensure that when a customer clicks an ad on their phone, that data "travels" correctly into the company's CRM without getting lost.
 
-## Key Financial Insights
+### Key Financial Insights
 
 -   **The "Technical Premium":** A **Marketing Engineer** or **Data Scientist** can earn 2x to 3x more than a Social Media Manager. This is because they use high-level technical stacks (Python, SQL, Cloud Infrastructure) to automate marketing at scale.
 
@@ -318,17 +318,17 @@ By looking at the rows highlighted in **bold**, we can see that the data-centric
 -   **Location & Industry:** These averages are national. Roles in **San Francisco, New York, or Seattle**, especially within the **Tech or Biotech** industries, often pay **20-40% above** the ranges listed here.
 
 ::: callout-note
-### Summary of Career Value
+#### Summary of Career Value
 
 -   If you are looking for the **best return on investment** for your time, the **Data & Analytics** category (specifically Data Science and Engineering) offers the highest combination of salary and job security (growth).
 -   However, **Strategy & Leadership** roles remain the pinnacle of the career ladder for those who enjoy people management and high-level business vision.
 :::
 
-## Geographic Hotspots
+### Geographic Hotspots
 
 If you are looking for these roles in the U.S., the highest concentrations of jobs are currently in:
 
-1.  **California** (San Francisco/LA) - Tech & Entertainment
+1.  **California** (San Francisco/Los Angeles) - Tech & Entertainment
 
 2.  **New York** (NYC) - Advertising & Finance
 

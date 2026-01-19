@@ -2,13 +2,14 @@ project:
   type: website
   resources: 
     - google1267df0bc9c2f454.html
+    - robots.txt
 
 website: 
   title: "MSDM Career & Program Guide"
   google-analytics: "G-G21XFNERQJ"
   favicon: images/CPP_Primary_Gold_favicon.png
-  description: "A comprehensive guide to career preparation for the MS in Digital Marketing program."
-  site-url: https://cppmsdm.com/
+  description: "MSDM at Cal Poly Pomona: digital marketing strategy + marketing analytics, curriculum, admissions, costs, and career preparation."
+  site-url: https://cppmsdm.com
   open-graph: true
   image: images/msdm-crosswalk.png
   twitter-card: true
@@ -21,6 +22,9 @@ website:
     right: 
       - text: Home
         href: index.qmd
+
+      - text: Application
+        href: application.qmd
 
       - text: Careers
         menu: 

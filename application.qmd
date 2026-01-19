@@ -1,0 +1,340 @@
+---
+title: "Application: MS in Digital Marketing (MSDM) — Cal Poly Pomona"
+subtitle: "Digital Marketing Master’s Degree: What to Know Before You Apply"
+description: "Everything you need to know before applying to Cal Poly Pomona’s STEM-designated Master of Science in Digital Marketing (MSDM): curriculum, admissions, cost, support, and FAQs."
+keywords: 
+  - Cal Poly Pomona MSDM
+  - digital marketing master's degree
+  - marketing analytics master's
+  - STEM digital marketing program 
+image: images/msdm-crosswalk.png
+date: January 18, 2025
+format: 
+  html:
+    toc: true
+    toc-location: right-body
+    toc-depth: 3
+    toc-expand: 1
+    code-overflow: scroll
+    number-sections: true
+    embed-resources: true
+    smooth-scroll: true
+    fontsize: 18px
+    include-in-header:
+      - includes/faq-msdm-application-jsonld.html    
+    other-links: 
+      - text: MS in Digital Marketing
+        icon: mortarboard-fill
+        href: https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml
+      - text: DWV 101
+        icon: award
+        href: https://www.cpp.edu/cba/customer-insights-lab/curriculum/certificate/dwv/index.shtml
+      - text: IBM Department
+        icon: bank
+        href: https://www.cpp.edu/cba/international-business-marketing/index.shtml
+    link-external-icon: true
+    link-external-newwindow: true
+execute: 
+  freeze: auto
+---
+
+## [**Introduction**]{style="color: #069494; font-weight: bold; font-size: 30px;"}
+
+Cal Poly Pomona’s **Master of Science in Digital Marketing (MSDM)** is designed for people who want a graduate degree that blends **digital marketing strategy** with **marketing analytics**—so you can both *execute marketing effectively* and *use data to guide decisions*. The program is housed in the **College of Business Administration** and supported by the **Center for Customer Insights and Digital Marketing**.
+
+If you’re deciding whether to apply, this page walks through the university context, program structure, admissions requirements, costs, support, real-world experiences, and the most common questions prospective students ask.
+
+## Apply Checklist
+
+To apply, you’ll typically prepare:
+
+-   Transcripts (unofficial is commonly acceptable for review; official required after enrollment)
+
+    -   A 4-year bachelor’s degree (or equivalent)
+
+    -   Minimum GPA requirement
+
+-   1 recommendation letter (professor or work supervisor)
+
+-   Statement of purpose (often \~250–300 words)
+
+-   Resume
+
+-   (For International students only): English proficiency documentation if applicable
+
+-   Optional:
+
+    -   Portfolio,
+
+    -   Project samples,
+
+    -   Certifications,
+
+    -   GMAT/GRE scores (if you have them)
+
+## University Overview
+
+Cal Poly Pomona is located about **30 miles east of downtown Los Angeles**, in the city of Pomona. The university includes **nine colleges** and about **29,000 students**.
+
+CPP is known for its polytechnic, **“learn by doing”** approach—combining theory with practical, hands-on learning. The university is also recognized for a strong combination of **quality and affordability**, along with a diverse student body and accessibility across Southern California.
+
+## College & Program Overview
+
+The **College of Business Administration** includes **200+ faculty** and **5,000+ students**, and the business programs are **AACSB-accredited** (a distinction held by a small percentage of business schools worldwide). The college includes six departments, and the MSDM program is housed in **International Business & Marketing**.
+
+The MSDM program was created through the **Center for Customer Insights and Digital Marketing**, and the program draws support from faculty across business and related areas (including Economics, CIS, and Hospitality Management for select courses).
+
+### Why your application may show “Extended University”
+
+This program is offered in partnership with a university unit that supports **enrollment and tuition services**. The academic program itself is run through the College of Business Administration and aligns with AACSB standards. This structure exists because the program is **self-support** (not state-funded), and the partnership helps manage enrollment and outstanding student services.
+
+## Curriculum & Admissions
+
+### What you’ll learn (Student Learning Outcomes)
+
+By graduation, you’ll be able to:
+
+-   Translate marketing problems into research questions or hypotheses
+-   Apply consumer psychology and behavior concepts to real marketing problems
+-   Build models and make **data-informed marketing recommendations**
+-   Develop an effective digital marketing plan
+-   Communicate clearly in writing and presentations
+
+### Program Structure (34 units)
+
+-   **Core required courses: 20 units**
+-   **Electives: 14 units (3 Options)**
+    -   You can choose electives for either (1) **Digital Marketing Strategy** emphasis or (2) **Marketing Analytics** emphasis.
+    -   Alternatively, you can choose a (3) **Balanced/Customized** option by taking a mix of courses from both emphases to tailor one's needs for target career roles and get the best of both worlds.
+
+### Completion Roadmaps
+
+#### Fall Admission:
+
+-   **2-Year Roadmap**\
+    Typically about **6 units per semester** and is designed to be manageable for many working professionals.
+
+-   **1-Year Roadmap**\
+    A compressed, very intensive option that combines the first- and second-year load. This is best for students without a full-time job.
+
+#### Spring Admission:
+
+-   **2-Year Roadmap**\
+    Typically about **6 units per semester** and is designed to be manageable for many working professionals.
+
+-   **1.5-Year Roadmap**\
+    A compressed, very intensive course work only for the fall semester. This is best for students without a full-time job.
+
+### Culminating Experience Project (Capstone / CEP)
+
+The program includes a **multi-semester client project**. Student teams work with a faculty lead across three semesters:
+
+-   **Fall:** proposal and project plan
+
+-   **Spring:** data analysis and recommendations
+
+-   **Summer:** digital marketing plan implementation, results observation, and reflection
+
+## Career Roles & Curriculum Options
+
+Digital marketing is a vast field where roles are typically categorized by the **channel** they manage (like social media or email) or the **level of strategy** involved. Here is a breakdown of typical jobs in digital marketing categorized by specialization and seniority.
+
+**1. Content & Creative Roles**
+
+These roles focus on the "what"—the actual assets users see and interact with.
+
+-   **Content Writer / SEO Writer:** Writes blog posts, articles, and website copy designed to rank on Google.
+
+-   **Copywriter:** Focuses on "conversion" text—ads, landing pages, and email subject lines that get people to take action.
+
+-   **Social Media Manager:** Handles a brand’s presence on platforms like TikTok, Instagram, and LinkedIn. This includes posting, engagement, and community building.
+
+-   **Graphic / Visual Designer:** Creates the visual identity for ads, social posts, and email templates.
+
+::: callout-tip
+## Career note for international students (general guidance):
+
+These roles can be great careers, but **H-1B sponsorship is often less common** because many positions don’t consistently require a highly specialized degree and are more frequently offered by smaller teams or agencies.
+:::
+
+**2. Technical & Performance Roles**
+
+These roles focus on the "how"—the data, algorithms, and paid spend that get the content in front of the right people.
+
+-   **SEO Specialist:** Optimizes the technical aspects and keywords of a website to improve organic (unpaid) search rankings.
+
+-   **PPC (Pay-Per-Click) Specialist:** Manages paid advertising budgets on Google Ads or Meta. They focus on ROI (Return on Investment).
+
+-   **Email Marketing Specialist:** Designs and automates email campaigns, segments customer lists, and tracks open rates.
+
+::: callout-note
+## Career note for international students (general guidance):
+
+Sponsorship likelihood varies a lot here. Roles that emphasize **analytics implementation, marketing technology, automation, and data (e.g., SQL, tagging, dashboards, experimentation)** tend to align better with H-1B patterns than roles that are primarily creative or campaign coordination.
+:::
+
+**3. Marketing Data Specialist Breakdown (U.S.)**
+
+These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
+
+-   **Marketing Analyst / Digital Marketing Analyst**: Analyzes performance across channels (web, paid media, email, social) to identify what’s working and where to improve.
+-   **Marketing Data Scientist**: Builds statistical or machine learning models for marketing (e.g., attribution, forecasting, customer segmentation, experimentation).
+
+**Which One Should You Choose?**
+
+> The main difference between these roles isn't just the data they look at, but the **tools** they use and the **math** they perform:
+>
+> -   **Marketing Analyst:** Uses **Excel, Google Analytics, and Tableau**. They are great at storytelling and explaining "what happened" to the marketing team.
+>
+> -   **Marketing Data Scientist:** Uses **Python, R, and SQL**. They build machine learning models to automate marketing decisions, such as "dynamic pricing" (like how Uber prices change during rain).
+
+::: callout-important
+## Career note for international students (general guidance):
+
+These roles are **often the most H-1B-friendly** in digital marketing because they more clearly map to specialized, degree-linked skill sets (statistics, analytics, data science, computing), and because larger employers who sponsor are more likely to hire for these positions.
+:::
+
+**4. Strategy & Leadership Roles (often mid-career+)**
+
+As you move up the ladder, the focus shifts from "doing" to "planning." These are the jobs that are not likely to be within the reach right after you graduate unless you have already sufficient experience in other specialty jobs in Content & Creative Roles or Technology and Performance Roles.
+
+-   **Digital Marketing Manager:** Oversees the entire digital strategy and manages a team of specialists.
+
+-   **Growth Marketer:** A data-heavy role focused on the entire customer lifecycle—not just getting new customers, but keeping them.
+
+-   **Product Marketing Manager:** Focuses specifically on how a single product is positioned and launched in the market.
+
+-   **Chief Marketing Officer (CMO):** The highest executive level, responsible for the brand’s total marketing vision and budget.
+
+::: callout-tip
+## Recommendations
+
+Based on the immediate target career roles right after graduation, my recommendation for Degree Emphasis would be different as follows:
+
+-   If you prefer to take **Content & Creative Roles,** such as content writer/SEO writer, copy writer, social media manager, and graphics/visual designer –\> choose **Digital Marketing Strategy Emphasis**.
+
+-   If you prefer to take **Technical & Performance Roles**, such as SEO Specialist, PPC Specialist, and Email Marketing Specialist –\> choose **Balanced/Mixed Option**.
+
+-   If you prefer to take **Analytics (Marketing Data Specialist) Roles**, such as Marketing Data Analytist, Marketing Data Scientist, and Marketing Data Engineer –\> choose **Marketing Analytics Emphasis**.
+:::
+
+## Key Features & Costs
+
+### Program format (onsite program)
+
+This is an **onsite** program (you must be able to commute), but it uses a **hybrid approach** where up to **50% of class time may be virtual**. For example, in a 15-week semester, a course could meet 8 weeks in person and 7 weeks on Zoom.
+
+### STEM designation (important for international students)
+
+The program is **STEM-designated**, which can be especially valuable for international students because it may extend post-graduation OPT eligibility (from 1 year to up to 3 years total).
+
+### Tuition & fees (as explained in the info session)
+
+-   Tuition: **\$825 per unit**
+-   Total units: **34**
+-   Estimated tuition total: **\$28,050**
+-   Mandatory fees (flat rate): approx. **\$850** in fall/spring and **\$400** in summer
+-   Estimated total tuition + fees:
+    -   **\$30,150** for one-year completion
+    -   **\$32,250** for two-year completion due to additional term fees
+
+**Out-of-state tuition note:** Students outside California pay the **same per-unit tuition** in this program structure as California residents.
+
+## Program Support Environment
+
+Students are supported through:
+
+-   Program guidance on curriculum and planning
+
+-   Financial aid resources
+
+-   On-campus job opportunities (many students find campus jobs and work across departments; jobs are typically posted through Handshake)
+
+### Scholarships and Assistantships
+
+-   **Recruitment scholarship:** no separate application (evaluated based on your admission materials)
+
+-   **Professional development scholarship:** typically after at least one semester; may support certifications
+
+-   **Merit-based scholarship:** typically after at least one semester; the graduate school sends application calls
+
+-   **TA/RA assistantships:** limited availability; often arranged through faculty hiring needs
+
+-   **LOGRAR/PPOHA Grant**
+
+-   **LOGRAR Travel Request for Funding**
+
+-   **Healthcare Communications & Marketing Scholarships**
+
+## Real-World Experience & Network
+
+### Micro-internships (course-embedded, sometimes paid)
+
+Some courses include **micro-internship experiences** that involve working with a real client. In examples shared, students completed client-facing work, met weekly with the client, and received compensation while completing class projects.
+
+For international students, when a micro-internship is required as part of a course, exceptions may apply regarding timing for work authorization processes.
+
+### Center events and professional exposure
+
+Through the Center and college initiatives, students can access:
+
+-   Research seminars and virtual workshops
+
+-   Expert speaker events
+
+-   A spring Innovation Symposium bringing business leaders, advisory board members, alumni, and partners together
+
+### Portfolio development
+
+Students build **portfolio websites** showcasing digital marketing and analytics projects, dashboards/visualizations, and professional materials like resumes.
+
+### Student community
+
+The MSDM student club is being developed and formalized, creating opportunities for leadership roles and peer community building.
+
+## Contacts
+
+-   **Program & curriculum questions:** Program Director (Dr. Jae Jang)
+-   **Registration/tuition/services:** Program Manager (Ashley Cutright)
+
+## Frequently Asked Questions
+
+### What is the MSDM program designed to prepare students for?
+
+It prepares students to solve marketing problems using both **digital marketing strategy** and **marketing analytics**, including research design, modeling, data-informed recommendations, and digital marketing plan development.
+
+### What makes the CPP MSDM program different?
+
+A key differentiator is the deliberate balance of **digital marketing execution** and **analytics**—supporting both career directions and a balanced option.
+
+### Can I focus only on strategy or only on analytics?
+
+Yes. You can choose electives to focus fully on **Digital Marketing Strategy**, fully on **Marketing Analytics**, or mix both for a balanced path.
+
+### How long does the program take to finish?
+
+There are **one-year** and **two-year** completion options (with spring start typically taking 1.5 or 2 years).
+
+### Is the program online?
+
+It is **onsite** (you need to be in Southern California), but it uses a **hybrid model** that may allow up to 50% of class time to be virtual.
+
+### How many units is the program?
+
+The program is **34 units** total: **20 units required** plus **14 units electives**.
+
+### What are the admission requirements?
+
+A bachelor’s degree, minimum GPA of 2.5, transcripts (unofficial acceptable for admission review), one recommendation letter, a statement of purpose, and a resume. English proficiency is required for international applicants unless English was the medium of instruction.
+
+### How much does the program cost?
+
+Tuition is **\$825 per unit** and the program is **34 units** (\~\$28,050 tuition total), plus mandatory fees per term.
+
+### Is this program STEM-designated?
+
+Yes, and this may allow eligible international students to extend OPT beyond the standard one year.
+
+### Do you offer scholarships?
+
+Yes—there are recruitment scholarships and additional scholarships typically available after at least one semester, plus limited assistantships.
