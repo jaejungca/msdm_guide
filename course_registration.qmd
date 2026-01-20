@@ -74,7 +74,7 @@ format:
 
 -   [MSDM Curriculum Prior to Fall 2025](https://www.cpp.edu/cba/sgsb/curriculum/msdm-curriculum.shtml)
 
-## **Boot Camp**
+## **Boot Camp** {#boot-camp}
 
 ::: callout-important
 Because our students come from diverse educational backgrounds, we offer a Boot Camp designed to build essential readiness skills for the program. It provides foundational spreadsheet skills, an introduction to R programming, and basic statistical concepts that students should know before—or during—their first semester (e.g., spring semester for spring cohort group). All courses are free and available online through MyCPP.
@@ -95,6 +95,10 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 -   No electives
 
 ## **Year 1, Spring**
+
+::: callout-note
+If you are a spring cohort group, make sure you know the materials on [MSDM Boot Camp](#boot-camp).
+:::
 
 ### Core Courses
 
