@@ -64,11 +64,15 @@ format:
 
 ### [Curriculum for Students Entering the Program in Fall 2025 or Later]{style="color: steelblue; font-weight: bold; font-size: 22px;"}
 
--   [Curriculum Overview](https://www.cpp.edu/cba/sgsb/curriculum/new-msdm-curriculum.shtml)
+There are three Curriculum Options:
 
--   [Digital Marketing Strategy (DMS) Emphasis](https://www.cpp.edu/cba/sgsb/curriculum/msdm-digital-marketing-strategy-emphasis.shtml)
+-   Digtal Marketing Strategy (DMS) Emphasis
 
--   [Marketing Analytics (MA) Emphasis](https://www.cpp.edu/cba/sgsb/curriculum/msdm-marketing-analytics-emphasis.shtml)
+-   Marketing Analytics (MA) Emphasis
+
+-   Balanced/Customized
+
+> For details about the options, refer to [**Step 2: Know the Curriculum (Degree Emphasis) Options**](curriculum_contract.qmd#curriculum-new-curriculum)**.**
 
 ### [Curriculum for Students Entering the Program Prior to Fall 2025]{style="color: steelblue; font-weight: bold; font-size: 22px;"}
 
@@ -97,7 +101,9 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 ## **Year 1, Spring**
 
 ::: callout-note
-If you are a spring cohort group, make sure you know the materials on [MSDM Boot Camp](#boot-camp).
+-   If you are a spring cohort group, make sure you know the materials on [MSDM Boot Camp](#boot-camp).
+
+-   Please do not enroll in the courses not listed here unless you are on a 1-year completion roadmap, as they are the ones reserved for your second spring semester.
 :::
 
 ### Core Courses
