@@ -74,6 +74,8 @@ website:
             href: course_registration.qmd#curriculum
           - text: Year 1, Fall Courses
             href: course_registration.qmd#year-1-fall
+          - text: Boot Camp
+            href: msdm_bootcamp.qmd 
           - text: Year 1, Spring Courses
             href: course_registration.qmd#year-1-spring
           - text: Year 1, Summer Courses
