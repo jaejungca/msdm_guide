@@ -235,17 +235,19 @@ Based on national research with professionals across the insights and data indus
 
     2.  [Curriculum](course_registration.qmd#curriculum)
 
-    3.  [Year 1, Fall](course_registration.qmd#year-1-fall)
+    3.  [Boot Camp](course_registration.qmd#boot-camp)
 
-    4.  [Year 1, Spring](course_registration.qmd#year-1-spring)
+    4.  [Year 1, Fall](course_registration.qmd#year-1-fall)
 
-    5.  [Year 1, Summer](course_registration.qmd#year-1-summer)
+    5.  [Year 1, Spring](course_registration.qmd#year-1-spring)
 
-    6.  [Year 2, Fall](course_registration.qmd#year-2-fall)
+    6.  [Year 1, Summer](course_registration.qmd#year-1-summer)
 
-    7.  [Year 2, Spring](course_registration.qmd#year-2-spring)
+    7.  [Year 2, Fall](course_registration.qmd#year-2-fall)
 
-    8.  [Year 2, Summer](course_registration.qmd#year-2-summer)
+    8.  [Year 2, Spring](course_registration.qmd#year-2-spring)
+
+    9.  [Year 2, Summer](course_registration.qmd#year-2-summer)
 
 5.  **Skills & Tools**
 
