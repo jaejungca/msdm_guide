@@ -1,12 +1,6 @@
 ---
 title: "Application: MS in Digital Marketing (MSDM) — Cal Poly Pomona"
 subtitle: "Digital Marketing Master’s Degree: What to Know Before You Apply"
-description: "Everything you need to know before applying to Cal Poly Pomona’s STEM-designated Master of Science in Digital Marketing (MSDM): curriculum, admissions, cost, support, and FAQs."
-keywords: 
-  - Cal Poly Pomona MSDM
-  - digital marketing master's degree
-  - marketing analytics master's
-  - STEM digital marketing program 
 image: images/msdm-crosswalk.png
 date: January 18, 2025
 format: 
@@ -22,6 +16,13 @@ format:
     fontsize: 18px
     include-in-header:
       - includes/faq-msdm-application-jsonld.html    
+    metadata:
+        description-meta: "Everything you need to know before applying to Cal Poly Pomona’s STEM-designated Master of Science in Digital Marketing (MSDM): curriculum, admissions, cost, support, and FAQs."
+        keywords-meta: 
+        - Cal Poly Pomona MSDM
+        - digital marketing master's degree
+        - marketing analytics master's
+        - STEM digital marketing program 
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill
