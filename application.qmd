@@ -39,7 +39,7 @@ execute:
 ---
 
 ## [**Introduction**]{style="color: #069494"}
-
+ 
 Cal Poly Pomona’s Master of Science in Digital Marketing (MSDM) is designed for people who want a graduate degree that blends digital marketing strategy with marketing analytics—so you can both *execute marketing effectively* and *use data to guide decisions*. The program is housed in the College of Business Administration and supported by the Center for Customer Insights and Digital Marketing.
 
 If you’re deciding whether to apply, this page walks through the university context, program structure, admissions requirements, costs, support, real-world experiences, and the most common questions prospective students ask.
