@@ -40,7 +40,7 @@ execute:
 ---
 
 ## [**Introduction**]{style="color: #069494"}
- 
+
 Cal Poly Pomona’s Master of Science in Digital Marketing (MSDM) is designed for people who want a graduate degree that blends digital marketing strategy with marketing analytics—so you can both *execute marketing effectively* and *use data to guide decisions*. The program is housed in the College of Business Administration and supported by the Center for Customer Insights and Digital Marketing.
 
 If you’re deciding whether to apply, this page walks through the university context, program structure, admissions requirements, costs, support, real-world experiences, and the most common questions prospective students ask.
@@ -131,7 +131,7 @@ If you’re deciding whether to apply, this page walks through the university co
 
 55:32 — FAQ Resource Shared, Contact Info, & Session Wrap-Up
 
-## **Apply Checklist**
+## **Application Requirements**
 
 To apply, you’ll typically prepare:
 
@@ -145,7 +145,7 @@ To apply, you’ll typically prepare:
 
 -   **1 recommendation letter** (professor or work supervisor)
 
--   **Statement of purpose** (often \~250–300 words)
+-   **Personal Statement / Statement of purpose** (often \~250–300 words)
 
 -   **Resume**
 
@@ -180,6 +180,18 @@ To apply, you’ll typically prepare:
 ### Where to Apply:
 
 Submit all the application document at [**Cal State Apply**](https://www.calstate.edu/apply/graduate). Look for the MSDM Program under Cal Poly Pomona Extended University.
+
+### What Should be in Personal Statement / Statement of Purpose?
+
+::: callout-tip
+For **the Statement of Purpose (250–300 words)**, applicants should explain **why** they chose the MS in Digital Marketing program and **how** their educational and/or professional background has prepared them for graduate-level study. If they are **pivoting** from another field, they should briefly describe **what motivated the change** and any steps they have taken to explore digital marketing or marketing analytics (e.g., coursework, projects, certifications, internships, or work experience).
+
+A strong statement also communicates **career direction and fit**: what area(s) of digital marketing or marketing analytics they are most interested in, what they hope to learn, and how the program connects to their short-term and long-term goals (Refer to [Target Digital Marketing Career Roles](#target-digital-marketing-career-roles) section). Applicants are encouraged to include **specific examples** that demonstrate curiosity, initiative, and impact—such as solving a problem with data, creating or evaluating a campaign, or using insights to guide decisions.
+
+Finally, applicants should highlight what they will **contribute** to the program community, such as technical skills, creative strengths, leadership, collaboration, or unique perspectives shaped by their experiences.
+
+Overall, we look for a **clear sense of purpose**, **strong program fit**, and **genuine passion** for a career in digital marketing and/or marketing analytics (i.e., Content & Creative Roles, Technical & Performance Roles, Marketing Data & Analytics Roles, Strategy & Leadership Roles).
+:::
 
 ### How We Evaluate Applications:
 
@@ -254,7 +266,7 @@ With CPGE support, students benefit from:
 
 -   **Global & lifelong learning opportunities:** Connect with peers and professionals locally and abroad through CPGE’s global programs.
 
-## **Target Digital Marketing Career Roles**
+## **Target Digital Marketing Career Roles** {#target-digital-marketing-career-roles}
 
 Digital marketing is a vast field where roles are typically categorized by the **channel** they manage (like social media or email) or the **level of strategy** involved. Here is a breakdown of typical jobs in digital marketing categorized by specialization and seniority.
 
@@ -292,7 +304,7 @@ These roles focus on the "how"—the data, algorithms, and paid spend that get t
 Sponsorship likelihood varies a lot here. Roles that emphasize **analytics implementation, marketing technology, automation, and data (e.g., SQL, tagging, dashboards, experimentation)** tend to align better with H-1B patterns than roles that are primarily creative or campaign coordination.
 :::
 
-**3. Marketing Data Specialist Breakdown (U.S.)**
+**3. Marketing Data & Analytics Roles**
 
 These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
 
