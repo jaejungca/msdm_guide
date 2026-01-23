@@ -145,7 +145,7 @@ To apply, you’ll typically prepare:
 
 -   **1 recommendation letter** (professor or work supervisor)
 
--   **Personal Statement / Statement of purpose** (often \~250–300 words)
+-   **Personal Statement / Statement of purpose** (250–300 words): See the [requirement](#what-should-be-in-personal-statement-statement-of-purpose) for details.
 
 -   **Resume**
 
@@ -195,7 +195,7 @@ Overall, we look for a **clear sense of purpose**, **strong program fit**, and *
 
 ### How We Evaluate Applications:
 
-::: callout-tip
+::: callout-important
 -   **Rolling review:** Applications are reviewed on a rolling basis, so earlier submissions may receive decisions sooner.
 -   **Statement of purpose matters:** We take the statement of purpose (personal statement) seriously. Applicants with clear career goals and a strong rationale for pursuing the MSDM are viewed favorably.
 -   **Holistic evaluation:** We review each application holistically, considering academic performance, professional experience, and evidence of commitment to your career goals. A weakness in one area can be **complemented** by strength in another.
