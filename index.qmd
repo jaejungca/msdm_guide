@@ -133,7 +133,7 @@ Based on national research with professionals across the insights and data indus
 
     2.  [Video Presentation about the Program & Curriculum](application.qmd#video-presentation-msdm)
 
-    3.  [Apply Checklist](application.qmd#apply-checklist)
+    3.  [Application Requirements](application.qmd#application-requirements)
 
     4.  [University Overview](application.qmd#university-overview)
 
