@@ -1,7 +1,6 @@
 ---
 title: "MSDM Career & Program Guide"
 subtitle: "for Master of Science in Digital Marketing Program at Cal Poly Pomona"
-description: "Overview of the website contents: Course registration, job outlook, career guide, scholarship, certificates, and student club"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: images/SGSB-logo.png
 about: # https://quarto.org/docs/websites/website-about.html
@@ -29,6 +28,8 @@ format:
     linkcolor: "black"
     #mainfont: "monospace"
     fontsize: 20px
+    metadata:
+        description-meta: "Overview of the website contents: Course registration, job outlook, career guide, scholarship, certificates, and student club"
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill
