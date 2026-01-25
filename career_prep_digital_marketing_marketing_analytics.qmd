@@ -399,15 +399,9 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
 ## Digital Marketing Specialist / Manager
 
--   <div>
+-   **Focus**: Broad strategy + execution across multiple channels.
 
-    #### **Focus**: Broad strategy + execution across multiple channels.
-
-    </div>
-
--   <div>
-
-    #### **Skills Needed**:
+-   **Skills Needed**:
 
     -   Campaign planning & execution (search, social, email, display).
 
@@ -417,11 +411,7 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Budget management, ROI tracking.
 
-    </div>
-
--   <div>
-
-    #### **Preparation in MS Program**:
+-   **Preparation in MS Program**:
 
     -   Coursework in marketing strategy, channel mix, campaign optimization.
 
@@ -429,19 +419,11 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Case studies on integrated campaigns.
 
-    </div>
-
 ## Social Media Marketing Specialist / Manager
 
--   <div>
+-   **Focus**: Content & engagement across platforms (Instagram, TikTok, LinkedIn, YouTube).
 
-    #### **Focus**: Content & engagement across platforms (Instagram, TikTok, LinkedIn, YouTube).
-
-    </div>
-
--   <div>
-
-    #### **Skills Needed**:
+-   **Skills Needed**:
 
     -   Content creation & curation.
 
@@ -451,11 +433,7 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Analytics (engagement, reach, sentiment).
 
-    </div>
-
--   <div>
-
-    #### **Preparation in MS Program**:
+-   **Preparation in MS Program**:
 
     -   Social media labs (hands-on posting, campaign tracking).
 
@@ -463,19 +441,11 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Understanding platform algorithms & trends.
 
-    </div>
-
 ## Search Engine Marketing (SEM) Specialist / PPC Specialist
 
--   <div>
+-   **Focus**: Paid search campaigns (Google Ads, Bing Ads).
 
-    #### **Focus**: Paid search campaigns (Google Ads, Bing Ads).
-
-    </div>
-
--   <div>
-
-    #### **Skills Needed**:
+-   **Skills Needed**:
 
     -   Keyword research, ad copywriting.
 
@@ -485,11 +455,7 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Google Ads & Microsoft Advertising certifications.
 
-    </div>
-
--   <div>
-
-    #### **Preparation in MS Program**:
+-   **Preparation in MS Program**:
 
     -   Google Ads certification as part of coursework.
 
@@ -497,19 +463,11 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Training in keyword tools (SEMrush, Ahrefs).
 
-    </div>
-
 ## SEO Specialist / Manager
 
--   <div>
+-   **Focus**: Organic visibility & traffic through search optimization.
 
-    #### **Focus**: Organic visibility & traffic through search optimization.
-
-    </div>
-
--   <div>
-
-    #### **Skills Needed**:
+-   **Skills Needed**:
 
     -   On-page SEO (content, metadata, technical SEO).
 
@@ -519,11 +477,7 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Basic HTML/CSS awareness.
 
-    </div>
-
--   <div>
-
-    #### **Preparation in MS Program**:
+-   **Preparation in MS Program**:
 
     -   Projects on SEO audits & optimization plans.
 
@@ -531,19 +485,11 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Exposure to website CMS (WordPress, Shopify).
 
-    </div>
-
 ## Email Marketing Specialist / CRM Manager
 
--   <div>
+-   **Focus**: Customer retention & engagement via email and CRM.
 
-    #### **Focus**: Customer retention & engagement via email and CRM.
-
-    </div>
-
--   <div>
-
-    #### **Skills Needed**:
+-   **Skills Needed**:
 
     -   Email campaign setup (HubSpot, Mailchimp, Salesforce Marketing Cloud).
 
@@ -553,11 +499,7 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Knowledge of deliverability & compliance (GDPR, CAN-SPAM).
 
-    </div>
-
--   <div>
-
-    #### **Preparation in MS Program**:
+-   **Preparation in MS Program**:
 
     -   Lab assignments in CRM/email platforms.
 
@@ -565,19 +507,11 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Testing frameworks for optimization.
 
-    </div>
-
 ## Database Marketing / Marketing Automation Specialist
 
--   <div>
+-   **Focus**: Customer data-driven marketing, automation workflows.
 
-    #### **Focus**: Customer data-driven marketing, automation workflows.
-
-    </div>
-
--   <div>
-
-    #### **Skills Needed**:
+-   **Skills Needed**:
 
     -   CRM systems (Salesforce, HubSpot, Marketo).
 
@@ -587,11 +521,7 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Integration of data sources (APIs, CDPs).
 
-    </div>
-
--   <div>
-
-    #### **Preparation in MS Program**:
+-   **Preparation in MS Program**:
 
     -   Training in CRM tools and data integration.
 
@@ -599,19 +529,11 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Exposure to privacy-first marketing (cookies, data ethics).
 
-    </div>
-
 ## Content Marketing Specialist / Manager
 
--   <div>
+-   **Focus**: Content strategy for brand awareness & engagement.
 
-    #### **Focus**: Content strategy for brand awareness & engagement.
-
-    </div>
-
--   <div>
-
-    #### **Skills Needed**:
+-   **Skills Needed**:
 
     -   Writing, editing, storytelling.
 
@@ -621,19 +543,13 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Analytics: content performance tracking.
 
-    </div>
-
--   <div>
-
-    #### **Preparation in MS Program**:
+-   **Preparation in MS Program**:
 
     -   Content strategy workshops.
 
     -   SEO + content calendar projects.
 
     -   Integration with paid & organic campaigns.
-
-    </div>
 
 ## E-commerce / Performance Marketing Specialist
 
