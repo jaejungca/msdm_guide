@@ -905,7 +905,7 @@ That said, if the student is focused primarily on R and relies heavily on RMarkd
 
 ### Connecting to data warehouses (three good paths)
 
-**A. Pure SQL inside VS Code**
+1. **Pure SQL inside VS Code**
 
     -   Use **SQLTools** plus the driver for your warehouse (Snowflake, Databricks, Postgres, etc.) to browse schemas and run queries inline.
 
@@ -917,11 +917,11 @@ That said, if the student is focused primarily on R and relies heavily on RMarkd
 
     -   FYI for Microsoft stacks: Azure Data Studio is being retired in 2026; Microsoft recommends moving to VS Code + SQL extensions. [Microsoft LearnLinks to an external site.](https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com "https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com")
 
-**B. R + DBI/odbc from your code**
+2. **R + DBI/odbc from your code**
 
     -   Use **DBI** with **odbc** (or backend-specific drivers like `RPostgres`, `bigrquery`) and optionally `dbplyr` to write dplyr that translates to SQL.
 
-**C. Python from your code**
+3. **C. Python from your code**
 
     -   Use **SQLAlchemy**, **pyodbc**, **snowflake-snowpark-python**, or **databricks-sql-connector** within VS Code’s Python/Jupyter workflow (extensions above cover environments and notebooks). (General pattern supported by the Python/Jupyter extensions.)
 
