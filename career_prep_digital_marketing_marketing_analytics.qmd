@@ -411,6 +411,12 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Budget management, ROI tracking.
 
+-   **Certs:** Google Ads (Search), GA4 Basics; optional Meta Blueprint.
+
+-   **Projects:** Integrated campaign plan + UTM tracking + post-mortem.
+
+-   **Tools:** Looker Studio/Tableau dashboard; budget pacing sheet.
+
 -   **Preparation in MS Program**:
 
     -   Coursework in marketing strategy, channel mix, campaign optimization.
@@ -432,6 +438,12 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
     -   Paid social ad platforms (Meta, TikTok Ads Manager, LinkedIn Ads).
 
     -   Analytics (engagement, reach, sentiment).
+
+-   **Portfolio:** 4-week content calendar, example posts, community guidelines.
+
+-   **Paid Social:** Ads Manager (Meta/TikTok/LinkedIn) basics + reporting pack.
+
+-   **Analytics:** Platform insights; creator/influencer brief.
 
 -   **Preparation in MS Program**:
 
@@ -455,6 +467,12 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Google Ads & Microsoft Advertising certifications.
 
+-   **Certs:** Google Ads Search & Shopping.
+
+-   **Exercises:** Keyword research; ad testing plan; quality score improvement.
+
+-   **Implementation:** Conversion tracking (incl. enhanced conversions), feed hygiene.
+
 -   **Preparation in MS Program**:
 
     -   Google Ads certification as part of coursework.
@@ -476,6 +494,12 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
     -   Tools: Google Search Console, Ahrefs, Screaming Frog.
 
     -   Basic HTML/CSS awareness.
+
+-   **Audits:** Technical (CWV, crawl, sitemap), on-page, off-page/backlinks.
+
+-   **Tools:** GSC, Screaming Frog, Ahrefs/SEMrush; basic schema examples.
+
+-   **Deliverable:** 90-day SEO roadmap with quick wins vs. projects.
 
 -   **Preparation in MS Program**:
 
@@ -499,6 +523,12 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Knowledge of deliverability & compliance (GDPR, CAN-SPAM).
 
+-   **Platform Lab:** Build a lifecycle journey (onboarding, re-engagement, winback).
+
+-   **Segmentation:** RFM or events-based cohorts; A/B subject/content tests.
+
+-   **Compliance:** CAN-SPAM/GDPR basics; deliverability checklist.
+
 -   **Preparation in MS Program**:
 
     -   Lab assignments in CRM/email platforms.
@@ -520,6 +550,12 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
     -   Journey mapping & trigger-based campaigns.
 
     -   Integration of data sources (APIs, CDPs).
+
+-   **Data:** SQL labs (joins, CTEs); warehouse basics (BigQuery/Snowflake).
+
+-   **Automation:** Event-triggered programs; API/ETL overview; CDP concepts.
+
+-   **Docs:** Tracking plan + data dictionary + field governance.
 
 -   **Preparation in MS Program**:
 
@@ -551,6 +587,12 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
     -   Integration with paid & organic campaigns.
 
+-   **SEO + Editorial:** Topic clusters, keyword briefs, internal linking plan.
+
+-   **Artifacts:** 3 sample posts in different formats (article, video outline, carousel).
+
+-   **Measurement:** Content scorecard (traffic, engagement, assisted conv.).
+
 ## E-commerce / Performance Marketing Specialist
 
 -   **Focus**: Driving online sales via paid performance campaigns.
@@ -564,6 +606,12 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
     -   Performance ad channels (Google Shopping, Meta, TikTok).
 
     -   ROAS, LTV, CAC metrics.
+
+-   **Shopping/Retail Media:** Feed management; Merchant Center; marketplaces.
+
+-   **CRO:** Landing page testing plan; funnel instrumentation; heatmaps.
+
+-   **Finance:** ROAS vs. contribution margin; LTV:CAC cohorts; pacing.
 
 -   **Preparation in MS Program**:
 
@@ -638,90 +686,6 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 +---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------+
 | E-commerce/Performance Marketing Specialist | E-commerce platforms (Shopify, Amazon), CRO, Performance ads, ROAS    | E-commerce projects, CRO assignments, Retail media case studies |
 +---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------+
-
-------------------------------------------------------------------------
-
-# **How to Prepare for DMS Careers** {#how-to-prepare-for-dms-careers}
-
-Students should select electives, projects, and certifications that reinforce those fits—e.g., SEM/PPC for Analytical+Performance; Social/Content for Creative; CRM/Automation for Technical+Analytical; or a broad Digital Marketing Specialist path for balanced profiles.
-
-## Digital Marketing Specialist / Manager
-
--   **Certs:** Google Ads (Search), GA4 Basics; optional Meta Blueprint.
-
--   **Projects:** Integrated campaign plan + UTM tracking + post-mortem.
-
--   **Tools:** Looker Studio/Tableau dashboard; budget pacing sheet.
-
-## Social Media Marketing Specialist / Manager
-
--   **Portfolio:** 4-week content calendar, example posts, community guidelines.
-
--   **Paid Social:** Ads Manager (Meta/TikTok/LinkedIn) basics + reporting pack.
-
--   **Analytics:** Platform insights; creator/influencer brief.
-
-## Content Marketing Specialist / Manager
-
--   **SEO + Editorial:** Topic clusters, keyword briefs, internal linking plan.
-
--   **Artifacts:** 3 sample posts in different formats (article, video outline, carousel).
-
--   **Measurement:** Content scorecard (traffic, engagement, assisted conv.).
-
-## SEM / PPC Specialist
-
--   **Certs:** Google Ads Search & Shopping.
-
--   **Exercises:** Keyword research; ad testing plan; quality score improvement.
-
--   **Implementation:** Conversion tracking (incl. enhanced conversions), feed hygiene.
-
-## SEO Specialist / Manager
-
--   **Audits:** Technical (CWV, crawl, sitemap), on-page, off-page/backlinks.
-
--   **Tools:** GSC, Screaming Frog, Ahrefs/SEMrush; basic schema examples.
-
--   **Deliverable:** 90-day SEO roadmap with quick wins vs. projects.
-
-## Email Marketing Specialist / CRM Manager
-
--   **Platform Lab:** Build a lifecycle journey (onboarding, re-engagement, winback).
-
--   **Segmentation:** RFM or events-based cohorts; A/B subject/content tests.
-
--   **Compliance:** CAN-SPAM/GDPR basics; deliverability checklist.
-
-## Database / Marketing Automation Specialist
-
--   **Data:** SQL labs (joins, CTEs); warehouse basics (BigQuery/Snowflake).
-
--   **Automation:** Event-triggered programs; API/ETL overview; CDP concepts.
-
--   **Docs:** Tracking plan + data dictionary + field governance.
-
-## E-commerce / Performance Marketing Specialist
-
--   **Shopping/Retail Media:** Feed management; Merchant Center; marketplaces.
-
--   **CRO:** Landing page testing plan; funnel instrumentation; heatmaps.
-
--   **Finance:** ROAS vs. contribution margin; LTV:CAC cohorts; pacing.
-
-## Electives & Certifications (mix-and-match)
-
--   **Core analytics:** GA4, Looker Studio/Tableau, A/B testing & experiment design.
-
--   **Search:** Google Ads (Search/Shopping), SEO audit lab.
-
--   **Social:** Meta/TikTok Ads Manager basics, community management.
-
--   **CRM/Automation:** HubSpot/Braze/Marketo fundamentals; SQL for marketers.
-
--   **E-commerce:** Retail media (Amazon/Walmart), feed management, CRO.
-
--   **Privacy & Data:** Consent, tagging plans, server-side tracking basics.
 
 # **Marketing Analysts and Marketing Data Scientists: Skills and Knowledge** {#skills-and-knowledge-for-analytics-careers}
 

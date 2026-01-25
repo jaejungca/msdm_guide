@@ -186,8 +186,6 @@ Based on national research with professionals across the insights and data indus
 
             -   [Skills and Preparations Per Specific Digital Marketing Job](career_prep_digital_marketing_marketing_analytics.qmd#skills-preparations-digital-marketing-jobs)
 
-            -   [How to Prepare for DMS Careers](career_prep_digital_marketing_marketing_analytics.qmd#how-to-prepare-for-dms-careers)
-
         3.  Marketing Analytics Jobs
 
             -   [Skills and Knowledge for MA Careers](career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-analytics-careers)
