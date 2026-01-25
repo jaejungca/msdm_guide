@@ -845,11 +845,11 @@ Key features include:
 
 -   **Integrated Data App Workflow**: Launch and debug Shiny, Streamlit, Dash, or FastAPI apps with a single click
 
-## How Does It Compare to RStudio for Data Warehouse Integration?
+### How Does It Compare to RStudio for Data Warehouse Integration?
 
 RStudio remains a highly stable and familiar environment for R work, especially in statistical modeling and reproducible reporting with R Markdown or Quarto. However, when it comes to interfacing with data warehouses—typically SQL-heavy work—Positron offers distinct advantages:
 
-### Advantages of Positron:
+#### Advantages of Positron:
 
 1.  **Built-In SQL Integration**: The Database Connection Pane lets users connect to and query SQL data sources right inside the IDE, making data-access streamlined.
 
@@ -857,7 +857,7 @@ RStudio remains a highly stable and familiar environment for R work, especially 
 
 3.  **Modern, Customizable UI**: Being based on VS Code, Positron supports a wide ecosystem of extensions, customizable layout, and flexible workflows
 
-### Things to Keep in Mind:
+#### Things to Keep in Mind:
 
 -   **Active Development**: Positron is still relatively new and under active development. Some features familiar from RStudio—like inline output in Quarto documents, workspace autosave on restart, history pane, and RStudio Add-ins—are not yet fully implemented.
 
@@ -865,7 +865,7 @@ RStudio remains a highly stable and familiar environment for R work, especially 
 
 -   **Foundation**: RStudio continues to be maintained with a focus on stability, especially for R-heavy workflows. Positron is additive, not a replacement
 
-## Judgment Call: Is Positron Better for Data Warehouse Workflows?
+### Judgment Call: Is Positron Better for Data Warehouse Workflows?
 
 **Yes—especially for workflows involving SQL or dual-language environments.** Here’s why:
 
@@ -945,13 +945,11 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 ### **Marketing Analyst**
 
-#### **Focus**:
+-   **Focus**:
 
--   Descriptive & diagnostic insights (what happened, why it happened).
+    -   Descriptive & diagnostic insights (what happened, why it happened).
 
-#### **Typical Tasks**:
-
--   <div>
+-   **Typical Tasks**:
 
     -   Pull and clean marketing data from multiple sources (Google Analytics, CRM, ad platforms).
     -   Build dashboards and reports (Tableau, Power BI, Looker).
@@ -959,11 +957,7 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
     -   Run A/B tests and interpret results.
     -   Provide actionable recommendations for channel optimization.
 
-    </div>
-
-#### **Core Skills**:
-
--   <div>
+-   **Core Skills**:
 
     -   **Data literacy**: SQL, Excel, visualization tools.
 
@@ -973,21 +967,17 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
     -   **Communication**: Translate data into insights for marketing managers.
 
-    </div>
+-   **Career Path**:
 
-#### **Career Path**:
-
--   Often moves into Marketing Manager, Growth Marketing, or Insights Lead roles.
+    -   Often moves into Marketing Manager, Growth Marketing, or Insights Lead roles.
 
 ### **Marketing Data Scientist**
 
-#### **Focus**:
+-   **Focus**:
 
--   Predictive & prescriptive modeling (what will happen, what should we do).
+    -   Predictive & prescriptive modeling (what will happen, what should we do).
 
-#### **Typical Tasks**:
-
--   <div>
+-   **Typical Tasks**:
 
     -   Develop and validate predictive models (churn prediction, customer lifetime value).
 
@@ -999,11 +989,7 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
     -   Work with large-scale data from warehouses and cloud platforms (BigQuery, Snowflake).
 
-    </div>
-
-#### **Core Skills**:
-
--   <div>
+-   **Core Skills**:
 
     -   **Programming**: R or Python for data science (pandas, scikit-learn, tidyverse, caret).
 
@@ -1013,11 +999,9 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
     -   **Business acumen**: Align modeling with marketing strategy and ROI impact.
 
-    </div>
+-   **Career Path**:
 
-#### **Career Path**:
-
--   Moves into Senior Data Scientist, Marketing Analytics Lead, or even Head of Data Science/AI for Marketing.
+    -   Moves into Senior Data Scientist, Marketing Analytics Lead, or even Head of Data Science/AI for Marketing.
 
 ### **Key Differences (Comparison & Contrast)**
 
@@ -1099,39 +1083,27 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 | **Business acumen**           | Tactical campaign support                      | Strategic forecasting, scenario planning            |
 +-------------------------------+------------------------------------------------+-----------------------------------------------------+
 
-### **Readiness Levels (Quick Checklist for Students)**
+### **Readiness Levels (Quick Checklist)**
 
-#### **Marketing Analyst Readiness**
+-  **Marketing Analyst Readiness**
 
--   Excel (pivot tables, advanced formulas)
+    -   Excel (pivot tables, advanced formulas)
+    -   SQL (basic querying, joins)
+    -   Tableau/Power BI (dashboards for campaign KPIs)
+    -   A/B test interpretation
+    -   Basic regression & correlation
+    -   Strong grasp of marketing metrics (CAC, LTV, ROAS, CTR)
+    -   Communication & storytelling with data
 
--   SQL (basic querying, joins)
+-   **Marketing Data Scientist Readiness**
 
--   Tableau/Power BI (dashboards for campaign KPIs)
-
--   A/B test interpretation
-
--   Basic regression & correlation
-
--   Strong grasp of marketing metrics (CAC, LTV, ROAS, CTR)
-
--   Communication & storytelling with data
-
-#### **Marketing Data Scientist Readiness**
-
--   R or Python (pandas, scikit-learn, tidyverse)
-
--   Advanced SQL & cloud data handling (BigQuery, Snowflake)
-
--   Predictive modeling (CLV, churn, forecasting)
-
--   Machine learning (classification, clustering, regression, NLP basics)
-
--   Advanced experiment design & causal inference
-
--   Marketing Mix Modeling & advanced attribution
-
--   Translate technical models into business decisions
+    -   R or Python (pandas, scikit-learn, tidyverse)
+    -   Advanced SQL & cloud data handling (BigQuery, Snowflake)
+    -   Predictive modeling (CLV, churn, forecasting)
+    -   Machine learning (classification, clustering, regression, NLP basics)
+    -   Advanced experiment design & causal inference
+    -   Marketing Mix Modeling & advanced attribution
+    -   Translate technical models into business decisions
 
 ### **Summary**:
 
@@ -1143,95 +1115,74 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 ### **Marketing Analyst (Entry-Level / Early Career)**
 
-#### **Focus:**
+-   **Focus:**
 
--   Reporting, campaign insights, dashboarding.
+    -   Reporting, campaign insights, dashboarding.
 
-#### **Core Skills:**
+-   **Core Skills:**
 
--   Excel, SQL (basic queries)
-
--   Tableau/Power BI dashboards
-
--   A/B test setup & interpretation
-
--   Marketing metrics (CTR, ROAS, CAC, LTV)
-
--   Strong communication (turning data → story)
+    -   Excel, SQL (basic queries)
+    -   Tableau/Power BI dashboards
+    -   A/B test setup & interpretation
+    -   Marketing metrics (CTR, ROAS, CAC, LTV)
+    -   Strong communication (turning data → story)
 
 ### **Senior Marketing Analyst / Marketing Analytics Specialist**
 
-#### **Focus:**
+-   **Focus:**
 
--   Deeper analysis, some modeling, mentoring junior analysts.
+    -   Deeper analysis, some modeling, mentoring junior analysts.
 
-#### **Extra Skills to Develop:**
+-   **Extra Skills to Develop:**
 
--   Intermediate SQL (joins, CTEs, optimization)
-
--   Regression analysis (linear, logistic)
-
--   Attribution modeling basics
-
--   Data storytelling for executives
-
--   Project management & cross-functional teamwork
+    -   Intermediate SQL (joins, CTEs, optimization)
+    -   Regression analysis (linear, logistic)
+    -   Attribution modeling basics
+    -   Data storytelling for executives
+    -   Project management & cross-functional teamwork
 
 ### **Marketing Data Scientist (Mid-Level)**
 
-#### **Focus:**
+-   **Focus:**
 
--   Predictive & prescriptive analytics, model building.
+    -   Predictive & prescriptive analytics, model building.
 
-#### **Extra Skills to Develop:**
+-   **Extra Skills to Develop:**
 
--   R or Python (tidyverse, pandas, scikit-learn)
-
--   Machine learning (classification, clustering, NLP basics)
-
--   Predictive modeling (CLV, churn, forecasting)
-
--   Marketing Mix Modeling (MMM) & algorithmic attribution
-
--   Experimental design beyond A/B (causal inference, uplift models)
-
--   Data pipeline work with cloud warehouses (BigQuery, Snowflake, AWS/GCP)
+    -   R or Python (tidyverse, pandas, scikit-learn)
+    -   Machine learning (classification, clustering, NLP basics)
+    -   Predictive modeling (CLV, churn, forecasting)
+    -   Marketing Mix Modeling (MMM) & algorithmic attribution
+    -   Experimental design beyond A/B (causal inference, uplift models)
+    -   Data pipeline work with cloud warehouses (BigQuery, Snowflake, AWS/GCP)
 
 ### **Senior Data Scientist / Analytics Lead**
 
-#### **Focus:**
+-   **Focus:**
 
--   Advanced modeling, strategy influence, leadership.
+    -   Advanced modeling, strategy influence, leadership.
 
-#### **Extra Skills to Develop:**
+-   **Extra Skills to Develop:**
 
--   Advanced ML (ensemble models, Bayesian methods, deep learning exposure)
-
--   Scalable data solutions (Spark, ML pipelines)
-
--   Model deployment / MLOps basics
-
--   Leading analytics projects & mentoring junior scientists
-
--   Translating data science → marketing strategy at senior level
+    -   Advanced ML (ensemble models, Bayesian methods, deep learning exposure)
+    -   Scalable data solutions (Spark, ML pipelines)
+    -   Model deployment / MLOps basics
+    -   Leading analytics projects & mentoring junior scientists
+    -   Translating data science → marketing strategy at senior level
 
 ### **Head of Marketing Analytics / Director of Data Science (Leadership Track)**
 
-#### **Focus:**
+-   **Focus:**
 
--   Strategy, vision, and business impact at scale.
+    -   Strategy, vision, and business impact at scale.
 
-#### **Extra Skills to Develop:**
+-   **Extra Skills to Develop:**
 
--   People leadership & team building
-
--   Budgeting and resource allocation
-
--   Data governance & ethics in AI/marketing
-
--   Communicating with C-suite & non-technical stakeholders
-
--   Driving innovation (AI personalization, advanced attribution, causal ML)
+    -   People leadership & team building
+    -   Budgeting and resource allocation
+    -   Data governance & ethics in AI/marketing
+    -   Communicating with C-suite & non-technical stakeholders
+    -   Driving innovation (AI personalization, advanced attribution, causal ML)
 
 ### **Summary of Ladder**:
 
