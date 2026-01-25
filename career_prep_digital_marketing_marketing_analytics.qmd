@@ -743,33 +743,33 @@ Yes, you can be job-ready with just R for many marketing analytics and data scie
 
 ### **Programming & Tools**
 
-#### Must-Have
+-   Must-Have
 
--   **R (strong foundation)**
+    -   **R (strong foundation)**
 
-    -   Data wrangling: `dplyr`, `tidyr`
+        -   Data wrangling: `dplyr`, `tidyr`
 
-    -   Visualization: `ggplot2`, `plotly`
+        -   Visualization: `ggplot2`, `plotly`
 
-    -   Modeling: `caret`, `tidymodels`, `lavaan` (SEM), `forecast`/`prophet`
+        -   Modeling: `caret`, `tidymodels`, `lavaan` (SEM), `forecast`/`prophet`
 
-    -   Reporting: `RMarkdown`, `Shiny`
+        -   Reporting: `RMarkdown`, `Shiny`
 
--   **SQL**
+    -   **SQL**
 
-    -   Querying large marketing/customer databases
+        -   Querying large marketing/customer databases
 
-    -   Joins, aggregations, window functions
+        -   Joins, aggregations, window functions
 
-#### Nice-to-Have (to maximize opportunities)
+-   Nice-to-Have (to maximize opportunities)
 
--   **Python (working knowledge)**
+    -   **Python (working knowledge)**
 
-    -   `pandas`, `numpy`, `scikit-learn` for predictive modeling
+        -   `pandas`, `numpy`, `scikit-learn` for predictive modeling
 
-    -   Optional: `tensorflow/pytorch` for deep learning if going ML-heavy
+        -   Optional: `tensorflow/pytorch` for deep learning if going ML-heavy
 
--   **BI Tools**: Tableau or PowerBI (business-facing dashboards)
+    -   **BI Tools**: Tableau or PowerBI (business-facing dashboards)
 
 ### **Math & Stats Foundation**
 
@@ -831,7 +831,7 @@ Encourage students to **publish on GitHub + LinkedIn**:
 
 **Positron** is a free, next-generation data science IDE from Posit (formerly RStudio) that supports both **Python and R** natively—it’s designed for polyglot workflows. It’s built on the open-source **Code OSS** (the foundation of VS Code) and brings a modern, extensible environment tailored for data work
 
-Key features include:
+**Key features include:**
 
 -   **Variable & Data Frame Explorer**: Explore, filter, sort, and summarize your data interactively
 
@@ -849,21 +849,21 @@ Key features include:
 
 RStudio remains a highly stable and familiar environment for R work, especially in statistical modeling and reproducible reporting with R Markdown or Quarto. However, when it comes to interfacing with data warehouses—typically SQL-heavy work—Positron offers distinct advantages:
 
-#### Advantages of Positron:
+-   **Advantages of Positron:**
 
-1.  **Built-In SQL Integration**: The Database Connection Pane lets users connect to and query SQL data sources right inside the IDE, making data-access streamlined.
+    1.  **Built-In SQL Integration**: The Database Connection Pane lets users connect to and query SQL data sources right inside the IDE, making data-access streamlined.
 
-2.  **Polyglot Workflow**: For teams or students who may use both R and Python for ETL, modeling, or automation, Positron lets them do so in one session—no context-switching needed.
+    2.  **Polyglot Workflow**: For teams or students who may use both R and Python for ETL, modeling, or automation, Positron lets them do so in one session—no context-switching needed.
 
-3.  **Modern, Customizable UI**: Being based on VS Code, Positron supports a wide ecosystem of extensions, customizable layout, and flexible workflows
+    3.  **Modern, Customizable UI**: Being based on VS Code, Positron supports a wide ecosystem of extensions, customizable layout, and flexible workflows
 
-#### Things to Keep in Mind:
+-   Things to Keep in Mind:
 
--   **Active Development**: Positron is still relatively new and under active development. Some features familiar from RStudio—like inline output in Quarto documents, workspace autosave on restart, history pane, and RStudio Add-ins—are not yet fully implemented.
+    -   **Active Development**: Positron is still relatively new and under active development. Some features familiar from RStudio—like inline output in Quarto documents, workspace autosave on restart, history pane, and RStudio Add-ins—are not yet fully implemented.
 
--   **Learning Curve**: Switching from RStudio may take some onboarding time, especially for users accustomed to its tightly integrated interface
+    -   **Learning Curve**: Switching from RStudio may take some onboarding time, especially for users accustomed to its tightly integrated interface
 
--   **Foundation**: RStudio continues to be maintained with a focus on stability, especially for R-heavy workflows. Positron is additive, not a replacement
+    -   **Foundation**: RStudio continues to be maintained with a focus on stability, especially for R-heavy workflows. Positron is additive, not a replacement
 
 ### Judgment Call: Is Positron Better for Data Warehouse Workflows?
 
@@ -887,43 +887,43 @@ That said, if the student is focused primarily on R and relies heavily on RMarkd
 
 1.  **R in VS Code**
 
--   Extension: **“R” (REditorSupport)** — consoles, data viewer, plots pane, workspace browser, debugging, Rmd support. ([Visual Studio Marketplace;](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=reditorsupport.r&utm_source=chatgpt.com")[Visual Studio Code;](https://code.visualstudio.com/docs/languages/r?utm_source=chatgpt.com "https://code.visualstudio.com/docs/languages/r?utm_source=chatgpt.com")[GitHub.](https://github.com/REditorSupport/vscode-R?search=1&utm_source=chatgpt.com "https://github.com/reditorsupport/vscode-r?search=1&utm_source=chatgpt.com"))
+    -   Extension: **“R” (REditorSupport)** — consoles, data viewer, plots pane, workspace browser, debugging, Rmd support. ([Visual Studio Marketplace;](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=reditorsupport.r&utm_source=chatgpt.com")[Visual Studio Code;](https://code.visualstudio.com/docs/languages/r?utm_source=chatgpt.com "https://code.visualstudio.com/docs/languages/r?utm_source=chatgpt.com")[GitHub.](https://github.com/REditorSupport/vscode-R?search=1&utm_source=chatgpt.com "https://github.com/reditorsupport/vscode-r?search=1&utm_source=chatgpt.com"))
 
--   Helpful bits:
+    -   Helpful bits:
 
-    -   `languageserver` for IDE features (autocomplete, linting). ([jozef.io](https://jozef.io/r300-language-server-setup/?utm_source=chatgpt.com "https://jozef.io/r300-language-server-setup/?utm_source=chatgpt.com"))
+        -   `languageserver` for IDE features (autocomplete, linting). ([jozef.io](https://jozef.io/r300-language-server-setup/?utm_source=chatgpt.com "https://jozef.io/r300-language-server-setup/?utm_source=chatgpt.com"))
 
-    -   `httpgd` for a great plot viewer (enable “R: Plot: Use httpgd”). Note: currently installed from GitHub. ([Stack Overflow](https://stackoverflow.com/questions/52284345/how-to-show-r-graph-from-visual-studio-code?utm_source=chatgpt.com "https://stackoverflow.com/questions/52284345/how-to-show-r-graph-from-visual-studio-code?utm_source=chatgpt.com"))
+        -   `httpgd` for a great plot viewer (enable “R: Plot: Use httpgd”). Note: currently installed from GitHub. ([Stack Overflow](https://stackoverflow.com/questions/52284345/how-to-show-r-graph-from-visual-studio-code?utm_source=chatgpt.com "https://stackoverflow.com/questions/52284345/how-to-show-r-graph-from-visual-studio-code?utm_source=chatgpt.com"))
 
 2.  **Quarto**
 
--   Install Quarto CLI, then VS Code **“Quarto”** extension for render/preview and project workflows (websites/books).
+    -   Install Quarto CLI, then VS Code **“Quarto”** extension for render/preview and project workflows (websites/books).
 
 3.  **Python**
 
--   Extensions: **Python**, **Pylance**, and **Jupyter** (first-class support; active monthly releases; new dedicated **Python Environments** panel rolling out). ([Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=ms-python.python&utm_source=chatgpt.com"); [Microsoft for Developers+1](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release/?utm_source=chatgpt.com "https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release/?utm_source=chatgpt.com"); [Visual Studio Magazine](https://visualstudiomagazine.com/articles/2025/08/18/dedicated-python-environments-tool-rolls-out-in-vs-code-update.aspx?utm_source=chatgpt.com "https://visualstudiomagazine.com/articles/2025/08/18/dedicated-python-environments-tool-rolls-out-in-vs-code-update.aspx?utm_source=chatgpt.com"))
+    -   Extensions: **Python**, **Pylance**, and **Jupyter** (first-class support; active monthly releases; new dedicated **Python Environments** panel rolling out). ([Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python&utm_source=chatgpt.com "https://marketplace.visualstudio.com/items?itemname=ms-python.python&utm_source=chatgpt.com"); [Microsoft for Developers+1](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release/?utm_source=chatgpt.com "https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2025-release/?utm_source=chatgpt.com"); [Visual Studio Magazine](https://visualstudiomagazine.com/articles/2025/08/18/dedicated-python-environments-tool-rolls-out-in-vs-code-update.aspx?utm_source=chatgpt.com "https://visualstudiomagazine.com/articles/2025/08/18/dedicated-python-environments-tool-rolls-out-in-vs-code-update.aspx?utm_source=chatgpt.com"))
 
 ### Connecting to data warehouses (three good paths)
 
 **A. Pure SQL inside VS Code**
 
--   Use **SQLTools** plus the driver for your warehouse (Snowflake, Databricks, Postgres, etc.) to browse schemas and run queries inline.
+    -   Use **SQLTools** plus the driver for your warehouse (Snowflake, Databricks, Postgres, etc.) to browse schemas and run queries inline.
 
--   Examples:
+    -   Examples:
 
-    -   **Snowflake** VS Code extension (SQL + Snowpark integration).
+        -   **Snowflake** VS Code extension (SQL + Snowpark integration).
 
-    -   **Databricks** driver for SQLTools (query SQL Warehouses directly).
+        -   **Databricks** driver for SQLTools (query SQL Warehouses directly).
 
--   FYI for Microsoft stacks: Azure Data Studio is being retired in 2026; Microsoft recommends moving to VS Code + SQL extensions. [Microsoft LearnLinks to an external site.](https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com "https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com")
+    -   FYI for Microsoft stacks: Azure Data Studio is being retired in 2026; Microsoft recommends moving to VS Code + SQL extensions. [Microsoft LearnLinks to an external site.](https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com "https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com")
 
 **B. R + DBI/odbc from your code**
 
--   Use **DBI** with **odbc** (or backend-specific drivers like `RPostgres`, `bigrquery`) and optionally `dbplyr` to write dplyr that translates to SQL.
+    -   Use **DBI** with **odbc** (or backend-specific drivers like `RPostgres`, `bigrquery`) and optionally `dbplyr` to write dplyr that translates to SQL.
 
 **C. Python from your code**
 
--   Use **SQLAlchemy**, **pyodbc**, **snowflake-snowpark-python**, or **databricks-sql-connector** within VS Code’s Python/Jupyter workflow (extensions above cover environments and notebooks). (General pattern supported by the Python/Jupyter extensions.)
+    -   Use **SQLAlchemy**, **pyodbc**, **snowflake-snowpark-python**, or **databricks-sql-connector** within VS Code’s Python/Jupyter workflow (extensions above cover environments and notebooks). (General pattern supported by the Python/Jupyter extensions.)
 
 ### VS Code vs. Positron vs. RStudio (for your use case)
 
@@ -1127,7 +1127,7 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
     -   Marketing metrics (CTR, ROAS, CAC, LTV)
     -   Strong communication (turning data → story)
 
-### **Senior Marketing Analyst / Marketing Analytics Specialist**
+### **Senior Marketing Analyst**
 
 -   **Focus:**
 
