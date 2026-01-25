@@ -946,11 +946,9 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 ### **Marketing Analyst**
 
 -   **Focus**:
-
     -   Descriptive & diagnostic insights (what happened, why it happened).
 
 -   **Typical Tasks**:
-
     -   Pull and clean marketing data from multiple sources (Google Analytics, CRM, ad platforms).
     -   Build dashboards and reports (Tableau, Power BI, Looker).
     -   Conduct campaign performance analysis (CTR, ROI, ROAS, CAC, LTV).
@@ -958,49 +956,33 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
     -   Provide actionable recommendations for channel optimization.
 
 -   **Core Skills**:
-
     -   **Data literacy**: SQL, Excel, visualization tools.
-
     -   **Statistics**: Descriptive stats, correlation, significance testing.
-
     -   **Marketing knowledge**: Channel metrics, attribution basics, customer segmentation.
-
     -   **Communication**: Translate data into insights for marketing managers.
 
 -   **Career Path**:
-
     -   Often moves into Marketing Manager, Growth Marketing, or Insights Lead roles.
 
 ### **Marketing Data Scientist**
 
 -   **Focus**:
-
     -   Predictive & prescriptive modeling (what will happen, what should we do).
 
 -   **Typical Tasks**:
-
     -   Develop and validate predictive models (churn prediction, customer lifetime value).
-
     -   Build marketing mix models & attribution frameworks.
-
     -   Apply machine learning (clustering for customer segments, NLP for social media sentiment).
-
     -   Run advanced experiments (multivariate tests, causal inference).
-
     -   Work with large-scale data from warehouses and cloud platforms (BigQuery, Snowflake).
 
 -   **Core Skills**:
-
     -   **Programming**: R or Python for data science (pandas, scikit-learn, tidyverse, caret).
-
     -   **Statistics & ML**: Regression, classification, clustering, Bayesian methods, deep learning (basic exposure).
-
     -   **Data engineering**: Handling large data (SQL optimization, Spark, APIs).
-
     -   **Business acumen**: Align modeling with marketing strategy and ROI impact.
 
 -   **Career Path**:
-
     -   Moves into Senior Data Scientist, Marketing Analytics Lead, or even Head of Data Science/AI for Marketing.
 
 ### **Key Differences (Comparison & Contrast)**
@@ -1086,7 +1068,6 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 ### **Readiness Levels (Quick Checklist)**
 
 -  **Marketing Analyst Readiness**
-
     -   Excel (pivot tables, advanced formulas)
     -   SQL (basic querying, joins)
     -   Tableau/Power BI (dashboards for campaign KPIs)
@@ -1096,7 +1077,6 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
     -   Communication & storytelling with data
 
 -   **Marketing Data Scientist Readiness**
-
     -   R or Python (pandas, scikit-learn, tidyverse)
     -   Advanced SQL & cloud data handling (BigQuery, Snowflake)
     -   Predictive modeling (CLV, churn, forecasting)
@@ -1116,11 +1096,9 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 ### **Marketing Analyst (Entry-Level / Early Career)**
 
 -   **Focus:**
-
     -   Reporting, campaign insights, dashboarding.
 
 -   **Core Skills:**
-
     -   Excel, SQL (basic queries)
     -   Tableau/Power BI dashboards
     -   A/B test setup & interpretation
@@ -1130,11 +1108,9 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 ### **Senior Marketing Analyst**
 
 -   **Focus:**
-
     -   Deeper analysis, some modeling, mentoring junior analysts.
 
 -   **Extra Skills to Develop:**
-
     -   Intermediate SQL (joins, CTEs, optimization)
     -   Regression analysis (linear, logistic)
     -   Attribution modeling basics
@@ -1144,11 +1120,9 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 ### **Marketing Data Scientist (Mid-Level)**
 
 -   **Focus:**
-
     -   Predictive & prescriptive analytics, model building.
 
 -   **Extra Skills to Develop:**
-
     -   R or Python (tidyverse, pandas, scikit-learn)
     -   Machine learning (classification, clustering, NLP basics)
     -   Predictive modeling (CLV, churn, forecasting)
@@ -1159,11 +1133,9 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 ### **Senior Data Scientist / Analytics Lead**
 
 -   **Focus:**
-
     -   Advanced modeling, strategy influence, leadership.
 
 -   **Extra Skills to Develop:**
-
     -   Advanced ML (ensemble models, Bayesian methods, deep learning exposure)
     -   Scalable data solutions (Spark, ML pipelines)
     -   Model deployment / MLOps basics
@@ -1173,11 +1145,9 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 ### **Head of Marketing Analytics / Director of Data Science (Leadership Track)**
 
 -   **Focus:**
-
     -   Strategy, vision, and business impact at scale.
 
 -   **Extra Skills to Develop:**
-
     -   People leadership & team building
     -   Budgeting and resource allocation
     -   Data governance & ethics in AI/marketing
