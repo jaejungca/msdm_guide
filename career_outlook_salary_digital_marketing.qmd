@@ -1,7 +1,6 @@
 ---
 title: "Career Outlook and Salary"
 subtitle: "Job roles, Job Volumes, Growth Rates, and Salary Ranges"
-description: "Overview of digital marketing and analytics job volume, projected growth rate, and salary expectations."
 image: images/msdm-crosswalk.png
 date: December 26, 2025
 format: 
@@ -15,6 +14,8 @@ format:
     embed-resources: true
     smooth-scroll: true
     fontsize: 18px
+    metadata:
+      description-meta: "Overview of various digital marketing roles, volume, projected growth rate, and salary expectations."
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill

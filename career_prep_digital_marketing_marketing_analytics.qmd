@@ -1,7 +1,6 @@
 ---
 title: "Career Guide for Master of Science in Digital Marketing Students"
 subtitle: "Skills, Career Readiness, and Resources"
-description: "A comprehensive guide to job titles, skills, and resources for careers in digital marketing and marketing analytics"
 image: images/msdm-crosswalk.png
 author: 
   - name: "MSDM Faculty"
@@ -18,6 +17,8 @@ format:
     embed-resources: true
     smooth-scroll: true
     fontsize: 18px
+    metadata:
+      description-meta: "A comprehensive career guide to international students seeking jobs in the U.S. as well as preparations needed for all jobs in digital marketing and marketing analytics. Further this page provides guidance for resources and strategies to enhance employability."
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill
@@ -394,7 +395,7 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
 ------------------------------------------------------------------------
 
-# **Common Digital Marketing Job Titles & Career Readiness**
+# **Skills and Preparations Needed for Digital Marketing Jobs** {#skills-preparations-digital-marketing-jobs}
 
 ## Digital Marketing Specialist / Manager
 
