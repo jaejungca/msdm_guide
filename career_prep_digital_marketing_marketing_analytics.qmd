@@ -691,7 +691,7 @@ Digital Marketing Managers *must* be **data-literate** (able to interpret and ac
 
 ## Career Preparations for Marketing Analytics Career
 
-Data science jobs tailored for marketing is different from regular data science jobs or business analytics. So, again, I consulted GPT 5. My MS in Digital Marketing students asked me if they will be ready for job market as marketing data scientist if they use R and don't use Python. What advice would you give them?
+Data science jobs tailored for marketing is different from regular data science jobs or business analytics. Which tools should you be familiar with?
 
 ### **R is absolutely a marketable skill, but Python often gives an edge**
 
@@ -722,7 +722,7 @@ Data science jobs tailored for marketing is different from regular data science 
 ::: callout-tip
 ### 👉 So the bottom line to students would be:
 
-Yes, you can be job-ready with just R for many marketing analytics and data science roles. But if you want to maximize opportunities—especially in ML-heavy or tech-company contexts—adding at least some Python competency will make you more competitive.
+Yes, you can be job-ready with just R for many marketing analytics and data science roles. But if you want to maximize opportunities—especially in ML-heavy or tech-company contexts—adding at least s**ome Python competency** will make you more competitive.
 :::
 
 ## Marketing Data Scientist Job-Readiness Roadmap
@@ -905,7 +905,7 @@ That said, if the student is focused primarily on R and relies heavily on RMarkd
 
 ### Connecting to data warehouses (three good paths)
 
-1. **Pure SQL inside VS Code**
+1.  **Pure SQL inside VS Code**
 
     -   Use **SQLTools** plus the driver for your warehouse (Snowflake, Databricks, Postgres, etc.) to browse schemas and run queries inline.
 
@@ -917,11 +917,11 @@ That said, if the student is focused primarily on R and relies heavily on RMarkd
 
     -   FYI for Microsoft stacks: Azure Data Studio is being retired in 2026; Microsoft recommends moving to VS Code + SQL extensions. [Microsoft LearnLinks to an external site.](https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com "https://learn.microsoft.com/en-us/azure-data-studio/whats-happening-azure-data-studio?utm_source=chatgpt.com")
 
-2. **R + DBI/odbc from your code**
+2.  **R + DBI/odbc from your code**
 
     -   Use **DBI** with **odbc** (or backend-specific drivers like `RPostgres`, `bigrquery`) and optionally `dbplyr` to write dplyr that translates to SQL.
 
-3. **C. Python from your code**
+3.  **C. Python from your code**
 
     -   Use **SQLAlchemy**, **pyodbc**, **snowflake-snowpark-python**, or **databricks-sql-connector** within VS Code’s Python/Jupyter workflow (extensions above cover environments and notebooks). (General pattern supported by the Python/Jupyter extensions.)
 
@@ -947,20 +947,17 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 -   **Focus**:
     -   Descriptive & diagnostic insights (what happened, why it happened).
-
 -   **Typical Tasks**:
     -   Pull and clean marketing data from multiple sources (Google Analytics, CRM, ad platforms).
     -   Build dashboards and reports (Tableau, Power BI, Looker).
     -   Conduct campaign performance analysis (CTR, ROI, ROAS, CAC, LTV).
     -   Run A/B tests and interpret results.
     -   Provide actionable recommendations for channel optimization.
-
 -   **Core Skills**:
     -   **Data literacy**: SQL, Excel, visualization tools.
     -   **Statistics**: Descriptive stats, correlation, significance testing.
     -   **Marketing knowledge**: Channel metrics, attribution basics, customer segmentation.
     -   **Communication**: Translate data into insights for marketing managers.
-
 -   **Career Path**:
     -   Often moves into Marketing Manager, Growth Marketing, or Insights Lead roles.
 
@@ -968,20 +965,17 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 -   **Focus**:
     -   Predictive & prescriptive modeling (what will happen, what should we do).
-
 -   **Typical Tasks**:
     -   Develop and validate predictive models (churn prediction, customer lifetime value).
     -   Build marketing mix models & attribution frameworks.
     -   Apply machine learning (clustering for customer segments, NLP for social media sentiment).
     -   Run advanced experiments (multivariate tests, causal inference).
     -   Work with large-scale data from warehouses and cloud platforms (BigQuery, Snowflake).
-
 -   **Core Skills**:
     -   **Programming**: R or Python for data science (pandas, scikit-learn, tidyverse, caret).
     -   **Statistics & ML**: Regression, classification, clustering, Bayesian methods, deep learning (basic exposure).
     -   **Data engineering**: Handling large data (SQL optimization, Spark, APIs).
     -   **Business acumen**: Align modeling with marketing strategy and ROI impact.
-
 -   **Career Path**:
     -   Moves into Senior Data Scientist, Marketing Analytics Lead, or even Head of Data Science/AI for Marketing.
 
@@ -1067,7 +1061,7 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 ### **Readiness Levels (Quick Checklist)**
 
--  **Marketing Analyst Readiness**
+-   **Marketing Analyst Readiness**
     -   Excel (pivot tables, advanced formulas)
     -   SQL (basic querying, joins)
     -   Tableau/Power BI (dashboards for campaign KPIs)
@@ -1075,7 +1069,6 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
     -   Basic regression & correlation
     -   Strong grasp of marketing metrics (CAC, LTV, ROAS, CTR)
     -   Communication & storytelling with data
-
 -   **Marketing Data Scientist Readiness**
     -   R or Python (pandas, scikit-learn, tidyverse)
     -   Advanced SQL & cloud data handling (BigQuery, Snowflake)
@@ -1097,7 +1090,6 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 -   **Focus:**
     -   Reporting, campaign insights, dashboarding.
-
 -   **Core Skills:**
     -   Excel, SQL (basic queries)
     -   Tableau/Power BI dashboards
@@ -1109,7 +1101,6 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 -   **Focus:**
     -   Deeper analysis, some modeling, mentoring junior analysts.
-
 -   **Extra Skills to Develop:**
     -   Intermediate SQL (joins, CTEs, optimization)
     -   Regression analysis (linear, logistic)
@@ -1121,7 +1112,6 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 -   **Focus:**
     -   Predictive & prescriptive analytics, model building.
-
 -   **Extra Skills to Develop:**
     -   R or Python (tidyverse, pandas, scikit-learn)
     -   Machine learning (classification, clustering, NLP basics)
@@ -1134,7 +1124,6 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 -   **Focus:**
     -   Advanced modeling, strategy influence, leadership.
-
 -   **Extra Skills to Develop:**
     -   Advanced ML (ensemble models, Bayesian methods, deep learning exposure)
     -   Scalable data solutions (Spark, ML pipelines)
@@ -1146,7 +1135,6 @@ Two major job levels in marketing analytics are Marketing Analysts and Marketing
 
 -   **Focus:**
     -   Strategy, vision, and business impact at scale.
-
 -   **Extra Skills to Develop:**
     -   People leadership & team building
     -   Budgeting and resource allocation
