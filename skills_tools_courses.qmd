@@ -1,7 +1,6 @@
 ---
 title: "Skills • Tools • Courses Alignment"
 subtitle: "Choose your electives that are aligned with your career"
-description: "How MSDM courses develop the data, analytical, and strategic skills for digital-marketing careers."
 image: images/msdm-crosswalk.png
 date: December 5, 2025
 format: 
@@ -15,6 +14,8 @@ format:
     embed-resources: true
     smooth-scroll: true
     fontsize: 18px
+    metadata:
+      description-meta: "A skills-and-tools roadmap for MSDM students: learn what each course covers, track your progress, and choose the right electives for your career objective."
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill

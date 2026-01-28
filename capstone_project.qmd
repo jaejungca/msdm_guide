@@ -1,7 +1,6 @@
 ---
 title: "MSDM Culminating Experience Project (aka Capstone Project) "
 subtitle: "Tips for Maximizing Value for Your Career"
-description: "This page provides students with valuable insights on the capstone project before and during the year-long process."
 image: images/msdm-crosswalk.png
 date: December 20, 2025
 format: 
@@ -15,6 +14,8 @@ format:
     embed-resources: true
     smooth-scroll: true
     fontsize: 18px
+    metadata:
+      description-meta: "This page provides students with valuable insights on the capstone project before and during the year-long culminating experience process."
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill

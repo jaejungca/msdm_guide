@@ -1,7 +1,6 @@
 ---
 title: "MSDM Onboarding Steps for Admitted Students"
 subtitle: "From Admission to Curriculum Plan"
-description: "Welcome to MSDM! This page outlines the key steps you’ll take before the program begins, including important tasks, resources, and your final curriculum plan submission. Move through the sections in order to stay on track."
 image: images/msdm-crosswalk.png
 date: January 14, 2026
 format: 
@@ -15,6 +14,8 @@ format:
     embed-resources: true
     smooth-scroll: true
     fontsize: 20px
+    metadata:
+      description-meta: "Welcome to MSDM! This page outlines the key steps you’ll take before the program begins, including important tasks, resources, and your final curriculum plan submission. Move through the sections in order to stay on track."
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill

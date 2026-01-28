@@ -1,7 +1,6 @@
 ---
 title: "Course Registration"
 subtitle: "Courses to Take Per Term"
-description: "Sequence of courses to take for two years for the MS in Digital Marketing Program"
 image: images/msdm-crosswalk.png
 date: December 6, 2025
 format: 
@@ -15,6 +14,8 @@ format:
     embed-resources: true
     smooth-scroll: true
     fontsize: 20px
+    metadata:
+      description-meta: "Registering for MSDM courses made simple: recommended sequencing, enrollment windows, waitlists, permission numbers, and add/drop reminders for CPP students."
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill

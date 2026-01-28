@@ -1,7 +1,6 @@
 ---
 title: "MSDM Boot Camp "
 subtitle: "Basic Tools and Concepts to Study before First Semester"
-description: "This page provides students with study materials before students start their first semester at the MSDM Program."
 image: images/msdm-crosswalk.png
 date: November 3, 2025
 format: 
@@ -15,6 +14,8 @@ format:
     embed-resources: true
     smooth-scroll: true
     fontsize: 20px
+    metadata:
+      description-meta: "This page provides students with study materials before students start their first semester at the MSDM Program."
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill
