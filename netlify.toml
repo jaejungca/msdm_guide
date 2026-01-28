@@ -1,2 +1,8 @@
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
+
+[[redirects]]
+  from = "https://ms-digital-marketing-cpp.netlify.app/*"
+  to = "https://cppmsdm.com/:splat"
+  status = 301
+  force = true
