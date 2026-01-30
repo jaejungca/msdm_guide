@@ -1,12 +1,12 @@
 project: 
   type: website
   resources: 
-    - google1267df0bc9c2f454.html
+    #- google1267df0bc9c2f454.html #Google site verification file
     - robots.txt
 
 website: 
   title: "MSDM Career & Program Guide"
-  google-analytics: "G-G21XFNERQJ"
+  #google-analytics: "G-G21XFNERQJ"
   favicon: images/CPP_Primary_Gold_favicon.png
   description: "MSDM at Cal Poly Pomona: digital marketing strategy + marketing analytics, curriculum, admissions, costs, and career preparation."
   site-url: https://cppmsdm.com
