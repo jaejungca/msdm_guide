@@ -128,13 +128,17 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
     -   **Be Selective About Client Participation**
 
-        > Invite your client to these meetings **only when you need their input or feedback** for the following reasons.
+    ::: callout-warning
+    #### Be Strategic:
 
-        > 1.  Your clients are extremely busy. They are not interested in being an observer if you spend most of the time engaging with your professor, not your client.
-        > 2.  Your faculty needs sufficient time to engage with you for a weekly meeting. The presence of client can often limit the time your faculty can spend with you.
-        > 3.  Your client does not need to see the internal "working process" of our advising sessions.
-        > 4.  Your client may not be aware of the specific challenges you are facing, and involving them in every discussion may not be productive.
-        > 5.  Note that this is a consulting project, not an internship. This means that you should showcase the best of your abilities.
+    > Invite your client to these meetings **only when you need their input or feedback** for the following reasons.
+
+    > 1.  Your clients are extremely busy. They are not interested in being an observer if you spend most of the time engaging with your professor, not your client.
+    > 2.  Your faculty needs sufficient time to engage with you for a weekly meeting. The presence of client can often limit the time your faculty can spend with you.
+    > 3.  Your client does not need to see the internal "working process" of our advising sessions.
+    > 4.  Your client may not be aware of the specific challenges you are facing, and involving them in every discussion may not be productive.
+    > 5.  Note that this is a consulting project, not an internship. This means that you should showcase the best of your abilities.
+    :::
 
     -   **Document** all decisions and action items clearly, and share meeting notes with all participants afterward.
 
