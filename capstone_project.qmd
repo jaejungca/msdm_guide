@@ -48,7 +48,7 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 ### How to Work with Your Group Members
 
-1.  Use a Shared Cloud Folder.
+1.  **Use a Shared Cloud Folder.**
 
 ::: callout-note
 #### Take an action
@@ -58,7 +58,7 @@ Successful capstone projects depend not only on analytical skills, but also on *
 -   Cal Poly Pomona supports **OneDrive**, so it is the preferred cloud platform.
 :::
 
-2.  Meet Regularly
+2.  **Meet Regularly**
 
     -   Hold a **group meeting before** your weekly meeting with your faculty lead to align internally.
 
@@ -66,17 +66,17 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
     -   To reduce scheduling challenges, consider using class time in CEP-hosting courses (IBM 6200, IBM 6800, IBM 6950) for group meetings.
 
-3.  Use Student-Only Meetings Effectively
+3.  **Use Student-Only Meetings Effectively**
 
-::: callout-tip
-#### Smart Action
+    ::: callout-tip
+    #### Smart Action
 
--   Discuss tasks to be completed.
+    -   Discuss tasks to be completed.
 
--   Assign responsibilities to team members.
+    -   Assign responsibilities to team members.
 
--   Identify and refine questions to ask your faculty lead or client
-:::
+    -   Identify and refine questions to ask your faculty lead or client
+    :::
 
 ### How to Work with Your Faculty Lead
 
@@ -88,11 +88,11 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 2.  **Ensure Transparency and Accountability**
 
-::: callout-important
--   Create subfolders labeled with each team member’s name to document individual contributions.
+    ::: callout-important
+    -   Create subfolders labeled with each team member’s name to document individual contributions.
 
--   Transparency helps teams self-regulate contributions and reduces conflicts related to free-riding, which is common in group projects.
-:::
+    -   Transparency helps teams self-regulate contributions and reduces conflicts related to free-riding, which is common in group projects.
+    :::
 
 3.  **Meet Weekly—with Purpose**
 
@@ -108,15 +108,15 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 4.  **Conduct Meetings Professionally**
 
-::: callout-tip
--   Use your email program’s **calendar and scheduling features** to organize meetings.
+    ::: callout-tip
+    -   Use your email program’s **calendar and scheduling features** to organize meetings.
 
--   Always send a **calendar invitation** to all attendees.
+    -   Always send a **calendar invitation** to all attendees.
 
--   This is standard professional practice and helps prevent missed meetings, double booking, and miscommunication.
-
--   Effective use of scheduling tools reflects professionalism and respect for others’ time.
-:::
+        -   This is standard professional practice and helps prevent missed meetings, double booking, and miscommunication.
+        
+    -   Effective use of scheduling tools reflects professionalism and respect for others’ time.
+    :::
 
 ### How to Work with Your Client
 
@@ -150,19 +150,19 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 3.  **How Often Should You Meet with the Client?**
 
-::: callout-caution
--   Client meetings are typically **less frequent** than faculty meetings.
+    ::: callout-caution
+    -   Client meetings are typically **less frequent** than faculty meetings.
 
--   Invite the client when your agenda includes questions or decisions that **only the client can address**, such as:
+    -   Invite the client when your agenda includes questions or decisions that **only the client can address**, such as:
 
-    -   Company background or marketing strategy not publicly available
+        -   Company background or marketing strategy not publicly available
 
-    -   Internal data required for the project
+        -   Internal data required for the project
 
-    -   All major MSDM-required presentations (one in Fall, two in Spring, and two in Summer)
+        -   All major MSDM-required presentations (one in Fall, two in Spring, and two in Summer)
 
-    -   Requests for approval, resources, or cooperation (e.g., executing a digital marketing plan)
-:::
+        -   Requests for approval, resources, or cooperation (e.g., executing a digital marketing plan)
+    :::
 
 ### Best Scheduling Practices
 
@@ -172,28 +172,28 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 3.  Manage Agendas Wisely for Recurring Meetings
 
-::: callout-important
-### Details
+    ::: callout-important
+    ### Details
 
--   If you have already sent a long-term recurring invite, use **one shared cloud document** to store all future agendas.
+    -   If you have already sent a long-term recurring invite, use **one shared cloud document** to store all future agendas.
 
--   **Update the document before each meeting** so everyone arrives prepared.
+    -   **Update the document before each meeting** so everyone arrives prepared.
 
--   **Recommended Tools**
+    -   **Recommended Tools**
 
-    -   In **Google Docs**:\
-        Use tabs, with each tab labeled by meeting date.
-    -   In **Microsoft Word**:\
-        Turn on *View → Navigation Pane* and use heading styles (Title, Heading 1, Heading 2, etc.) to organize agendas hierarchically.
-:::
+        -   In **Google Docs**:\
+            Use tabs, with each tab labeled by meeting date.
+        -   In **Microsoft Word**:\
+            Turn on *View → Navigation Pane* and use heading styles (Title, Heading 1, Heading 2, etc.) to organize agendas hierarchically.
+    :::
 
 4.  Exercise a Proper Rescheduling or Canceling a Meeting Incident
 
-::: callout-warning
--   Cancel or reschedule **only the specific meeting instance**, not the entire series.
+    ::: callout-warning
+    -   Cancel or reschedule **only the specific meeting instance**, not the entire series.
 
--   Always notify all participants via the calendar system.
-:::
+    -   Always notify all participants via the calendar system.
+    :::
 
 ### Use a Project Management Tool
 
