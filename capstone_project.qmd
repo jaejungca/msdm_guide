@@ -48,28 +48,28 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 ### How to Work with Your Group Members
 
-#### Use a Shared Cloud Folder.
+1.  Use a Shared Cloud Folder.
 
 ::: callout-note
-##### Take an action
+#### Take an action
 
 -   Create a shared cloud folder (e.g., OneDrive or Google Drive) and grant **edit access** to all team members.
 
 -   Cal Poly Pomona supports **OneDrive**, so it is the preferred cloud platform.
 :::
 
-#### Meet Regularly
+2.  Meet Regularly
 
--   Hold a **group meeting before** your weekly meeting with your faculty lead to align internally.
+    -   Hold a **group meeting before** your weekly meeting with your faculty lead to align internally.
 
--   Since faculty meetings typically occur once a week, meeting as a group **once a week** is recommended.
+    -   Since faculty meetings typically occur once a week, meeting as a group **once a week** is recommended.
 
--   To reduce scheduling challenges, consider using class time in CEP-hosting courses (IBM 6200, IBM 6800, IBM 6950) for group meetings.
+    -   To reduce scheduling challenges, consider using class time in CEP-hosting courses (IBM 6200, IBM 6800, IBM 6950) for group meetings.
 
-#### Use Student-Only Meetings Effectively
+3.  Use Student-Only Meetings Effectively
 
 ::: callout-tip
-##### Smart Action
+#### Smart Action
 
 -   Discuss tasks to be completed.
 
@@ -80,13 +80,13 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 ### How to Work with Your Faculty Lead
 
-#### Share Your Entire Project Folder
+1.  **Share Your Entire Project Folder**
 
--   Share your **entire cloud project folder** with your faculty lead—not just selected files—even if they have not explicitly requested access.
+    -   Share your **entire cloud project folder** with your faculty lead—not just selected files—even if they have not explicitly requested access.
 
--   This enables efficient feedback and reduces unnecessary back-and-forth.
+    -   This enables efficient feedback and reduces unnecessary back-and-forth.
 
-#### Ensure Transparency and Accountability
+2.  **Ensure Transparency and Accountability**
 
 ::: callout-important
 -   Create subfolders labeled with each team member’s name to document individual contributions.
@@ -94,13 +94,19 @@ Successful capstone projects depend not only on analytical skills, but also on *
 -   Transparency helps teams self-regulate contributions and reduces conflicts related to free-riding, which is common in group projects.
 :::
 
-#### Meet Weekly—with Purpose
+3.  **Meet Weekly—with Purpose**
 
--   Teams are expected to meet with their faculty lead **once a week**, unless there is no agenda for that week.
+    -   Teams are expected to meet with their faculty lead **once a week**, unless there is no agenda for that week.
 
--   If you do not have topics to discuss, you may skip the meeting—but regular, purposeful meetings are essential for project success.
+        -   Typically faculty project leads need at least one hour a week to work with you in reviewing your work and providing technical guidance. Faculty guidance will be most needed when you collect **data and analyze the data**.
 
-#### Schedule Meetings Professionally
+    -   **Share agenda prior to the meeting** especially if you want the faculty lead to prepare for the discussion.
+
+    -   If you do not have topics to discuss, you may skip the meeting—but regular, purposeful meetings are essential for project success.
+
+        -   Consider sending a brief update email to your faculty lead if you do not meet.
+
+4.  **Conduct Meetings Professionally**
 
 ::: callout-tip
 -   Use your email program’s **calendar and scheduling features** to organize meetings.
@@ -114,19 +120,31 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 ### How to Work with Your Client
 
-#### Faculty–Client Joint Meetings
+1.  **Faculty–Client Joint Meetings**
 
--   In most cases, inviting the client to your **regular weekly meeting with your faculty lead** is the most efficient approach.
+    -   Inviting the client to your **regular weekly meeting with your faculty lead** is most efficient approach in **the beginning of the project** when you are still defining the project scope and objectives and seek out client's internal information and resources you need for the project.
 
--   Treat these as joint meetings involving both faculty and client.
+    -   Treat these as joint meetings involving both faculty and client.
 
-#### Meetings Without Faculty
+    -   **Be Selective About Client Participation**
 
--   Scheduling separate meetings with the client can be challenging if faculty are unavailable.
+        > Invite your client to these meetings **only when you need their input or feedback** for the following reasons.
 
--   If you must meet with the client without your faculty lead present, **update the faculty afterward** with key takeaways and decisions.
+        > 1.  Your clients are extremely busy. They are not interested in being an observer if you spend most of the time engaging with your professor, not your client.
+        > 2.  Your faculty needs sufficient time to engage with you for a weekly meeting. The presence of client can often limit the time your faculty can spend with you.
+        > 3.  Your client does not need to see the internal "working process" of our advising sessions.
+        > 4.  Your client may not be aware of the specific challenges you are facing, and involving them in every discussion may not be productive.
+        > 5.  Note that this is a consulting project, not an internship. This means that you should showcase the best of your abilities.
 
-#### How Often Should You Meet with the Client?
+    -   **Document** all decisions and action items clearly, and share meeting notes with all participants afterward.
+
+2.  **Meetings Without Faculty**
+
+    -   Scheduling separate meetings with the client can be challenging if faculty are unavailable.
+        -   Keep in mind that your faculty lead are not obligated to meet outside of the regular weekly meeting.
+    -   If you must meet with the client without your faculty lead present, **update the faculty afterward** with key takeaways and decisions.
+
+3.  **How Often Should You Meet with the Client?**
 
 ::: callout-caution
 -   Client meetings are typically **less frequent** than faculty meetings.
@@ -144,14 +162,14 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 ### Best Scheduling Practices
 
-#### Use a **recurring calendar invite** for weekly meetings.
+1.  Use a **recurring calendar invite** for weekly meetings.
 
-#### Include the **meeting agenda** in the calendar invite whenever possible.
+2.  Include the **meeting agenda** in the calendar invite whenever possible.
 
-#### Manage Agendas Wisely for Recurring Meetings
+3.  Manage Agendas Wisely for Recurring Meetings
 
 ::: callout-important
-##### Details
+### Details
 
 -   If you have already sent a long-term recurring invite, use **one shared cloud document** to store all future agendas.
 
@@ -165,7 +183,7 @@ Successful capstone projects depend not only on analytical skills, but also on *
         Turn on *View → Navigation Pane* and use heading styles (Title, Heading 1, Heading 2, etc.) to organize agendas hierarchically.
 :::
 
-#### Exercise a Proper Rescheduling or Canceling a Meeting Incident
+4.  Exercise a Proper Rescheduling or Canceling a Meeting Incident
 
 ::: callout-warning
 -   Cancel or reschedule **only the specific meeting instance**, not the entire series.
@@ -184,6 +202,10 @@ To plan activities, track milestones, and coordinate tasks effectively, use a **
 For a detailed comparison of project management tools and guidance on how to choose one, see [**Project Management Tools**](skills_tools_courses.qmd#project-management-tools).
 
 ## **Project Milestones and Timelines**
+
+::: callout-note
+The following table outlines key milestones and deadlines for the MSDM Culminating Experience Project over the one-year timeline.
+:::
 
 +-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 | Week / Date                 | Task                                                                                                                                         |
