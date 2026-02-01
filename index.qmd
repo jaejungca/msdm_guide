@@ -29,7 +29,7 @@ format:
     #mainfont: "monospace"
     fontsize: 20px
     metadata:
-        description-meta: "Overview of the website contents: Course registration, job outlook, career guide, scholarship, certificates, and student club"
+        description-meta: "Explore the MSDM Career & Program Guide at Cal Poly Pomona. A STEM-designated Master’s program specializing in Digital Marketing Strategy and Marketing Analytics for impactful careers."
     other-links: 
       - text: MS in Digital Marketing
         icon: mortarboard-fill
