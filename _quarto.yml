@@ -125,6 +125,7 @@ website:
       
 format: 
   html: 
+    canonical-url: true
     include-in-header:
       - text: |
           <!-- Google Tag Manager -->
@@ -153,4 +154,4 @@ format:
       dark: darkly
     css: styles.scss
 execute: 
-  enabled: false
+  freeze: true
