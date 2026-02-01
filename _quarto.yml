@@ -108,8 +108,8 @@ website:
       - text: Capstone Project
         #href: capstone_project.qmd
         menu:
-          - text: How to Manage Expectations
-            href: capstone_project.qmd#how-to-manage-expectations
+          - text: Collaboration Expectations with Group Members, Faculty Lead, and Client
+            href: capstone_project.qmd#expectations-collaboration
           - text: Project Milestones and Timelines
             href: capstone_project.qmd#project-milestones-and-timelines
           - text: How to Choose a Project

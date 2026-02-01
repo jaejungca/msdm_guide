@@ -42,7 +42,7 @@ The **CEP** spans one academic year and typically begins in the **fall semester 
 Through hands-on problem solving, data analysis, and strategic thinking, students generate actionable insights, develop a digital marketing plan, and execute that plan. This page outlines what to expect, how to prepare, and how the capstone strengthens your professional portfolio and career readiness.
 :::
 
-## **How to Manage Expectations**
+## **Expectations on Collaboration with Group Members, Faculty Lead, and Client** {#expectations-collaboration}
 
 Successful capstone projects depend not only on analytical skills, but also on **effective collaboration, professional communication, and disciplined project management**. The following recommendations apply throughout the entire project lifecycle—from Fall through Summer.
 
@@ -149,7 +149,7 @@ Successful capstone projects depend not only on analytical skills, but also on *
     -   Scheduling separate meetings with the client can be challenging if faculty are unavailable.
 
         -   Keep in mind that your faculty lead are not obligated to meet outside of the regular weekly meeting.
-        
+
     -   If you must meet with the client without your faculty lead present, **update the faculty afterward** with key takeaways and decisions.
 
 3.  **How Often Should You Meet with the Client?**
