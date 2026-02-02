@@ -181,7 +181,7 @@ To apply, you’ll typically prepare:
 
 Submit all the application document at [**Cal State Apply**](https://www.calstate.edu/apply/graduate). Look for the MSDM Program under Cal Poly Pomona Extended University.
 
-### What Should be in Personal Statement / Statement of Purpose?
+### What Should be in Personal Statement / Statement of Purpose? {#what-should-be-in-personal-statement-statement-of-purpose}
 
 ::: callout-tip
 For **the Statement of Purpose (250–300 words)**, applicants should explain **why** they chose the MS in Digital Marketing program and **how** their educational and/or professional background has prepared them for graduate-level study. If they are **pivoting** from another field, they should briefly describe **what motivated the change** and any steps they have taken to explore digital marketing or marketing analytics (e.g., coursework, projects, certifications, internships, or work experience).
@@ -270,7 +270,7 @@ With CPGE support, students benefit from:
 
 Digital marketing is a vast field where roles are typically categorized by the **channel** they manage (like social media or email) or the **level of strategy** involved. Here is a breakdown of typical jobs in digital marketing categorized by specialization and seniority.
 
-**1. Content & Creative Roles**
+### Content & Creative Roles
 
 These roles focus on the "what"—the actual assets users see and interact with.
 
@@ -288,7 +288,7 @@ These roles focus on the "what"—the actual assets users see and interact with.
 These roles can be great careers, but **H-1B sponsorship is often less common** because many positions don’t consistently require a highly specialized degree and are more frequently offered by smaller teams or agencies.
 :::
 
-**2. Technical & Performance Roles**
+### Technical & Performance Roles
 
 These roles focus on the "how"—the data, algorithms, and paid spend that get the content in front of the right people.
 
@@ -304,7 +304,7 @@ These roles focus on the "how"—the data, algorithms, and paid spend that get t
 Sponsorship likelihood varies a lot here. Roles that emphasize **analytics implementation, marketing technology, automation, and data (e.g., SQL, tagging, dashboards, experimentation)** tend to align better with H-1B patterns than roles that are primarily creative or campaign coordination.
 :::
 
-**3. Marketing Data & Analytics Roles**
+### Marketing Data & Analytics Roles
 
 These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
 
@@ -317,7 +317,7 @@ These roles focus on **measurement and decision-making**—turning marketing dat
 These roles are **often the most H-1B-friendly** in digital marketing because they more clearly map to specialized, degree-linked skill sets (statistics, analytics, data science, computing), and because larger employers who sponsor are more likely to hire for these positions.
 :::
 
-**4. Strategy & Leadership Roles (often mid-career+)**
+### Strategy & Leadership Roles (often mid-career+)
 
 As you move up the ladder, the focus shifts from "doing" to "planning." These are the jobs that are not likely to be within the reach right after you graduate unless you have already sufficient experience in other specialty jobs in Content & Creative Roles or Technology and Performance Roles.
 
@@ -443,31 +443,33 @@ Students outside California, including international students, pay the **same pe
 
 Students are supported through:
 
--   **Program guidance on curriculum and planning**
+### Program guidance on curriculum and planning
 
--   **Scholarships**
+### Scholarships
 
-    -   **Recruitment scholarship:** no separate application (evaluated based on your admission materials)
+-   **Recruitment scholarship:** no separate application (evaluated based on your admission materials)
 
-    -   **Professional development scholarship:** typically after at least one semester; may support certifications
+-   **Professional development scholarship:** typically after at least one semester; may support certifications
 
-    -   **Merit-based scholarship:** typically after at least one semester; the graduate school sends application calls
+-   **Merit-based scholarship:** typically after at least one semester; the graduate school sends application calls
 
-    -   **LOGRAR/PPOHA Grant**
+-   **LOGRAR/PPOHA Grant**
 
-    -   **LOGRAR Travel Request for Funding**
+-   **LOGRAR Travel Request for Funding**
 
-    -   **Healthcare Communications & Marketing Scholarships**
+-   **Healthcare Communications & Marketing Scholarships**
 
--   **Assistantships**
+### Assistantships
 
-    -   **TA:** Contact professors who teach IBM 3012 (Principles of Marketing Management).
+-   **TA:** Contact professors who teach IBM 3012 (Principles of Marketing Management).
 
-    -   **RA:** limited availability. Look at opportunities on [Handshake](https://careercenter.cpp.edu/channels/handshake-101/) or [Cal Poly Pomona Enterprises website](https://cppenterprises.org/services/employment-services/employment-opportunities/).
+-   **RA:** limited availability. Look at opportunities on [Handshake](https://careercenter.cpp.edu/channels/handshake-101/) or [Cal Poly Pomona Enterprises website](https://cppenterprises.org/services/employment-services/employment-opportunities/).
 
--   **Financial aid resources**
+### Financial aid resources
 
-    -   <https://www.cpp.edu/financial-aid/index.shtml>
+-   <https://www.cpp.edu/financial-aid/index.shtml>
+
+### Jobs and Internships
 
 -   **On-campus job opportunities** (many students find campus jobs and work across departments; jobs are typically posted through Handshake)
 
@@ -485,14 +487,13 @@ Students are supported through:
 
     For **international students**, when a micro-internship is required as part of a course, exceptions to CTP applys regarding timing for work authorization processes.
 
--   **Student Club**: [**OptiMark Digital Marketing & Analytics Soceity**](career_prep_digital_marketing_marketing_analytics.qmd#optimark-digital-marketing-analytics-society), an MSDM student club.
+### Extra-Curricular Activities
 
+-   **Student Club**:
+    -   OptiMark Digital Marketing & Analytics Soceity, an MSDM student club.
 -   [**Research Seminar**](https://www.cpp.edu/cba/customer-insights-lab/research/seminar/index.shtml)
-
 -   [**Virtual Workshops**](https://www.cpp.edu/cba/customer-insights-lab/resources/virtual-workshops/index.shtml)
-
 -   [**Expert Speaker Series**](https://www.cpp.edu/cba/customer-insights-lab/industry-partnership/speakers/index.shtml)
-
 -   [**Innovation Symposium**](https://www.cpp.edu/cba/symposium.shtml)
 
 ## **More Information & Contacts**
