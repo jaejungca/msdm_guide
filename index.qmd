@@ -128,7 +128,7 @@ Based on national research with professionals across the insights and data indus
 
 ## **Website Organization**
 
-1.  **Application**
+1.  [**Application**](application.qmd)
 
     1.  [Introduction](application.qmd#introduction)
 
@@ -154,7 +154,7 @@ Based on national research with professionals across the insights and data indus
 
 2.  **Career Outlook & Guide**
 
-    1.  **Career Options, Outlook, and Salary**
+    1.  [**Career Options, Outlook, and Salary**](career_outlook_salary_digital_marketing.qmd)
 
         1.  [Career Outlook](career_outlook_salary_digital_marketing.qmd#career-outlook)
 
@@ -176,7 +176,7 @@ Based on national research with professionals across the insights and data indus
 
             6.  [Key Financial Insights](career_outlook_salary_digital_marketing.qmd#key-financial-insights)
 
-    2.  **Career Preparation Guide**
+    2.  [**Career Preparation Guide**](career_prep_digital_marketing_marketing_analytics.qmd)
 
         1.  [Career Guidance for Internatoinal Students](career_prep_digital_marketing_marketing_analytics.qmd#career-guidance-for-international-students)
 
@@ -204,7 +204,7 @@ Based on national research with professionals across the insights and data indus
 
             -   [OptiMark Digital Marketing & Analytics Society](career_prep_digital_marketing_marketing_analytics.qmd#optimark-digital-marketing-analytics-society)
 
-3.  **MSDM Onboarding Guide**
+3.  [**MSDM Onboarding Guide**](curriculum_contract.qmd)
 
     1.  [Key Actions You Must Take Soon after Your Admission](curriculum_contract.qmd#key-actions-you-must-take-soon-after-your-admission)
 
@@ -228,7 +228,7 @@ Based on national research with professionals across the insights and data indus
 
     10. [Step 8: Register for Courses](curriculum_contract.html#register-for-courses)
 
-4.  **Course Registration**
+4.  [**Course Registration**](course_registration.qmd)
 
     1.  [Before You Register: What Every MSDM Student Should Know](course_registration.qmd)
 
@@ -250,13 +250,13 @@ Based on national research with professionals across the insights and data indus
 
 5.  **Skills & Tools**
 
-    1.  **Boot Camp**
+    1.  [**Boot Camp**](msdm_bootcamp.qmd)
 
         1.  [Spreadsheet Skills](msdm_bootcamp.qmd#spreadsheet-skills)
 
         2.  [R Programming and Statistics](msdm_bootcamp.qmd#r-programming-and-statistics)
 
-    2.  **Skills • Tools • Courses Alignment**
+    2.  [**Skills • Tools • Courses Alignment**](skills_tools_courses.qmd)
 
         1.  [Tools and Skills along the Student Learning Journey](skills_tools_courses.qmd#tools-and-skills-along-the-student-learning-journey)
 
@@ -274,7 +274,7 @@ Based on national research with professionals across the insights and data indus
 
         8.  [DataCamp Virtual Classroom](skills_tools_courses.qmd#datacamp-virtual-classroom)
 
-6.  **Capstone Project (MSDM Culminating Experience Project)** - A Required Year-Long Project
+6.  [**Capstone Project (MSDM Culminating Experience Project)**](capstone_project.qmd) - A Required Year-Long Project
 
     1.  [Expectations on Collaboration with Group Members, Faculty Lead, and Client](capstone_project.qmd#expectations-collaboration)
 
