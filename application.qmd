@@ -330,7 +330,7 @@ As you move up the ladder, the focus shifts from "doing" to "planning." These ar
 -   **Chief Marketing Officer (CMO):** The highest executive level, responsible for the brand’s total marketing vision and budget.
 
 ::: callout-tip
-For detailed information about Job Outlook and Salary, see [**Digital Marketing & Analytics Job Outlook**](career_outlook_salary_digital_marketing.qmd#digital-marketing-analytics-job-outlook).
+For detailed information about Job Outlook, visit [**Career Outlook and Salary**](career_outlook_salary_digital_marketing.qmd) page.
 :::
 
 ## **Curriculum & Completion Roadmap Options**
