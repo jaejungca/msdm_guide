@@ -363,7 +363,7 @@ By graduation, you’ll be able to:
     -   \(2\) **Marketing Analytics** emphasis or
     -   \(3\) **Balanced/Customized** option (by taking a mix of courses from both emphases to tailor one's needs for target career roles and get the best of both worlds.)
 
--   **Culminating Experience Project (Capstone / CEP)**\
+-   [**Culminating Experience Project (Capstone / CEP)**](capstone_project.qmd)\
     The program includes a **multi-semester client project**. Student teams work with a faculty lead across three semesters:
 
     -   **Fall:** proposal and project plan
