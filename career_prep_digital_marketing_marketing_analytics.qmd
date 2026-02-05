@@ -14,7 +14,7 @@ format:
     toc-expand: 1
     code-overflow: scroll
     number-sections: true
-    embed-resources: true
+    embed-resources: false
     smooth-scroll: true
     fontsize: 18px
     metadata:

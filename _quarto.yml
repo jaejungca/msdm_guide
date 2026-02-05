@@ -144,6 +144,7 @@ format:
     toc: true
     toc-expand: true
     toc-depth: 3
+    embed-resources: false
     #backgroundcolor: "#F0EAD6"
     #fontcolor: "darkgreen"
     #linkcolor: "black"
