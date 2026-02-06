@@ -174,7 +174,7 @@ As you move up the ladder, the focus shifts from "doing" to "planning." These ar
 | **Social Media Manager** | Build brand awareness & community | Hootsuite, Canva, Sprout Social |
 | **Marketing Analyst/Data Scientist** | Provide data-driven insights | Google Analytics 4, Looker Studio, Tableau, R/Python, SQL |
 
-### Digital Marketing Job Roles at a Glance
+### Summary of Digital Marketing Job Roles
 
 ::: callout-important
 #### Conclusion
