@@ -464,15 +464,15 @@ Students outside California, including international students, pay the **same pe
 
 Students are supported through:
 
-### Program guidance on curriculum and planning
+### Program Guidance on Curriculum and Planning
 
 ### Scholarships
 
--   **Recruitment scholarship:** no separate application (evaluated based on your admission materials)
+-   **Recruitment Scholarship:** no separate application (evaluated based on your admission materials)
 
--   **Professional development scholarship:** typically after at least one semester; may support certifications
+-   **Professional Development Scholarship:** typically after at least one semester; may support certifications
 
--   **Merit-based scholarship:** typically after at least one semester; the graduate school sends application calls
+-   **Merit-Based Scholarship:** typically after at least one semester; the graduate school sends application calls
 
 -   **LOGRAR/PPOHA Grant**
 
@@ -486,7 +486,7 @@ Students are supported through:
 
 -   **RA:** limited availability. Look at opportunities on [Handshake](https://careercenter.cpp.edu/channels/handshake-101/) or [Cal Poly Pomona Enterprises website](https://cppenterprises.org/services/employment-services/employment-opportunities/).
 
-### Financial aid resources
+### Financial Aid Resources
 
 -   <https://www.cpp.edu/financial-aid/index.shtml>
 
@@ -506,17 +506,19 @@ Students are supported through:
 
     Some courses include [**micro-internship experiences**](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships) that involve working with a real client. In examples shared, students completed client-facing work, met weekly with the client, and received compensation while completing class projects.
 
-    For **international students**, when a micro-internship is required as part of a course, exceptions to CTP applys regarding timing for work authorization processes.
+    ::: callout-note
+    For **international students**, when a **micro-internship** is required as part of a course, exceptions to CPT apply regarding timing for work authorization processes. This means that international students may be able to participate in micro-internships earlier than the standard 2-semester requirement for CPT eligibility, but they should consult with the program director and the international student office to understand the specific requirements and timelines for work authorization.
+    :::
 
-### Extra-Curricular Activities
+### Extra-Curricular Opportunities
 
 -   **Student Club**:
 
-    -   OptiMark Digital Marketing & Analytics Society, an MSDM student club.
+    -   [OptiMark Digital Marketing & Analytics Society](career_prep_digital_marketing_marketing_analytics.qmd#optimark-digital-marketing-analytics-society), an MSDM student club.
 
--   [**Research Seminar**](https://www.cpp.edu/cba/customer-insights-lab/research/seminar/index.shtml)
+-   [**Research Seminar Series**](https://www.cpp.edu/cba/customer-insights-lab/research/seminar/index.shtml)
 
--   [**Virtual Workshops**](https://www.cpp.edu/cba/customer-insights-lab/resources/virtual-workshops/index.shtml)
+-   [**Virtual Workshops Series**](https://www.cpp.edu/cba/customer-insights-lab/resources/virtual-workshops/index.shtml)
 
 -   [**Expert Speaker Series**](https://www.cpp.edu/cba/customer-insights-lab/industry-partnership/speakers/index.shtml)
 
