@@ -91,16 +91,20 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 
 ### Core Courses
 
--   IBM 5910 - Strategic Data Wrangling and Visualization (3)
+-   IBM 5910 - Strategic Data Wrangling and Visualization (3)[^2]
 
 -   IBM 6010 - Digital Marketing (3)
 
+[^2]: In this course, you may learn various BI tools, but R will be main tool for data wranging and visualization, report generation, and publication, emphasizing reproducible document. As you deal with visualizing data, you will also be taught some basic statistics concept such as probability, descriptive statistics, and hypothesis testing. If you have taken a statistics course in your undergraduate program, this course may give you sufficient knowledge. However, if you want a greater depth of knowledge, you are welcome to take GBA 5140 as an elective.
+
 ### Electives
 
--   GBA 5140 - Statistics Essentials (3)
+-   GBA 5140 - Statistics Essentials (3)[^3]
 
     -   Eligible for Emphasis Other category for DMS Emphasis
     -   Eligible for Emphasis Other category for MA Emphasis
+
+[^3]: GBA 5140 is a service course offered by Technology and Operatoins Management (TOM) Department for graduate students in SGSB Programs and is similar to its undergraduate course, TOM 3020 (Statistical Foundations for Business Analytics). If you have taken a college-level statistics course in your undergraduate program, you don't need to take this course, as IBM 5190 will cover some basic essential statistical concepts (e.g., descriptive statistics, test of hypothesis, etc.). If you have never taken a statistics course, however, the choice may depend on your aspired [**career roles**](career_outlook_salary_digital_marketing.qmd#typical-job-titles). If you want to pursue **Content & Creative Roles or technology & Performance Roles**, IBM 5190 may be good enough and you don't need to take GBA 5140. On the other hand, If you want to pursue a **data and analytics roles**, you will want to take the course, as strong statistical background would be necessary.
 
 ## **Year 1, Spring**
 
@@ -128,13 +132,13 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 
     -   Eligible for Emphasis Other category for MA Emphasis
 
--   IBM 6520 - Market Forecasting (2)[^2]
+-   IBM 6520 - Market Forecasting (2)[^4]
 
     -   Recommended for MA Emphasis
 
     -   Eligible for Emphasis Other category for DMS Emphasis
 
-[^2]: This course requires IBM 6510 as a prerequisite. We put both courses together knowing that concurrent enrollment is not an issue. We will help you enroll in IBM 6520 by issuing you a permission code. Please contact **Jennifer Cousins** at CPGE (email: jlcousens at cpp.edu).
+[^4]: This course requires IBM 6510 as a prerequisite. We put both courses together knowing that concurrent enrollment is not an issue. We will help you enroll in IBM 6520 by issuing you a permission code. Please contact **Jennifer Cousins** at CPGE (email: jlcousens at cpp.edu).
 
 ## **Year 1, Summer**
 
@@ -182,15 +186,15 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 
 ### Core Courses
 
--   IBM 6400 - Current Issues in Digital Marketing (1)[^3]
+-   IBM 6400 - Current Issues in Digital Marketing (1)[^5]
 
--   IBM 6800 - Data-Driven Digital Marketing Strategy I (2)[^4]
+-   IBM 6800 - Data-Driven Digital Marketing Strategy I (2)[^6]
 
     -   MSDM Culminating Experience Project housed in this course
 
-[^3]: This course is scheduled back to back with IBM 6800 on the same night. Although IBM 6400 course is not directly relevant to [MSDM CEP](capstone_project.qmd), which is hosted in IBM 6800, students are expected to take both courses on the same night in their 2nd year of their curriculum roadmap. First year students should not take the course unless they are following 1-year roadmap.
+[^5]: This course is scheduled back to back with IBM 6800 on the same night. Although IBM 6400 course is not directly relevant to [MSDM CEP](capstone_project.qmd), which is hosted in IBM 6800, students are expected to take both courses on the same night in their 2nd year of their curriculum roadmap. First year students should not take the course unless they are following 1-year roadmap.
 
-[^4]: This course requires four prerequisites, two of which are IBM 6200 and IBM 6500 that are offered in the fall semester. Students who want to register for this course before the end of fall semester should contact **Jennifer Cousins (jlcousens at cpp.edu)** to get a permission to override the requirements. This course will host the [MSDM CEP](capstone_project.qmd); thus, students in their 1st year should not take the course unless they are in 1-year roadmap.
+[^6]: This course requires four prerequisites, two of which are IBM 6200 and IBM 6500 that are offered in the fall semester. Students who want to register for this course before the end of fall semester should contact **Jennifer Cousins (jlcousens at cpp.edu)** to get a permission to override the requirements. This course will host the [MSDM CEP](capstone_project.qmd); thus, students in their 1st year should not take the course unless they are in 1-year roadmap.
 
 ### Electives
 
@@ -200,13 +204,13 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 
     -   Eligible for Emphasis Other category for MA Emphasis
 
--   IBM 6530 - Marketing Analytics (3)[^5]
+-   IBM 6530 - Marketing Analytics (3)[^7]
 
     -   Recommended for MA Emphasis
 
     -   Eligible for Emphasis Other category for DMS Emphasis
 
-[^5]: IBM 6530 will not be offered until Spring 2027. This course is not part of Curriculum for the class of 2026.
+[^7]: IBM 6530 will not be offered until Spring 2027. This course is not part of Curriculum for the class of 2026.
 
 ## **Year 2, Summer**
 
@@ -218,10 +222,10 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 
 ### Electives
 
--   IBM 6700 - Marketing Data Management (2)[^6]
+-   IBM 6700 - Marketing Data Management (2)[^8]
     -   Eligible for Emphasis Other category for MA Emphasis
     -   Eligible for Emphasis Other category for DMS Emphasis
 -   GBA 6420 - Optimization Methods (3)
     -   Eligible for Emphasis Other category for MA Emphasis
 
-[^6]: IBM 6700 will not be offered until Summer 2027. The class of 2026 should take IBM 6600.
+[^8]: IBM 6700 will not be offered until Summer 2027. The class of 2026 should take IBM 6600.
