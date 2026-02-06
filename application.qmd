@@ -197,8 +197,11 @@ Overall, we look for a **clear sense of purpose**, **strong program fit**, and *
 
 ::: callout-important
 -   **Rolling review:** Applications are reviewed on a rolling basis, so earlier submissions may receive decisions sooner.
+
 -   **Statement of purpose matters:** We take the statement of purpose (personal statement) seriously. Applicants with clear career goals and a strong rationale for pursuing the MSDM are viewed favorably.
+
 -   **Holistic evaluation:** We review each application holistically, considering academic performance, professional experience, and evidence of commitment to your career goals. A weakness in one area can be **complemented** by strength in another.
+
 -   **Program fit:** We also consider how well your career goals align with the program’s strengths in digital marketing strategy and marketing analytics.
 :::
 
@@ -309,6 +312,7 @@ Sponsorship likelihood varies a lot here. Roles that emphasize **analytics imple
 These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
 
 -   **Marketing Analyst / Digital Marketing Analyst**: Analyzes performance across channels (web, paid media, email, social) to identify what’s working and where to improve. Uses **Excel, Google Analytics, and Tableau**. They are great at storytelling and explaining "what happened" to the marketing team
+
 -   **Marketing Data Scientist**: Builds statistical or machine learning models for marketing (e.g., attribution, forecasting, customer segmentation, experimentation). Uses **Python, R, and SQL**. They build machine learning models to automate marketing decisions, such as "dynamic pricing" (like how Uber prices change during rain).
 
 ::: callout-important
@@ -360,14 +364,18 @@ By graduation, you’ll be able to:
     You can choose electives from one of the following three options below to support your desired [**Digital Marketing Career Role**](#target-digital-marketing-career-roles):
 
     -   \(1\) **Digital Marketing Strategy** emphasis or
+
     -   \(2\) **Marketing Analytics** emphasis or
+
     -   \(3\) **Balanced/Customized** option (by taking a mix of courses from both emphases to tailor one's needs for target career roles and get the best of both worlds.)
 
 -   [**Culminating Experience Project (Capstone / CEP)**](capstone_project.qmd)\
     The program includes a **multi-semester client project**. Student teams work with a faculty lead across three semesters:
 
     -   **Fall:** proposal and project plan
+
     -   **Spring:** data analysis and recommendations
+
     -   **Summer:** digital marketing plan implementation, results observation, and reflection
 
 ::: callout-tip
@@ -427,6 +435,7 @@ This is an **onsite** program, not an online program; thus, you must be able to 
 ### Class Modality/Time
 
 -   **Class Modality**: We uses a **hybrid class modality** where up to **50% of class time may be virtual**. For example, in a 15-week semester, a course could meet 8 weeks in person and 7 weeks on Zoom. Most professors tend to alternate between in-person and online meetings every other week.
+
 -   **Class time**: Classes are scheduled weekday evenings and/or Saturday mornings
 
 ### Tuition & fees (as explained in the info session)
@@ -442,7 +451,7 @@ This is an **onsite** program, not an online program; thus, you must be able to 
 -   Estimated total tuition + fees:
 
     -   **\$30,150** for one-year completion
-    
+
     -   **\$32,250** for two-year completion due to additional term fees
 
 ::: callout-important
@@ -502,6 +511,7 @@ Students are supported through:
 ### Extra-Curricular Activities
 
 -   **Student Club**:
+
     -   OptiMark Digital Marketing & Analytics Society, an MSDM student club.
 
 -   [**Research Seminar**](https://www.cpp.edu/cba/customer-insights-lab/research/seminar/index.shtml)
@@ -529,6 +539,7 @@ Students are supported through:
 ### Contacts:
 
 -   **Program & curriculum questions:** Program Director ([Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)), Director of CCIDM, Singelyn Graduate School of Business, College of Business Administration
+
 -   **Registration/tuition/services:** Ashley Cartwright (arcartwright\@cpp.edu), Sr. Program Manager, College of Professional and Global Education
 
 ## **Frequently Asked Questions**
