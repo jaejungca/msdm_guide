@@ -68,7 +68,7 @@ Digital marketing is a vast field where roles are typically categorized by the *
 
 Here is a breakdown of typical jobs in digital marketing categorized by specialization and seniority.
 
-**1. Content & Creative Roles**
+### Content & Creative Roles
 
 These roles focus on the "what"—the actual assets users see and interact with.
 
@@ -88,7 +88,7 @@ These roles can be great careers, but **H-1B sponsorship is often less common** 
 ***Disclaimer***: This is general information, not legal advice. Visa policies and sponsorship decisions depend on the employer, the specific job description, and current regulations.
 :::
 
-**2. Technical & Performance Roles**
+### Technical & Performance Roles
 
 These roles focus on the "how"—the data, algorithms, and paid spend that get the content in front of the right people.
 
@@ -106,7 +106,7 @@ Sponsorship likelihood varies a lot here. Roles that emphasize **analytics imple
 ***Disclaimer***: This is general information, not legal advice. Visa policies and sponsorship decisions depend on the employer, the specific job description, and current regulations.
 :::
 
-**3. Marketing Data & Analytics Roles**
+### Marketing Data & Analytics Roles
 
 These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
 
@@ -138,7 +138,7 @@ A **Data Scientist** who spends 100% of their time on marketing data (like predi
 If we pull these "hidden" data roles out to see how they fit into the marketing landscape, the numbers look like this:
 
 |  |  |  |  |
-|------------------|------------------|------------------|------------------|
+|------------------|------------------|-------------|--------------------------------|
 | **Specialized Data Role** | **Est. U.S. Jobs (Marketing-Focused)** | **% of Mktg Data Pool** | **Why they are distinct** |
 | **Marketing Data Analyst** | 160,000 | 70% | Focuses on *past* performance: "Which ad worked best last month?" |
 | **Marketing Data Scientist** | 45,000 | 20% | Focuses on *future* prediction: "What will this customer buy next year?" |
@@ -152,7 +152,7 @@ If we pull these "hidden" data roles out to see how they fit into the marketing 
 >
 > -   **Marketing Data Scientist:** Uses **Python, R, and SQL**. They build machine learning models to automate marketing decisions, such as "dynamic pricing" (like how Uber prices change during rain).
 
-**4. Strategy & Leadership Roles (often mid-career+)**
+### Strategy & Leadership Roles (often mid-career+)
 
 As you move up the ladder, the focus shifts from "doing" to "planning." These are the jobs that are not likely to be within the reach right after you graduate unless you have already sufficient experience in other specialty jobs in Content & Creative Roles or Technology and Performance Roles.
 
