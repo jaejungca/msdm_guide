@@ -24,8 +24,12 @@ website:
         href: index.qmd
 
       - text: Application
-        href: application.qmd
-
+        menu:
+          - text: Application
+            href: application.qmd
+          - text: Guidance for International Students
+            href: international-students.qmd
+          
       - text: Careers
         menu: 
           - text: Career Options, Outlook, & Salary

@@ -2,7 +2,7 @@
 title: "Application: MS in Digital Marketing (MSDM) — Cal Poly Pomona"
 subtitle: "Digital Marketing Master’s Degree: What to Know Before You Apply"
 image: images/msdm-crosswalk.png
-date: January 18, 2025
+date: February 6, 2026
 format: 
   html:
     toc: true
@@ -395,12 +395,11 @@ By graduation, you’ll be able to:
 
 Based on the immediate target career roles right after graduation, my recommendation for Degree Emphasis would be different as follows:
 
--   If you prefer to take **Content & Creative Roles,** such as content writer/SEO writer, copy writer, social media manager, and graphics/visual designer –\> choose **Digital Marketing Strategy Emphasis**.
+-   If you prefer to take **Content & Creative Roles,** such as content writer/SEO writer, copy writer, social media manager, and graphics/visual designer → choose **Digital Marketing Strategy Emphasis**.
 
--   If you prefer to take **Technical & Performance Roles**, such as SEO Specialist, PPC Specialist, and Email Marketing Specialist –\> choose **Balanced/Mixed Option**.
+-   If you prefer to take **Technical & Performance Roles**, such as SEO Specialist, PPC Specialist, and Email Marketing Specialist → choose **Balanced/Mixed Option**.
 
--   If you prefer to take **Analytics (Marketing Data Specialist) Roles**, such as Marketing Data Analytist, Marketing Data Scientist, and Marketing Data Engineer –\> choose **Marketing Analytics Emphasis**.
-:::
+-   If you prefer to take **Analytics (Marketing Data Specialist) Roles**, such as Marketing Data Analyst, Marketing Data Scientist, and Marketing Data Engineer → choose **Marketing Analytics Emphasis**.
 
 ### Completion Roadmaps
 
@@ -566,6 +565,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     :::
 
     ::::: {.card .p-3 .shadow-sm style="border-left: 5px solid #005826;"}
+
     ::: {.fs-4 .fw-bold .text-dark}
     {{< fa user-tie >}} Hana Mai
     :::
@@ -586,8 +586,10 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     **Tue:** 2:00 – 5:00 PM
     :::
     ::::
-    :::::
-    
+
+    ::::
+
+
 -   [**CPP Bronco Mentoring Network**](https://www.cpp.edu/alumni/get-involved/mentoring.shtml):\
     We are deeply committed to educational experiences and supportive services that engage our students, enhance personal well-being and growth, provide career opportunities, and foster ethical citizenship.
 
