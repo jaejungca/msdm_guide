@@ -565,33 +565,33 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     -   If you are prospective students, you may request an appointment by contacting [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)
     :::
 
-    ::::: {.card .p-3 .shadow-sm style="border-left: 5px solid #005826;"}
+::::: {.card .p-3 .shadow-sm style="border-left: 5px solid #005826;"}
 
-    ::: {.fs-4 .fw-bold}
-    {{< fa user-tie >}} Hana Mai
-    :::
+::: {.fs-4 .fw-bold}
+{{< fa user-tie >}} Hana Mai
+:::
 
-    *Student Ambassador*
+*Student Ambassador*
 
-    <hr>
+<hr>
 
-    :::: {.grid}
+:::: {.grid}
 
-    ::: {.g-col-12 .g-col-md-6}
-    **{{< fa map-marker-alt >}} Office Location**\
-    In-person: Building 98C 6-10 \
-    Virtual: [Join Zoom Session]
-    :::
+::: {.g-col-12 .g-col-md-6}
+**{{< fa map-marker-alt >}} Office Location**\
+In-person: Building 98C 6-10 \
+Virtual: [Join Zoom Session]
+:::
 
-    ::: {.g-col-12 .g-col-md-6}
-    **{{< fa clock >}} Availability**\
-    **Mon:** 2:00 – 5:00 PM \
-    **Tue:** 2:00 – 5:00 PM
-    :::
+::: {.g-col-12 .g-col-md-6}
+**{{< fa clock >}} Availability**\
+**Mon:** 2:00 – 5:00 PM \
+**Tue:** 2:00 – 5:00 PM
+:::
 
-    ::::    
-    
-    :::::
+::::    
+
+:::::
 
 
 -   [**CPP Bronco Mentoring Network**](https://www.cpp.edu/alumni/get-involved/mentoring.shtml):\
