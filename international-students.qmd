@@ -49,7 +49,7 @@ execute:
 International students often ask about tuition, funding, OPT/STEM OPT, and whether three years of work authorization guarantees H‑1B sponsorship. The honest answer is: **STEM helps, but role strategy matters.** CPP’s **MS in Digital Marketing (MSDM) is STEM-designated**, and this page explains the financial and career pathway details—including scholarships, on-campus jobs, and micro-internships—especially why, for international students, the strongest pathway is usually targeting **Marketing Data & Analytics** and the **technical end of Technical & Performance** roles (rather than primarily content/creative tracks), where skills are measurable and employer demand is often stronger.
 :::
 
-## MSDM for International Students (STEM-Designated)
+## **MSDM for International Students (STEM-Designated)**
 
 If you’re an international student considering Cal Poly Pomona’s **M.S. in Digital Marketing (MSDM)**, you’re probably evaluating four things:
 
@@ -60,7 +60,7 @@ If you’re an international student considering Cal Poly Pomona’s **M.S. in D
 
 This page is designed to give you **accurate, role-specific guidance**—so you can decide whether CPP MSDM is the right fit **and** how to plan your **pathway**.
 
-## Quick facts that matter (cost + structure)
+## **Quick facts that matter** (cost + structure)
 
 -   **Program units:** 34 total units (20 core + 14 electives)\
 -   **Tuition:** \$825 per unit\
@@ -70,11 +70,13 @@ This page is designed to give you **accurate, role-specific guidance**—so you 
 
 👉 See full details here: [https://www.cppmsdm.com/application#tuition-fees](application.qmd#tuition-fees)
 
-## STEM designation + OPT: what it helps (and what it doesn’t)
+## **STEM designation + OPT:**
 
+::: {.callout-important title="what it helps (and what it doesn’t)"}
 **Yes:** MSDM is **officially STEM-designated**, which can support eligibility for a longer post-graduation work authorization timeline (OPT + STEM OPT).
 
 **No:** STEM designation does **not** guarantee long-term sponsorship (H‑1B is a separate employer decision and a separate process).
+:::
 
 ### Important: OPT vs H‑1B are two different employer decisions
 
@@ -90,7 +92,11 @@ Don’t assume “if they hire me on OPT, they will sponsor later.” You should
 👉 For deeper guidance and a recruiter question script:\
 [https://www.cppmsdm.com/career_prep_digital_marketing_marketing_analytics#career-guidance-for-international-students](career_prep_digital_marketing_marketing_analytics.qmd#career-guidance-for-international-students)
 
-## Career strategy: pick role lanes that are more sponsorship-aligned
+## **Career strategy:**
+
+::: {.callout-important title="Advice"}
+**Pick role lanes that are more sponsorship-aligned**
+:::
 
 Digital marketing careers typically fall into four role families:
 
@@ -171,7 +177,7 @@ These can be great careers, but sponsorship is often less common because many ro
 
 These roles are often reached after experience in the other lanes, so they are not for rookies.
 
-## How CPP MSDM supports these paths (curriculum options + tools)
+## **How CPP MSDM supports these paths** (curriculum options + tools)
 
 ### 3 Elective Options (you choose based on target career roles)
 
@@ -202,7 +208,7 @@ Depending on your roadmap and electives, students develop skills using tools suc
 👉 Skills/Tools/Courses alignment (great for planning):\
 [https://www.cppmsdm.com/skills_tools_courses](skills_tools_courses.qmd)
 
-## Real Experience while You Study: Micro-internships + On-campus Jobs
+## **Real Experience while You Study:** Micro-internships + On-campus Jobs
 
 ### On-campus jobs
 
@@ -217,7 +223,7 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 
 > When a micro-internship is required as part of a course, exceptions may apply regarding typical CPT timing — always confirm details with the program and the international student office.
 
-## Scholarships + Assistantships (what to expect)
+## **Scholarships + Assistantships (what to expect)**
 
 ### Scholarships (limited, but available)
 
@@ -238,7 +244,7 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 
     -   This is why you should apply early if you are interested in these opportunities, so you can plan accordingly.
 
-## “Right fit” checklist (who tends to thrive here)
+## **“Right fit” checklist** (who tends to thrive here)
 
 **CPP MSDM is a strong fit if you:**
 
@@ -256,7 +262,7 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 
 -   Are assuming STEM automatically means easy long-term sponsorship (it does not)
 
-## Next steps
+## **Next steps**
 
 1)  Review curriculum options and choose a role-aligned roadmap
     -   [Curriculum roadmaps](application.qmd#curriculum-completion-roadmap-options)

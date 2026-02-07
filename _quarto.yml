@@ -25,9 +25,9 @@ website:
 
       - text: Application
         menu:
-          - text: Application
+          - text: Application Guide
             href: application.qmd
-          - text: Guidance for International Students
+          - text: International Student Guidance
             href: international-students.qmd
           
       - text: Careers

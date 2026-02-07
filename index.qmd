@@ -128,59 +128,63 @@ Based on national research with professionals across the insights and data indus
 
 ## **Website Organization**
 
-1.  [**Application**](application.qmd)
+1.  **Application**
 
-    1.  [Introduction](application.qmd#introduction)
+    1. [**Application Guide**](application.qmd)
 
-    2.  [Recorded Information Session](application.qmd#video-presentation-msdm)
+        1.  [Introduction](application.qmd#introduction)
 
-    3.  [Application Requirements](application.qmd#application-requirements)
+        2.  [Recorded Information Session](application.qmd#video-presentation-msdm)
 
-    4.  [University Overview](application.qmd#university-overview)
+        3.  [Application Requirements](application.qmd#application-requirements)
 
-    5.  [Colleges & Program Overview](application.qmd#colleges-program-overview)
+        4.  [University Overview](application.qmd#university-overview)
 
-    6.  [Target Digital Marketing Career Roles](application.qmd#target-digital-marketing-career-roles)
+        5.  [Colleges & Program Overview](application.qmd#colleges-program-overview)
 
-    7.  [Curriculum & Completion Roamap Options](application.qmd#curriculum-completion-roadmap-options)
+        6.  [Target Digital Marketing Career Roles](application.qmd#target-digital-marketing-career-roles)
 
-    8.  [Key Features and Costs](application.qmd#key-features-cost)
+        7.  [Curriculum & Completion Roamap Options](application.qmd#curriculum-completion-roadmap-options)
 
-        1. Three Curriculum Options
+        8.  [Key Features and Costs](application.qmd#key-features-cost)
 
-        2. STEM-Designated Program
+            1. Three Curriculum Options
 
-        3. Completion Time
+            2. STEM-Designated Program
 
-        4. Program Type
+            3. Completion Time
 
-        5. Class Modality/Time
+            4. Program Type
 
-        6. Tuition & Fees
+            5. Class Modality/Time
 
-    9.  [Program Support Environment](application.qmd#program-support-environment)
-    
-        1. Program guidance on curriculum and planning
+            6. Tuition & Fees
 
-        2. [Scholarships](application.qmd#scholarships)
+        9.  [Program Support Environment](application.qmd#program-support-environment)
+        
+            1. Program guidance on curriculum and planning
 
-        3. Assistantships
+            2. [Scholarships](application.qmd#scholarships)
 
-        4. Financial Aid Resources
+            3. Assistantships
 
-        5. Jobs and Internships
+            4. Financial Aid Resources
 
-        6. Extra-Curricular Opportunities
+            5. Jobs and Internships
 
-    10. [More Information & Contacts](application.qmd#more-information-contacts)
+            6. Extra-Curricular Opportunities
 
-        1. [Official MSDM Website](application.qmd#official-msdm-website)
+        10. [More Information & Contacts](application.qmd#more-information-contacts)
 
-        2. [MSDM Mailing List](application.qmd#msdm-mailing-list)
+            1. [Official MSDM Website](application.qmd#official-msdm-website)
 
-        3. [MSDM Information Sessions](application.qmd#msdm-information-sessions)
+            2. [MSDM Mailing List](application.qmd#msdm-mailing-list)
 
-    11. [Frequently Asked Questions](application.qmd#frequently-asked-questions)
+            3. [MSDM Information Sessions](application.qmd#msdm-information-sessions)
+
+        11. [Frequently Asked Questions](application.qmd#frequently-asked-questions)
+
+    2. [**International Student Guidance**](international-students.qmd)    
 
 2.  **Career Outlook & Guide**
 
