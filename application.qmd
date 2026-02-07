@@ -566,14 +566,17 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     :::
 
     ::::: {.card .p-3 .shadow-sm style="border-left: 5px solid #005826;"}
+
     ::: {.fs-4 .fw-bold}
     {{< fa user-tie >}} Hana Mai
     :::
+
     *Student Ambassador*
 
     <hr>
 
     :::: {.grid}
+
     ::: {.g-col-12 .g-col-md-6}
     **{{< fa map-marker-alt >}} Office Location**\
     In-person: Building 98C 6-10 \
@@ -585,7 +588,9 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     **Mon:** 2:00 – 5:00 PM \
     **Tue:** 2:00 – 5:00 PM
     :::
-    ::::
+
+    ::::    
+    
     :::::
 
 
