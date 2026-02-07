@@ -1,0 +1,254 @@
+---
+title: "Information for International Students — Cal Poly Pomona"
+subtitle: "Digital Marketing Master’s Degree: Why You Should Consider It, How to Apply, and What to Expect"
+image: images/msdm-crosswalk.png
+date: January 18, 2025
+format: 
+  html:
+    toc: true
+    toc-location: right-body
+    toc-depth: 3
+    toc-expand: 1
+    code-overflow: scroll
+    number-sections: true
+    embed-resources: false
+    smooth-scroll: true
+    fontsize: 18px
+    metadata:
+        description-meta: "Learn why international students should consider Cal Poly Pomona’s STEM-designated Master of Science in Digital Marketing (MSDM)."
+        keywords-meta: 
+            - International students
+            - STEM-designated digital marketing program
+    
+    other-links: 
+      - text: MS in Digital Marketing
+        icon: mortarboard-fill
+        href: https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml
+      - text: DWV 101
+        icon: award
+        href: https://www.cpp.edu/cba/customer-insights-lab/curriculum/certificate/dwv/index.shtml
+      - text: IBM Department
+        icon: bank
+        href: https://www.cpp.edu/cba/international-business-marketing/index.shtml
+    link-external-icon: true
+    link-external-newwindow: true
+execute: 
+  freeze: auto
+---
+
+## [**Introduction**]{style="color: #069494"}
+
+Cal Poly Pomona’s Master of Science in Digital Marketing (MSDM) is designed for people who want a graduate degree that blends digital marketing strategy with marketing analytics—so you can both *execute marketing effectively* and *use data to guide decisions*. The program is housed in the College of Business Administration and supported by the Center for Customer Insights and Digital Marketing.
+
+If you’re deciding whether to apply, this page walks through the university context, program structure, admissions requirements, costs, support, real-world experiences, and the most common questions prospective students ask.
+
+## **Application Requirements**
+
+To apply, you’ll typically prepare:
+
+### Required:
+
+-   **Transcripts** (unofficial is commonly acceptable for review; official required after enrollment)
+
+    -   A 4-year bachelor’s degree (or equivalent)
+
+    -   Minimum GPA requirement: 2.5 out of 4.0
+
+-   **1 recommendation letter** (professor or work supervisor)
+
+-   **Personal Statement / Statement of purpose** (250–300 words): See the [requirement](#what-should-be-in-personal-statement-statement-of-purpose) for details.
+
+-   **Resume**
+
+-   (For International students only): **English proficiency documentation** if applicable
+
+    -   English proficiency requirement is waived if the medium of instruction for the degree was English. In this case, applicants should submit a letter from their institution confirming that English was the language of instruction for their degree.
+
+    -   If the medium of instruction was not English, applicants must submit one of the following to demonstrate English proficiency:
+
+        ::: {.callout-tip title="Any of the following can satisfy the English proficiency requirement for international applicants:"}
+        -   TOEFL score of 550 (paper-based), 213 (computer-based) or 80 (internet-based)
+
+        -   IELTS of 6.5 or above
+
+        -   Duolingo Test 105 and above 
+
+        -   Cal Poly Pomona English Language Institute (CPELI) offers English learning programs. CPELI level 6 is acceptable for satisfying CPP English proficiency requirement of SGSB graduate program admission purpose. Details can be found at <https://www.cpp.edu/cpeli/>.
+        :::
+
+### Application Deadlines:
+
+-   **Fall Admission**: July 1 (*May 1* for international students)
+
+-   **Spring Admission**: November 1 (*October 1* for international students)
+
+::: {.callout-warning title="Important Note for International Applicants"}
+Because visa interview appointments at U.S. embassies/consulates can be limited in some countries, we strongly recommend applying as early as possible so you have enough time to receive your I-20 and schedule a visa interview before your intended start term.
+:::
+
+## **Target Digital Marketing Career Roles** {#target-digital-marketing-career-roles}
+
+> Digital marketing is a vast field where roles are typically categorized by the **channel** they manage (like social media or email) or the **level of strategy** involved. Here is a breakdown of typical jobs in digital marketing categorized by specialization and seniority.
+
+### Content & Creative Roles
+
+These roles focus on the "what"—the actual assets users see and interact with.
+
+-   **Content Writer / SEO Writer:** Writes blog posts, articles, and website copy designed to rank on Google.
+
+-   **Copywriter:** Focuses on "conversion" text—ads, landing pages, and email subject lines that get people to take action.
+
+-   **Social Media Manager:** Handles a brand’s presence on platforms like TikTok, Instagram, and LinkedIn. This includes posting, engagement, and community building.
+
+-   **Graphic / Visual Designer:** Creates the visual identity for ads, social posts, and email templates.
+
+::: callout-tip
+## Career note for international students (general guidance):
+
+These roles can be great careers, but **H-1B sponsorship is often less common** because many positions don’t consistently require a highly specialized degree and are more frequently offered by smaller teams or agencies.
+:::
+
+### Technical & Performance Roles
+
+> These roles focus on the "how"—the data, algorithms, and paid spend that get the content in front of the right people.
+
+-   **SEO Specialist:** Optimizes the technical aspects and keywords of a website to improve organic (unpaid) search rankings.
+
+-   **PPC (Pay-Per-Click) Specialist:** Manages paid advertising budgets on Google Ads or Meta. They focus on ROI (Return on Investment).
+
+-   **Email Marketing Specialist:** Designs and automates email campaigns, segments customer lists, and tracks open rates.
+
+::: callout-note
+## Career note for international students (general guidance):
+
+Sponsorship likelihood varies a lot here. Roles that emphasize **analytics implementation, marketing technology, automation, and data (e.g., SQL, tagging, dashboards, experimentation)** tend to align better with H-1B patterns than roles that are primarily creative or campaign coordination.
+:::
+
+### Marketing Data & Analytics Roles
+
+These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
+
+-   **Marketing Analyst / Digital Marketing Analyst**: Analyzes performance across channels (web, paid media, email, social) to identify what’s working and where to improve. Uses **Excel, Google Analytics, and Tableau**. They are great at storytelling and explaining "what happened" to the marketing team
+
+-   **Marketing Data Scientist**: Builds statistical or machine learning models for marketing (e.g., attribution, forecasting, customer segmentation, experimentation). Uses **Python, R, and SQL**. They build machine learning models to automate marketing decisions, such as "dynamic pricing" (like how Uber prices change during rain).
+
+::: callout-important
+## Career note for international students (general guidance):
+
+These roles are **often the most H-1B-friendly** in digital marketing because they more clearly map to specialized, degree-linked skill sets (statistics, analytics, data science, computing), and because larger employers who sponsor are more likely to hire for these positions.
+:::
+
+## **Program Support Environment**
+
+Students are supported through:
+
+### Scholarships
+
+> Followed are the scholarships that I am currently aware of:
+
+-   [**Cal Poly Pomona Scholarships**](https://www.cpp.edu/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml): 400+ scholarships available.
+
+    -   Check it out as you may be eligible to apply for it.
+
+-   **Recruitment Scholarship:** no separate application (evaluated based on your admission materials)
+
+-   **Professional Development Scholarship:** typically after at least one semester; may support certifications
+
+-   **Merit-Based Scholarship:** typically after at least one semester; the graduate school sends application calls
+
+-   **LOGRAR/PPOHA Grant**
+
+-   **LOGRAR Travel Request for Funding**
+
+-   **Healthcare Communications & Marketing Scholarships**
+
+### Assistantships
+
+-   **TA:** Contact professors who teach IBM 3012 (Principles of Marketing Management).
+
+-   **RA:** limited availability. Look at opportunities on [Handshake](https://careercenter.cpp.edu/channels/handshake-101/) or [Cal Poly Pomona Enterprises website](https://cppenterprises.org/services/employment-services/employment-opportunities/).
+
+### Jobs and Internships
+
+-   **On-campus job opportunities** (many students find campus jobs and work across departments; jobs are typically posted through Handshake)
+
+    -   [Handshake](https://careercenter.cpp.edu/channels/handshake-101/)
+
+-   **Jobs for International Students**
+
+    -   CPT (after 2 semesters or earlier if CPT is required for micro-internship offered by a course)
+
+    -   OPT (up to 3 years)
+
+-   **Micro-internships** (small-scale, course-embedded, paid internship )
+
+    Some courses include [**micro-internship experiences**](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships) that involve working with a real client. In examples shared, students completed client-facing work, met weekly with the client, and received compensation while completing class projects.
+
+::: {.callout-note title="Important Note for International Students Regarding CPT and Micro-Internships"}
+When a **micro-internship** is required as part of a course, exceptions to CPT apply regarding timing for work authorization processes. This means that international students may be able to participate in micro-internships earlier than the standard 2-semester requirement for CPT eligibility, but they should consult with the program director and the international student office to understand the specific requirements and timelines for work authorization.
+:::
+
+### Extra-Curricular Opportunities
+
+-   **Student Club**:
+
+    -   [OptiMark Digital Marketing & Analytics Society](career_prep_digital_marketing_marketing_analytics.qmd#optimark-digital-marketing-analytics-society), an MSDM student club.
+
+-   [**Research Seminar Series**](https://www.cpp.edu/cba/customer-insights-lab/research/seminar/index.shtml)
+
+-   [**Virtual Workshops Series**](https://www.cpp.edu/cba/customer-insights-lab/resources/virtual-workshops/index.shtml)
+
+-   [**Expert Speaker Series**](https://www.cpp.edu/cba/customer-insights-lab/industry-partnership/speakers/index.shtml)
+
+-   [**Innovation Symposium**](https://www.cpp.edu/cba/symposium.shtml)
+
+### Tutoring Services
+
+-   [**The Learning Resource Center (LRC)**](https://www.cpp.edu/lrc/index.shtml):\
+    It offers free services for graduate students in various subjects, including business and marketing.
+
+    -   [**Subject Tutoring**](https://www.cpp.edu/lrc/our-services/tutoring.shtml): Provides one-on-one tutoring sessions in subjects like business, marketing, and data analysis.
+
+    -   [**Writing Center**](https://www.cpp.edu/lrc/writing/index.shtml): Provides support for writing assignments across the curriculum.
+
+    -   [**Academic Skills Workshops**](https://www.cpp.edu/lrc/our-services/academic-skills-workshops.shtml): Offers workshops on study skills, time management, and other academic success strategies.
+
+### Mentoring
+
+-   **MSDM Mentor/Ambassador**
+
+    ::: {.callout-Important title="MSDM Community Engagement Specialist"}
+    The MSDM program has a dedicated Community Engagement Specialist, who serves as a mentor and ambassador for the program. For the current students, they can provide guidance on academic planning, career development, and connecting with resources both within the program and across the university. For the prospective student, a student mentor/Ambassador is available to share student perspectives.
+
+    -   If you are current students, drop by the office. No appointment is needed.
+
+    -   If you are prospective students, you may request an appointment by contacting [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)
+    :::
+
+    :::::: {.columns layout-ncol="3"}
+    ::: column
+    **Mentor/Ambassor** **Name:**
+
+    Hana Mai
+    :::
+
+    ::: column
+    **Office Location:**
+
+    -   In-person: Building 98C 6-10;
+
+    -   Zoom:
+    :::
+
+    ::: column
+    **Time:**
+
+    -   Monday: 2:00 - 5:00 PM
+
+    -   Tuesday: 2:00 - 5:00 PM
+    :::
+    ::::::
+
+-   [**CPP Bronco Mentoring Network**](https://www.cpp.edu/alumni/get-involved/mentoring.shtml):\
+    We are deeply committed to educational experiences and supportive services that engage our students, enhance personal well-being and growth, provide career opportunities, and foster ethical citizenship.
+
