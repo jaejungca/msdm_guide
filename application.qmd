@@ -565,34 +565,30 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     -   If you are prospective students, you may request an appointment by contacting [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)
     :::
 
-    ::: {.callout-note appearance="minimal" style="border-left: 5px solid #005826;"}
-
+    ::::::: {.callout-note appearance="minimal" style="border-left: 5px solid #005826;"}
     ::: {.fs-4 .fw-bold}
     {{< fa user-tie >}} Hana Mai
     :::
 
-    *Student Ambassador*
+    *Student Ambassador*\
+    [Linkedin](https://www.linkedin.com/in/maingngochan/) \| [Email](mailto:hnmai@cpp.edu)
 
-    ---
+    ------------------------------------------------------------------------
 
-    :::: {.columns}
-
+    ::::: columns
     ::: {.column width="50%"}
-    **{{< fa map-marker-alt >}} Office Location**\
-    **In-person:** Building 98C 6-10 \
+    {{< fa map-marker-alt >}} **Office Location**\
+    **In-person:** Building 98C 6-10\
     **Virtual:** [Join Zoom Session](https://cpp.zoom.us/j/94044138009?pwd=ZlJmVjJkK3l5c2h1aG9nVjN1c0ZPQT09)
     :::
 
     ::: {.column width="50%"}
-    **{{< fa clock >}} Availability**\
-    **Mon:** 2:00 – 5:00 PM \
+    {{< fa clock >}} **Availability**\
+    **Mon:** 2:00 – 5:00 PM\
     **Tue:** 2:00 – 5:00 PM
     :::
-
-    ::::
-
-    :::
-
+    :::::
+    :::::::
 
 -   [**CPP Bronco Mentoring Network**](https://www.cpp.edu/alumni/get-involved/mentoring.shtml):\
     We are deeply committed to educational experiences and supportive services that engage our students, enhance personal well-being and growth, provide career opportunities, and foster ethical citizenship.
