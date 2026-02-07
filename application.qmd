@@ -562,7 +562,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
 
     -   If you are current students, drop by the office. No appointment is needed.
 
-    -   If you are prospective students, you may request an appointment by contacting [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)
+    -   If you are prospective students, you may request an appointment by contacting the MSDM ambassador.
     :::
 
     ::::::: {.callout-note appearance="minimal"
@@ -578,7 +578,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     {{< fa user-tie >}} Hana Mai
     :::
 
-    *Student Ambassador*\
+    *MSDM Ambassador*\
     [Linkedin](https://www.linkedin.com/in/maingngochan/) \| [Email](mailto:hnmai@cpp.edu)
 
     ------------------------------------------------------------------------
