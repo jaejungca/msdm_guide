@@ -482,6 +482,10 @@ Students are supported through:
 
 > Followed are the scholarships that I am currently aware of:
 
+-   [**Cal Poly Pomona Scholarships**](https://www.cpp.edu/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml): 400+ scholarships available.
+
+    -   Check it out as you may be eligible to apply for it.
+
 -   **Recruitment Scholarship:** no separate application (evaluated based on your admission materials)
 
 -   **Professional Development Scholarship:** typically after at least one semester; may support certifications
@@ -538,6 +542,56 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
 
 -   [**Innovation Symposium**](https://www.cpp.edu/cba/symposium.shtml)
 
+### Tutoring Services
+
+-   [**The Learning Resource Center (LRC)**](https://www.cpp.edu/lrc/index.shtml):\
+    It offers free services for graduate students in various subjects, including business and marketing.
+
+    -   [**Subject Tutoring**](https://www.cpp.edu/lrc/our-services/tutoring.shtml): Provides one-on-one tutoring sessions in subjects like business, marketing, and data analysis.
+
+    -   [**Writing Center**](https://www.cpp.edu/lrc/writing/index.shtml): Provides support for writing assignments across the curriculum.
+
+    -   [**Academic Skills Workshops**](https://www.cpp.edu/lrc/our-services/academic-skills-workshops.shtml): Offers workshops on study skills, time management, and other academic success strategies.
+
+### Mentoring
+
+-   **MSDM Mentor/Ambassador**
+
+    ::: {.callout-Important title="MSDM Community Engagement Specialist"}
+    The MSDM program has a dedicated Community Engagement Specialist, who serves as a mentor and ambassador for the program. For the current students, they can provide guidance on academic planning, career development, and connecting with resources both within the program and across the university. For the prospective student, a student mentor/Ambassador is available to share student perspectives.
+
+    -   If you are current students, drop by the office. No appointment is needed.
+
+    -   If you are prospective students, you may request an appointment by contacting [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)
+    :::
+
+    :::::: {.columns layout-ncol="3"}
+    ::: column
+    **Mentor/Ambassor** **Name:**
+
+    Hana Mai
+    :::
+
+    ::: column
+    **Office Location:**
+
+    -   In-person: Building 98C 6-10;
+
+    -   Zoom:
+    :::
+
+    ::: column
+    **Time:**
+
+    -   Monday: 2:00 - 5:00 PM
+
+    -   Tuesday: 2:00 - 5:00 PM
+    :::
+    ::::::
+
+-   [**CPP Bronco Mentoring Network**](https://www.cpp.edu/alumni/get-involved/mentoring.shtml):\
+    We are deeply committed to educational experiences and supportive services that engage our students, enhance personal well-being and growth, provide career opportunities, and foster ethical citizenship.
+
 ## **More Information & Contacts**
 
 ### Official MSDM Website:
@@ -546,11 +600,11 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
 
 -   [**Frequently Asked Questions on the official site**](https://www.cpp.edu/cba/sgsb/frequently-asked-questions/frequently-asked-questions-master-degree-in-digital-marketing-and-marketing-analytics.shtml): This site has a lot of FAQ items that are not provided on this page.
 
-### MSDM Mailing List: 
+### MSDM Mailing List:
 
 Consider adding your email to the [MSDM mailing list](https://www.cpp.edu/cba/sgsb/rfi-forms/msdm-rfi.shtml) for periodic timely information for events.
 
-### MSDM Information Sessions: 
+### MSDM Information Sessions:
 
 We offer a virtual information session periodically via Zoom.
 
