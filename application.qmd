@@ -565,7 +565,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     -   If you are prospective students, you may request an appointment by contacting [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)
     :::
 
-    ::::: {.card .p-3 .shadow-sm style="border-left: 5px solid #005826;"}
+    ::: {.callout-note appearance="minimal" style="border-left: 5px solid #005826;"}
 
     ::: {.fs-4 .fw-bold}
     {{< fa user-tie >}} Hana Mai
@@ -573,14 +573,14 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
 
     *Student Ambassador*
 
-    <hr>
+    ---
 
     :::: {.columns}
 
     ::: {.column width="50%"}
     **{{< fa map-marker-alt >}} Office Location**\
     **In-person:** Building 98C 6-10 \
-    **Virtual:** [Join Zoom Session]
+    **Virtual:** [Join Zoom Session](https://cpp.zoom.us/j/94044138009?pwd=ZlJmVjJkK3l5c2h1aG9nVjN1c0ZPQT09)
     :::
 
     ::: {.column width="50%"}
@@ -591,7 +591,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
 
     ::::
 
-    :::::
+    :::
 
 
 -   [**CPP Bronco Mentoring Network**](https://www.cpp.edu/alumni/get-involved/mentoring.shtml):\
