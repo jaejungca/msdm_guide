@@ -565,7 +565,15 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     -   If you are prospective students, you may request an appointment by contacting [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)
     :::
 
-    ::::::: {.callout-note appearance="minimal" style="border-left: 5px solid #005826;"}
+    ::::::: {.callout-note appearance="minimal"
+        style="border-left: 14px solid #F9C80E;
+        border-radius: 14px;
+        padding-left: 1rem;
+        box-shadow: 0 6px 18px rgba(0,0,0,.08);
+        background:
+            linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,
+            linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
+
     ::: {.fs-4 .fw-bold}
     {{< fa user-tie >}} Hana Mai
     :::
