@@ -203,7 +203,7 @@ Overall, we look for a **clear sense of purpose**, **strong program fit**, and *
 
 ### How We Evaluate Applications:
 
-::: {.callout-note title="Application Evaluation Process"}
+::: {.callout-note title="Application Evaluation Principles"}
 -   **Rolling review:** Applications are reviewed on a rolling basis, so earlier submissions may receive decisions sooner.
 
 -   **Statement of purpose matters:** We take the statement of purpose (personal statement) seriously. Applicants with clear career goals and a strong rationale for pursuing the MSDM are viewed favorably.
@@ -221,7 +221,7 @@ CPP is known for its polytechnic, **“learn by doing”** approach—combining 
 
 ### Overall Rankings
 
-Cal Poly Pomona (CPP) ranks highly as a top public university in the West, often placing #2 among Top Public Schools and #3 regionally in U.S. News & World Report (2026), and is recognized by The Wall Street Journal for social mobility, ranking #22 overall and #1 polytechnic for social mobility in the U.S. (2026), while its Engineering program is nationally recognized, tied for 9th best undergraduate program where doctorates aren't offered.
+> Cal Poly Pomona (CPP) ranks highly as a top public university in the West, often placing #2 among Top Public Schools and #3 regionally in U.S. News & World Report (2026), and is recognized by The Wall Street Journal for social mobility, ranking #22 overall and #1 polytechnic for social mobility in the U.S. (2026), while its Engineering program is nationally recognized, tied for 9th best undergraduate program where doctorates aren't offered.
 
 ### Key Rankings & Highlights (2026 Data):
 
@@ -391,9 +391,9 @@ By graduation, you’ll be able to:
     -   **Summer:** digital marketing plan implementation, results observation, and reflection
 
 ::: callout-tip
-## Recommendations for Curriculum Emphasis
+#### Recommendations for Curriculum Emphasis
 
-> Based on the immediate target career roles right after graduation, my recommendation for Degree Emphasis would be different as follows:
+Based on the immediate target career roles right after graduation, my recommendation for Degree Emphasis would be different as follows:
 
 -   If you prefer to take **Content & Creative Roles,** such as content writer/SEO writer, copy writer, social media manager, and graphics/visual designer –\> choose **Digital Marketing Strategy Emphasis**.
 
@@ -432,7 +432,7 @@ By graduation, you’ll be able to:
 
 ### STEM designation (important for international students)
 
-The program is **STEM-designated**, which can be especially valuable for international students because it may extend post-graduation OPT eligibility (from 1 year to up to 3 years total).Program Type (onsite program, not online)
+> The program is **STEM-designated**, which can be especially valuable for international students because it may extend post-graduation OPT eligibility (from 1 year to up to 3 years total).Program Type (onsite program, not online)
 
 ### Comletion Time
 
@@ -467,7 +467,7 @@ This is an **onsite** program, not an online program; thus, you must be able to 
     -   **\$32,250** for two-year completion due to additional term fees
 
 ::: callout-important
-### Out-of-state tuition note:
+### Out-of-State Tuition Note:
 
 Students outside California, including international students, pay the **same per-unit tuition** in this program structure as California residents.
 :::
@@ -479,6 +479,8 @@ Students are supported through:
 ### Program Guidance on Curriculum and Planning
 
 ### Scholarships
+
+> Followed are the scholarships that I am currently aware of:
 
 -   **Recruitment Scholarship:** no separate application (evaluated based on your admission materials)
 
@@ -518,9 +520,9 @@ Students are supported through:
 
     Some courses include [**micro-internship experiences**](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships) that involve working with a real client. In examples shared, students completed client-facing work, met weekly with the client, and received compensation while completing class projects.
 
-    ::: callout-note
-    For **international students**, when a **micro-internship** is required as part of a course, exceptions to CPT apply regarding timing for work authorization processes. This means that international students may be able to participate in micro-internships earlier than the standard 2-semester requirement for CPT eligibility, but they should consult with the program director and the international student office to understand the specific requirements and timelines for work authorization.
-    :::
+::: {.callout-note title="Important Note for International Students Regarding CPT and Micro-Internships"}
+When a **micro-internship** is required as part of a course, exceptions to CPT apply regarding timing for work authorization processes. This means that international students may be able to participate in micro-internships earlier than the standard 2-semester requirement for CPT eligibility, but they should consult with the program director and the international student office to understand the specific requirements and timelines for work authorization.
+:::
 
 ### Extra-Curricular Opportunities
 
