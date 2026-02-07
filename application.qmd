@@ -575,15 +575,15 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
 
     <hr>
 
-    :::: {.grid}
+    :::: {.columns}
 
-    ::: {.g-col-12 .g-col-md-6}
+    ::: {.column width="50%"}
     **{{< fa map-marker-alt >}} Office Location**\
     **In-person:** Building 98C 6-10 \
     **Virtual:** [Join Zoom Session]
     :::
 
-    ::: {.g-col-12 .g-col-md-6}
+    ::: {.column width="50%"}
     **{{< fa clock >}} Availability**\
     **Mon:** 2:00 – 5:00 PM \
     **Tue:** 2:00 – 5:00 PM
