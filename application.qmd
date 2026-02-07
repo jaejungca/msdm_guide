@@ -151,13 +151,19 @@ To apply, you’ll typically prepare:
 
 -   (For International students only): **English proficiency documentation** if applicable
 
-    -   TOEFL score of 550 (paper-based), 213 (computer-based) or 80 (internet-based)
+    -   English proficiency requirement is waived if the medium of instruction for the degree was English. In this case, applicants should submit a letter from their institution confirming that English was the language of instruction for their degree.
 
-    -   IELTS of 6.5 or above
+    -   If the medium of instruction was not English, applicants must submit one of the following to demonstrate English proficiency:
 
-    -   Duolingo Test 105 and above 
+        ::: {.callout-tip title="Any of the following can satisfy the English proficiency requirement for international applicants:"}
+        -   TOEFL score of 550 (paper-based), 213 (computer-based) or 80 (internet-based)
 
-    -   Cal Poly Pomona English Language Institute (CPELI) offers English learning programs. CPELI level 6 is acceptable for satisfying CPP English proficiency requirement of SGSB graduate program admission purpose. Details can be found at <https://www.cpp.edu/cpeli/>.
+        -   IELTS of 6.5 or above
+
+        -   Duolingo Test 105 and above 
+
+        -   Cal Poly Pomona English Language Institute (CPELI) offers English learning programs. CPELI level 6 is acceptable for satisfying CPP English proficiency requirement of SGSB graduate program admission purpose. Details can be found at <https://www.cpp.edu/cpeli/>.
+        :::
 
 ### Optional:
 
@@ -175,7 +181,9 @@ To apply, you’ll typically prepare:
 
 -   **Spring Admission**: November 1 (*October 1* for international students)
 
--   **International Students**: Because visa interview appointments at U.S. embassies/consulates can be limited in some countries, we strongly recommend applying as early as possible so you have enough time to receive your I-20 and schedule a visa interview before your intended start term.
+::: {.callout-warning title="Important Note for International Applicants"}
+Because visa interview appointments at U.S. embassies/consulates can be limited in some countries, we strongly recommend applying as early as possible so you have enough time to receive your I-20 and schedule a visa interview before your intended start term.
+:::
 
 ### Where to Apply:
 
@@ -195,7 +203,7 @@ Overall, we look for a **clear sense of purpose**, **strong program fit**, and *
 
 ### How We Evaluate Applications:
 
-::: callout-important
+::: {.callout-note title="Application Evaluation Process"}
 -   **Rolling review:** Applications are reviewed on a rolling basis, so earlier submissions may receive decisions sooner.
 
 -   **Statement of purpose matters:** We take the statement of purpose (personal statement) seriously. Applicants with clear career goals and a strong rationale for pursuing the MSDM are viewed favorably.
@@ -251,13 +259,16 @@ Rankings can vary by publication and year, but CPP consistently appears as a lea
 
 ## **Colleges & Program Overview**
 
-The **College of Business Administration** includes **200+ faculty** and **5,000+ students**, and is **AACSB-accredited** (a distinction held by a small percentage (\~6%) of business schools worldwide). The college includes six departments and **Singelyn Graduate School of Business**, and the MSDM program is housed in **International Business & Marketing**.
+> The **College of Business Administration** includes **200+ faculty** and **5,000+ students**, and is **AACSB-accredited** (a distinction held by a small percentage (\~6%) of business schools worldwide). The college includes six departments and **Singelyn Graduate School of Business**, and the MSDM program is housed in **International Business & Marketing**.
+>
+> The MSDM program was created through the **Center for Customer Insights and Digital Marketing**, and the program draws support from faculty across business and related areas (including Economics, CIS, and Hospitality Management for select courses).
 
-The MSDM program was created through the **Center for Customer Insights and Digital Marketing**, and the program draws support from faculty across business and related areas (including Economics, CIS, and Hospitality Management for select courses).
+### Why MSDM May show Under “Extended University” on *Cal State Apply* Website
 
-### Why MSDM may show “Extended University” on Cal State Apply Website
+> This program is offered in partnership with the **College of Professional and Global Education (CPGE)**, a university unit that supports enrollment and student services for self-support programs. CPGE helps deliver Cal Poly Pomona’s “learn-by-doing” approach to working professionals and adult learners while the academic program remains anchored in the College of Business Administration and aligns with **AACSB standards**.
 
-This program is offered in partnership with the **College of Professional and Global Education (CPGE)**, a university unit that supports enrollment and student services for self-support programs. CPGE helps deliver Cal Poly Pomona’s “learn-by-doing” approach to working professionals and adult learners while the academic program remains anchored in the College of Business Administration and aligns with **AACSB standards**.
+::: callout-important
+#### Implications
 
 With CPGE support, students benefit from:
 
@@ -268,10 +279,11 @@ With CPGE support, students benefit from:
 -   **Streamlined support:** CPGE manages registration, tuition, and student services, so you can focus on learning.
 
 -   **Global & lifelong learning opportunities:** Connect with peers and professionals locally and abroad through CPGE’s global programs.
+:::
 
 ## **Target Digital Marketing Career Roles** {#target-digital-marketing-career-roles}
 
-Digital marketing is a vast field where roles are typically categorized by the **channel** they manage (like social media or email) or the **level of strategy** involved. Here is a breakdown of typical jobs in digital marketing categorized by specialization and seniority.
+> Digital marketing is a vast field where roles are typically categorized by the **channel** they manage (like social media or email) or the **level of strategy** involved. Here is a breakdown of typical jobs in digital marketing categorized by specialization and seniority.
 
 ### Content & Creative Roles
 
@@ -293,7 +305,7 @@ These roles can be great careers, but **H-1B sponsorship is often less common** 
 
 ### Technical & Performance Roles
 
-These roles focus on the "how"—the data, algorithms, and paid spend that get the content in front of the right people.
+> These roles focus on the "how"—the data, algorithms, and paid spend that get the content in front of the right people.
 
 -   **SEO Specialist:** Optimizes the technical aspects and keywords of a website to improve organic (unpaid) search rankings.
 
@@ -381,7 +393,7 @@ By graduation, you’ll be able to:
 ::: callout-tip
 ## Recommendations for Curriculum Emphasis
 
-Based on the immediate target career roles right after graduation, my recommendation for Degree Emphasis would be different as follows:
+> Based on the immediate target career roles right after graduation, my recommendation for Degree Emphasis would be different as follows:
 
 -   If you prefer to take **Content & Creative Roles,** such as content writer/SEO writer, copy writer, social media manager, and graphics/visual designer –\> choose **Digital Marketing Strategy Emphasis**.
 
