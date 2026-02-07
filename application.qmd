@@ -400,6 +400,7 @@ Based on the immediate target career roles right after graduation, my recommenda
 -   If you prefer to take **Technical & Performance Roles**, such as SEO Specialist, PPC Specialist, and Email Marketing Specialist → choose **Balanced/Mixed Option**.
 
 -   If you prefer to take **Analytics (Marketing Data Specialist) Roles**, such as Marketing Data Analyst, Marketing Data Scientist, and Marketing Data Engineer → choose **Marketing Analytics Emphasis**.
+:::
 
 ### Completion Roadmaps
 
@@ -565,8 +566,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     :::
 
     ::::: {.card .p-3 .shadow-sm style="border-left: 5px solid #005826;"}
-
-    ::: {.fs-4 .fw-bold .text-dark}
+    ::: {.fs-4 .fw-bold}
     {{< fa user-tie >}} Hana Mai
     :::
     *Student Ambassador*
@@ -586,8 +586,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     **Tue:** 2:00 – 5:00 PM
     :::
     ::::
-
-    ::::
+    :::::
 
 
 -   [**CPP Bronco Mentoring Network**](https://www.cpp.edu/alumni/get-involved/mentoring.shtml):\
