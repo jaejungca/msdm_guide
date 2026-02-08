@@ -228,8 +228,7 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 > Some MSDM courses include **micro-internship experiences** where you work with a real client and complete paid, course-embedded projects. Click here for more details about [**micro-internships**](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships)
 
 ::: {.callout-tip title="Why it’s great for international students"}
-
-When a micro-internship is required as part of a course, exceptions may apply regarding typical **CPT timing** so that you can participate in it even in your first semester — always confirm details with the Micro-Internship Coordinator and the international student office. 
+When a micro-internship is required as part of a course, exceptions may apply regarding typical **CPT timing** so that you can participate in it even in your first semester — always confirm details with the Micro-Internship Coordinator and the international student office.
 :::
 
 ## **Scholarships & Assistantships (what to expect)** {#scholarships-assistantships}
@@ -324,6 +323,64 @@ As soon as you are accepted into the program, contact the international office a
 If you are from country, where it takes long time to set up a Visa interview, you would be better off by applying for the MSDM and get admitted early to secure sufficient time. I have seen students from a certain reigions (e.g., South Asian countries) unable to get Visa before August when fall semester starts even if they were admitted early. You should submit probably two months prior to the deadline (May 1).
 
 For the in-depth discussion of timeline, see [Admission Decision Timeline & Implication](#admission-decision-timeline-implications) section.
+
+## **Want to Talk to MSDM Faculty or Current Students?**
+
+If you have questions about the program, curriculum, or your application, we encourage you to reach out to our faculty or current students. They can provide valuable insights and guidance based on their experiences.
+
+     
+::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #568203;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
+::: {.fs-4 .fw-bold}
+{{< fa user-tie >}} Dr. Jae Jung
+:::
+
+*MSDM Program Director*\
+[Linkedin](https://www.linkedin.com/in/jaeminjung/) \| [Email](mailto:jmjung@cpp.edu)
+
+------------------------------------------------------------------------
+
+::::: columns
+::: {.column width="50%"}
+{{< fa map-marker-alt >}} **Office Location**\
+**In-person: **Building 164 Room 3092\
+**Virtual: **[Join Zoom Session](https://cpp.zoom.us/j/6150133817)
+:::
+
+::: {.column width="50%"}
+{{< fa clock >}} **Availability**\
+**Mon: **12:00 PM – 1:00 PM, 4:00 PM – 5:00 PM (In-person only)\
+**Thu: **4:00 PM – 6:00 PM (Virtual via Zoom)
+:::
+:::::
+:::::::
+
+
+
+::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #F9C80E;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
+::: {.fs-4 .fw-bold}
+{{< fa user-tie >}} Hana Mai
+:::
+
+*MSDM Ambassador*\
+[Linkedin](https://www.linkedin.com/in/maingngochan/) \| [Email](mailto:hnmai@cpp.edu)
+
+------------------------------------------------------------------------
+
+::::: columns
+::: {.column width="50%"}
+{{< fa map-marker-alt >}} **Office Location**\
+**In-person:** Building 98C 6-10\
+**Virtual:** [Join Zoom Session](https://cpp.zoom.us/my/hnmai)
+:::
+
+::: {.column width="50%"}
+{{< fa clock >}} **Availability**\
+**Mon:** 2:00 – 5:00 PM\
+**Tue:** 2:00 – 5:00 PM
+:::
+:::::
+:::::::
+
 
 ## **Next steps**
 

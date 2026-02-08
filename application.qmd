@@ -657,9 +657,59 @@ We offer a virtual information session periodically via Zoom.
 
 ### Contacts:
 
--   **Program & curriculum questions:** Program Director ([Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)), Director of CCIDM, Singelyn Graduate School of Business, College of Business Administration
+-   **Program & curriculum questions:** Program Director ([Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml))
 
--   **Registration/tuition/services:** Ashley Cartwright (arcartwright\@cpp.edu), Sr. Program Manager, College of Professional and Global Education
+::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #568203;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
+::: {.fs-4 .fw-bold}
+{{< fa user-tie >}} [Dr. Jae Jung](https://www.cpp.edu/faculty/jmjung/index.shtml)
+:::
+
+*MSDM Program Director*, *Director of CCIDM*, Singelyn Graduate School of Business, College of Business Administration\
+[Linkedin](https://www.linkedin.com/in/jaeminjung/) \| [Email](mailto:jmjung@cpp.edu)
+
+------------------------------------------------------------------------
+
+::::: columns
+::: {.column width="50%"}
+{{< fa map-marker-alt >}} **Office Location**\
+**In-person: **Building 164 Room 3092\
+**Virtual:** Join Zoom Session [Appointment only via Calendly](https://calendly.com/jmjung/15min)
+:::
+
+::: {.column width="50%"}
+{{< fa clock >}} **Availability**\
+**Mon: **12:00 PM – 1:00 PM, 4:00 PM – 5:00 PM (In-person only)\
+**Thu: **4:00 PM – 6:00 PM (Virtual via Zoom)
+:::
+:::::
+:::::::
+
+-   **Registration/tuition/services:** 
+
+::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #F33A6A;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
+::: {.fs-4 .fw-bold}
+{{< fa user-tie >}} Ashley Cartwright
+:::
+
+*Sr. Program Manager*, College of Professional and Global Education\
+[Linkedin](https://www.linkedin.com/in/ashley-cartwright-mpa-4969b261/) \| [Email](mailto:arcartwright@cpp.edu)
+
+------------------------------------------------------------------------
+
+::::: columns
+::: {.column width="50%"}
+{{< fa map-marker-alt >}} **Office Location**\
+**In-person:** CPGE Building\
+**Phone:** 909-869-4495
+:::
+
+::: {.column width="50%"}
+{{< fa clock >}} **Availability**\
+**Mon:** 2:00 – 5:00 PM\
+**Tue:** 2:00 – 5:00 PM
+:::
+:::::
+:::::::
 
 ## **Frequently Asked Questions**
 

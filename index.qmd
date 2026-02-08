@@ -178,7 +178,7 @@ Based on national research with professionals across the insights and data indus
 
             7.  Tutoring Services
 
-            8.  [Mentoring](application.qmd#mentoring)
+            8.  [**Mentoring**](application.qmd#mentoring)
 
         11. [More Information & Contacts](application.qmd#more-information-contacts)
 

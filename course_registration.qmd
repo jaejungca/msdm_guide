@@ -84,10 +84,16 @@ There are three Curriculum Options:
 ::: callout-important
 Because our students come from diverse educational backgrounds, we offer a Boot Camp designed to build essential readiness skills for the program. It provides foundational spreadsheet skills, an introduction to R programming, and basic statistical concepts that students should know before—or during—their first semester (e.g., spring semester for spring cohort group). All courses are free and available online through MyCPP.
 
--   [Boot Camp](msdm_bootcamp.qmd)
+-   [**MSDM Boot Camp**](msdm_bootcamp.qmd)
 :::
 
 ## **Year 1, Fall**
+
+::: {.callout-note title="Fall Cohort Group"}
+-   If you are a fall cohort group, make sure you know the materials on [**MSDM Boot Camp**](#boot-camp).
+
+-   Please do not enroll in the courses not listed here unless you are on a 1-year completion roadmap, as other courses are the ones reserved for your second fall semester.
+:::
 
 ### Core Courses
 
@@ -108,8 +114,8 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 
 ## **Year 1, Spring**
 
-::: callout-note
--   If you are a spring cohort group, make sure you know the materials on [MSDM Boot Camp](#boot-camp).
+::: {.callout-note title="Spring Cohort Group"}
+-   If you are a spring cohort group, make sure you know the materials on [**MSDM Boot Camp**](#boot-camp).
 
 -   Please do not enroll in the courses not listed here unless you are on a 1-year completion roadmap, as they are the ones reserved for your second spring semester.
 :::
