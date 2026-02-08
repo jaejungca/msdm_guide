@@ -626,7 +626,8 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
 
     ::: {.column width="50%"}
     {{< fa clock >}} **Availability**\
-    **Mon - Fri:** 9:00 AM – 5:00 PM  
+    **Mon:** 2:00 – 5:00 PM\
+    **Tue:** 2:00 – 5:00 PM  
     :::
     :::::
     :::::::
@@ -704,8 +705,7 @@ We offer a virtual information session periodically via Zoom.
 
 ::: {.column width="50%"}
 {{< fa clock >}} **Availability**\
-**Mon:** 2:00 – 5:00 PM\
-**Tue:** 2:00 – 5:00 PM
+**Mon - Fri:** 9:00 AM – 5:00 PM
 :::
 :::::
 :::::::
