@@ -201,7 +201,7 @@ Finally, applicants should highlight what they will **contribute** to the progra
 Overall, we look for a **clear sense of purpose**, **strong program fit**, and **genuine passion** for a career in digital marketing and/or marketing analytics (i.e., Content & Creative Roles, Technical & Performance Roles, Marketing Data & Analytics Roles, Strategy & Leadership Roles).
 :::
 
-## Admission Decision Process, Method, and Timeline
+## **Admission Decision Process, Method, and Timeline**
 
 ### Decision Process
 
@@ -241,7 +241,7 @@ This means that Step 3 and Step 4 happens almost the same time and about a week 
 -   **Program fit:** We also consider how well your career goals align with the program’s strengths in digital marketing strategy and marketing analytics.
 :::
 
-### Decision Timeline
+### Decision Timeline {#decision-timeline}
 
 From the moment you submitted your application, it may take anywhere between 7 weeks to 13 weeks to hear about admissions decision.
 
