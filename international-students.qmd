@@ -82,7 +82,8 @@ This page is designed to give you **accurate, role-specific guidance**—so you 
 
 Many employers treat these as two separate “yes/no” decisions:
 
--   **Hiring you on OPT/STEM OPT (short-term work authorization):** often easier *if* you already have valid authorization. All international students in this program will be eligible for STEM OPT. They have no problem hiring you .
+-   **Hiring you on OPT/STEM OPT (short-term work authorization):** often easier *if* you already have valid authorization. All international students in this program will be eligible for STEM OPT. They have no problem hiring you.
+
 -   **Sponsoring long-term work authorization later (ex: H‑1B):** bigger commitment (legal, compliance, budgeting, role fit). This is where your specialty matters.
 
 ::: {.callout-important title="Bottom line"}
@@ -100,10 +101,13 @@ Don’t assume “if they hire me on OPT, they will sponsor later.” You should
 
 Digital marketing careers typically fall into four role families:
 
-1)  **Content & Creative**\
-2)  **Technical & Performance**\
-3)  **Marketing Data & Analytics**\
-4)  **Strategy & Leadership** (often mid-career+)
+1)  **Content & Creative Roles**\
+
+2)  **Technical & Performance Roles**\
+
+3)  **Marketing Data & Analytics Roles**\
+
+4)  **Strategy & Leadership Roles** (often mid-career+)
 
 ### If long-term U.S. work is a priority, focus here:
 
@@ -189,7 +193,9 @@ You’ll complete 34 units total (20 core + 14 elective units), and you can choo
 
 ::: {.callout-tip title="Program recommendation (role-based):"}
 -   If you target **Technical & Performance** roles → choose the **Balanced/Mixed** option
+
 -   If you target **Marketing Data & Analytics** roles → choose the **Marketing Analytics** emphasis
+
 -   If you target **Content & Creative** roles → choose the **Digital Marketing Strategy** emphasis
 :::
 
@@ -219,18 +225,21 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 
 ### Micro-Internships (paid, project-based experience)
 
-> Some MSDM courses include **micro-internship experiences** where you work with a real client and complete paid, course-embedded projects.
+> Some MSDM courses include **micro-internship experiences** where you work with a real client and complete paid, course-embedded projects. Click here for more details about [**micro-internships**](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships)
 
-**Important note for international students (CPT timing):**
+::: {.callout-tip title="Why it’s great for international students"}
 
-> When a micro-internship is required as part of a course, exceptions may apply regarding typical CPT timing — always confirm details with the program and the international student office.
+When a micro-internship is required as part of a course, exceptions may apply regarding typical **CPT timing** so that you can participate in it even in your first semester — always confirm details with the Micro-Internship Coordinator and the international student office. 
+:::
 
 ## **Scholarships & Assistantships (what to expect)** {#scholarships-assistantships}
 
 ### Scholarships (limited, but available)
 
 -   Recruitment Scholarship (no separate application; evaluated from admission materials)
+
 -   Professional Development Scholarship (often after at least one semester; may support certifications)
+
 -   Merit-based scholarships and other campus opportunities may be available depending on eligibility
 
 👉 Scholarship list:\
