@@ -621,7 +621,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     ::: {.column width="50%"}
     {{< fa map-marker-alt >}} **Office Location**\
     **In-person:** Building 98C 6-10\
-    **Virtual:** [Join Zoom Session](https://cpp.zoom.us/j/94044138009?pwd=ZlJmVjJkK3l5c2h1aG9nVjN1c0ZPQT09)
+    **Virtual:** [Join Zoom Session](https://cpp.zoom.us/my/hnmai)
     :::
 
     ::: {.column width="50%"}

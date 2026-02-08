@@ -50,7 +50,7 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 1.  **Use a Shared Cloud Folder.**
 
-    ::: callout-note
+    ::: callout-important
     #### Take an action
 
     -   Create a shared cloud folder (e.g., OneDrive or Google Drive) and grant **edit access** to all team members.
