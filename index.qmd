@@ -166,9 +166,9 @@ Based on national research with professionals across the insights and data indus
 
             1.  Program guidance on curriculum and planning
 
-            2.  [Scholarships](application.qmd#scholarships)
+            2.  [**Scholarships**](application.qmd#scholarships)
 
-            3.  Assistantships
+            3.  **Assistantships**
 
             4.  Financial Aid Resources
 
@@ -206,7 +206,7 @@ Based on national research with professionals across the insights and data indus
         
         7.  [Real Experience while You Study](international-students.qmd#real-experience-while-you-study)
         
-        8.  [Scholarships & Assistantships](international-students.qmd#scholarships-assistantships)
+        8.  [**Scholarships & Assistantships**](international-students.qmd#scholarships-assistantships)
         
         9.  ["Right fit" Checklist](international-students.qmd#right-fit-checklist)
         
