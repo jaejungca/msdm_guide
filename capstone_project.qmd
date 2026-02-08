@@ -50,13 +50,13 @@ Successful capstone projects depend not only on analytical skills, but also on *
 
 1.  **Use a Shared Cloud Folder.**
 
-::: callout-note
-#### Take an action
+    ::: callout-note
+    #### Take an action
 
--   Create a shared cloud folder (e.g., OneDrive or Google Drive) and grant **edit access** to all team members.
+    -   Create a shared cloud folder (e.g., OneDrive or Google Drive) and grant **edit access** to all team members.
 
--   Cal Poly Pomona supports **OneDrive**, so it is the preferred cloud platform.
-:::
+    -   Cal Poly Pomona supports **OneDrive**, so it is the preferred cloud platform.
+    :::
 
 2.  **Meet Regularly**
 
