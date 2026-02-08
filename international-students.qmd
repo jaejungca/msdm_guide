@@ -253,7 +253,9 @@ When a micro-internship is required as part of a course, exceptions may apply re
 
 -   TA or RA are [**not awarded as part of the admissions process**]{.underline}, and they are not guaranteed for all students. Students must individually approach faculty who are in need of TA and appeal. Faculty usually have multiple students expressing their interest, so faculty will evaluate candidates based on a combination of factors, including academic performance, relevant experience, and the needs of the department. You can **only apply for these positions after you have enrolled in courses** and have access to **Handshake**.
 
-    -   If you are interested in TA/RA opportunities, apply to the program early and get admitted early so that you have sufficient time to do research. We admit students on a rolling basis.
+::: {.callout-tip title="Tips for Securing TA/RA Positions"}
+If you are interested in TA/RA opportunities, apply to the program early and get admitted early so that you have sufficient time to do research. We admit students on a rolling basis.
+:::
 
 ## **“Right fit” Checklist** (who tends to thrive here) {#right-fit-checklist}
 
@@ -280,7 +282,7 @@ When a micro-internship is required as part of a course, exceptions may apply re
 
 -   Deadline for Spring Admission: October 1
 
-These deadlines are absolute the last day the university would accept application. This, however, doesn't guarantee that you will have sufficient time for securing Visa at your country. **You should factor your home country situation in when you make application decisions**.
+These deadlines are absolute last day the university would accept application. Meeting these deadlines, however, doesn't guarantee that you will have sufficient time for securing Visa at your country. **You should factor your home country situation in when you make application decisions**.
 :::
 
 ## **Admission Decision Timeline & Implications** {#admission-decision-timeline-implications}
