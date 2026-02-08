@@ -274,13 +274,13 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 These deadlines are absolute the last day the university would accept application. This, however, doesn't guarantee that you will have sufficient time for securing Visa at your country. **You should factor your home country situation in when you make application decisions**.
 :::
 
-## **Admission Decision Timeline & Implications**
+## **Admission Decision Timeline & Implications** {#admission-decision-timeline-implications}
 
 From the moment you submitted your application, it may take anywhere between 7 weeks to 13 weeks to hear about admissions decision. For details about **Step 1** - **Step 4**, see [Admission Decision Process, Method, and Timeline](application.qmd#admission-decision-process-method-timeline).
 
 For international students, however, that is not the end. they have to secure I-20 and Visa.
 
-::: {.callout-warning title="International Students Only"}
+::: {.callout-warning title="Be Very Conservative with Your Timeline"}
 International students must add one more step, which is to [request I-20](https://www.cpp.edu/international/students/new-students/request-i-20.shtml) at the [International Center](https://www.cpp.edu/international/students/new-students/index.shtml). Since I am not involved in the process, I can tell you how long it would take, but both students and International Center play roles.
 
 4.  **Step 5: Gather all the documents such as bank statements showing sufficient fund to cover your study and your passport, and submit 1-20 request form.**
@@ -289,13 +289,21 @@ International students must add one more step, which is to [request I-20](https:
 If you could prepare Step 5 prior to Step 3 and Step 4, you can save a lot of time. **Step 6 might take about a month**. Thus, international students must add at least one month more in their timeline **(11 weeks to 17 weeks)** until they receive I-20, which is needed to be able to make an appointment for Visa interview at their own country's US Embassy or Consulate.
 :::
 
-6.  **Step 7:** **Make an apointment for a Visa Interview.**
+6.  **Step 7:** **Make an Apointment for a Visa Interview.**
 
-The processing time for Step 7 can vary substantially depending on the demand for Visa interview at the student's home country.
+The processing time for **Step 7** can vary substantially depending on the demand for Visa interview at the student's home country.
 
 ::: {.callout-tip title="Timeline Simulation"}
-If this step takes, say, three months and your goal is to get Visa two months prior to the start of Fall semester (August 20), you need to apply for Visa about March 20. Considering that you need 11 weeks - 17 weeks from admission application to reception of I-20, you need to submit application three to four months prior to applying for Visa. This means that you need to apply **November 20 or December 20**.
+-   Let's suppose Step 7 (Time until Visa Interview) takes about three months and your goal is to obtain your visa two months before the Fall semester begins (August 20). **How early should you start arranging for Visa interview?**
+
+    -   You should plan to apply for your visa around March 20.
+
+-   To get I-20 around March 20, **when should you submit your admission application package?**
+
+    -   You should apply around **November 20 to December 20**. Because it typically takes 11–17 weeks from submitting your admission application to receiving your I-20, you should submit your program application **three to four months before** your visa application.
 :::
+
+Although the timeline above may be extreme, it illustrate the needs for international students to be proactive and plan ahead, as students have little control on the process.
 
 ## **I-20 and Visa Interview**
 
