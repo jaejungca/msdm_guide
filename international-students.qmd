@@ -41,7 +41,7 @@ execute:
   freeze: auto
 ---
 
-## [**Introduction**]{style="color: #069494"}
+## [**Introduction**]{style="color: #FF991C"}
 
 > Information about international students is often scattered across different pages, and it can be hard to find clear, role-specific guidance on how to plan your pathway. This page is designed to give you a comprehensive overview of what matters most for international students considering Cal Poly Pomona’s Master of Science in Digital Marketing (MSDM)—especially how the STEM designation supports work authorization timelines, but why your career strategy (the roles you target) is also critical for long-term sponsorship prospects.
 
