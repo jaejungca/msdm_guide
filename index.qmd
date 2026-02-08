@@ -130,7 +130,7 @@ Based on national research with professionals across the insights and data indus
 
 1.  **Application**
 
-    1. [**Application Guide**](application.qmd)
+    1.  [**Application Guide**](application.qmd)
 
         1.  [Introduction](application.qmd#introduction)
 
@@ -138,57 +138,85 @@ Based on national research with professionals across the insights and data indus
 
         3.  [Application Requirements](application.qmd#application-requirements)
 
-        4.  [University Overview](application.qmd#university-overview)
+        4.  [Admission Decision Process, Method, and Timeline](application.qmd#admission-decision-process-method-timeline)
 
-        5.  [Colleges & Program Overview](application.qmd#colleges-program-overview)
+        5.  [University Overview](application.qmd#university-overview)
 
-        6.  [Target Digital Marketing Career Roles](application.qmd#target-digital-marketing-career-roles)
+        6.  [Colleges & Program Overview](application.qmd#colleges-program-overview)
 
-        7.  [Curriculum & Completion Roamap Options](application.qmd#curriculum-completion-roadmap-options)
+        7.  [Target Digital Marketing Career Roles](application.qmd#target-digital-marketing-career-roles)
 
-        8.  [Key Features and Costs](application.qmd#key-features-cost)
+        8.  [Curriculum & Completion Roamap Options](application.qmd#curriculum-completion-roadmap-options)
 
-            1. Three Curriculum Options
+        9.  [Key Features and Costs](application.qmd#key-features-cost)
 
-            2. STEM-Designated Program
+            1.  Three Curriculum Options
 
-            3. Completion Time
+            2.  STEM-Designated Program
 
-            4. Program Type
+            3.  Completion Time
 
-            5. Class Modality/Time
+            4.  Program Type
 
-            6. Tuition & Fees
+            5.  Class Modality/Time
 
-        9.  [Program Support Environment](application.qmd#program-support-environment)
+            6.  Tuition & Fees
+
+        10. [Program Support Environment](application.qmd#program-support-environment)
+
+            1.  Program guidance on curriculum and planning
+
+            2.  [Scholarships](application.qmd#scholarships)
+
+            3.  Assistantships
+
+            4.  Financial Aid Resources
+
+            5.  Jobs and Internships
+
+            6.  Extra-Curricular Opportunities
+
+            7.  Tutoring Services
+
+            8.  [Mentoring](application.qmd#mentoring)
+
+        11. [More Information & Contacts](application.qmd#more-information-contacts)
+
+            1.  [Official MSDM Website](application.qmd#official-msdm-website)
+
+            2.  [MSDM Mailing List](application.qmd#msdm-mailing-list)
+
+            3.  [MSDM Information Sessions](application.qmd#msdm-information-sessions)
+
+        12. [Frequently Asked Questions](application.qmd#frequently-asked-questions)
+
+    2.  [**International Student Guidance**](international-students.qmd)
+    
+        1.  [Introduction](international-students.qmd#introduction)
         
-            1. Program guidance on curriculum and planning
-
-            2. [Scholarships](application.qmd#scholarships)
-
-            3. Assistantships
-
-            4. Financial Aid Resources
-
-            5. Jobs and Internships
-
-            6. Extra-Curricular Opportunities
-
-            7. Tutoring Services
-
-            8. [Mentoring](application.qmd#mentoring)
-
-        10. [More Information & Contacts](application.qmd#more-information-contacts)
-
-            1. [Official MSDM Website](application.qmd#official-msdm-website)
-
-            2. [MSDM Mailing List](application.qmd#msdm-mailing-list)
-
-            3. [MSDM Information Sessions](application.qmd#msdm-information-sessions)
-
-        11. [Frequently Asked Questions](application.qmd#frequently-asked-questions)
-
-    2. [**International Student Guidance**](international-students.qmd)    
+        2.  [STEM-Designated](international-students.qmd#msdm-for-international-students-stem-designated).
+        
+        3.  [Career Outlook](international-students.qmd#quick-facts-that-matter-cost-structure)
+        
+        4.  [STEM designation + OPT](international-students.qmd#stem-designation-opt)
+        
+        5.  [Career Strategy](international-students.qmd#career-strategy)
+        
+        6.  [How CPP MSDM supports these paths](international-students.qmd#how-cpp-msdm-supports-these-paths)
+        
+        7.  [Real Experience while You Study](international-students.qmd#real-experience-while-you-study)
+        
+        8.  [Scholarships & Assistantships](international-students.qmd#scholarships-assistantships)
+        
+        9.  ["Right fit" Checklist](international-students.qmd#right-fit-checklist)
+        
+        10. [Application Deadlines](international-students.qmd#application-deadlines)
+        
+        11. [Admission Decision Timeline & Implications](international-students.qmd#admission-decision-timeline-implications)
+        
+        12. [I-20 and Visa Interview](international-students.qmd#i-20-and-visa-interview)
+        
+        10. [Next Steps](international-students.qmd#next-steps)
 
 2.  **Career Outlook & Guide**
 
@@ -327,6 +355,5 @@ Based on national research with professionals across the insights and data indus
     6.  [Spring Semester](capstone_project.qmd#spring-semester)
 
     7.  [Summer Semester](capstone_project.qmd#summer-semester)
-
 
 ------------------------------------------------------------------------

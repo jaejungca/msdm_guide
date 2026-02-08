@@ -201,7 +201,35 @@ Finally, applicants should highlight what they will **contribute** to the progra
 Overall, we look for a **clear sense of purpose**, **strong program fit**, and **genuine passion** for a career in digital marketing and/or marketing analytics (i.e., Content & Creative Roles, Technical & Performance Roles, Marketing Data & Analytics Roles, Strategy & Leadership Roles).
 :::
 
-### How We Evaluate Applications:
+## Admission Decision Process, Method, and Timeline
+
+### Decision Process
+
+When you submit your application package at Cal State Apply, evaluation is done in **Two-step process**.
+
+**Step 1: The Office of Admission will screen your package to ensure two things.**
+
+-   Do you have 4-year Bachelor's Degree?
+
+-   Do you have at least 2.5 GPA?
+
+Once you meet the basic screening criteria, they will forward it to the program office for final decision.
+
+**Step 2: The MSDM Program Office will evaluate the entire application package and make a final decision.**
+
+Only if you passed Step 1, then your package will be forwarded to the MSDM Office. The MSDM Office uses spreadsheet to summarize objective facts about each applicant – name, major, univerisity, graduation year, GPA, English test score (for international students only), courses taken for Math, Statistics, certificates, job experience, career aspiration, etc. We do not make decisions using GPA alone. Instead, we make decisions holistically. See below "How We Evaluate Applications."
+
+Once the decision is made, MSDM office notifies the Admissions Office.
+
+1.  It will report back to the Admissions Office electronically on PolyDoc system.
+
+**Step 3: The Admissions Office will post admission decisions (accepted/rejected) on Cal State Apply about one week after the MSDM Program Office notifies them of the decision via PolyDoc system.**
+
+**Step 4: The MSDM Office will send you a letter of acceptance as soon as the Admissions Office post the decisions on Cal State Apply**.
+
+This means that Step 3 and Step 4 happens almost the same time and about a week after Step 2.
+
+### Decision Methods: How We Evaluate Applications
 
 ::: {.callout-note title="Application Evaluation Principles"}
 -   **Rolling review:** Applications are reviewed on a rolling basis, so earlier submissions may receive decisions sooner.
@@ -211,6 +239,20 @@ Overall, we look for a **clear sense of purpose**, **strong program fit**, and *
 -   **Holistic evaluation:** We review each application holistically, considering academic performance, professional experience, and evidence of commitment to your career goals. A weakness in one area can be **complemented** by strength in another.
 
 -   **Program fit:** We also consider how well your career goals align with the program’s strengths in digital marketing strategy and marketing analytics.
+:::
+
+### Decision Timeline
+
+From the moment you submitted your application, it may take anywhere between 7 weeks to 13 weeks to hear about admissions decision.
+
+1.  **Step 1**: 4 weeks - 8 weeks
+
+2.  **Step 2**: 2 weeks - 4 weeks
+
+3.  **Step 3** **and Step 4**: 1 week
+
+::: {.callout-warning title="International Students Only"}
+International students must add at least one month for I-20, a document needed to apply for Visa. For further information, go to [Timeline for International Students](international-students.qmd#on-campus-jobs).
 :::
 
 ## **University Overview**
@@ -565,15 +607,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     -   If you are prospective students, you may request an appointment by contacting the MSDM ambassador.
     :::
 
-    ::::::: {.callout-note appearance="minimal"
-        style="border-left: 14px solid #F9C80E;
-        border-radius: 14px;
-        padding-left: 1rem;
-        box-shadow: 0 6px 18px rgba(0,0,0,.08);
-        background:
-            linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,
-            linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
-
+    ::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #F9C80E;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
     ::: {.fs-4 .fw-bold}
     {{< fa user-tie >}} Hana Mai
     :::

@@ -107,7 +107,7 @@ Digital marketing careers typically fall into four role families:
 
 ### If long-term U.S. work is a priority, focus here:
 
-#### 1) Marketing Data & Analytics roles (typically the strongest alignment)
+#### Marketing Data & Analytics Roles (typically the strongest alignment)
 
 **Examples:** 
 
@@ -131,7 +131,7 @@ Digital marketing careers typically fall into four role families:
 
 -   Measurement frameworks, forecasting, segmentation
 
-#### 2) Technical & Performance roles (best when they’re truly technical)
+#### Technical & Performance Roles (best when they’re truly technical)
 
 **Examples:**
 
@@ -157,7 +157,7 @@ Digital marketing careers typically fall into four role families:
 
 ### Lanes that are valid—but often more variable for sponsorship
 
-#### Content & Creative
+#### Content & Creative Roles
 
 **Examples:**
 
@@ -173,13 +173,13 @@ Digital marketing careers typically fall into four role families:
 These can be great careers, but sponsorship is often less common because many roles are viewed as more generalist and are frequently hired by smaller teams/agencies.
 :::
 
-#### Strategy & Leadership (usually not immediate post-grad)
+#### Strategy & Leadership Roles (usually not immediate post-grad)
 
 These roles are often reached after experience in the other lanes, so they are not for rookies.
 
-## **How CPP MSDM supports these paths** (curriculum options + tools)
+## **How CPP MSDM supports these paths** (curriculum options + tools) {#how-cpp-msdm-supports-these-paths}
 
-### 3 Elective Options (you choose based on target career roles)
+### Three Elective Options (you choose based on target career roles)
 
 You’ll complete 34 units total (20 core + 14 elective units), and you can choose electives using one of three options:
 
@@ -196,7 +196,7 @@ You’ll complete 34 units total (20 core + 14 elective units), and you can choo
 👉 Curriculum options + completion roadmaps:\
 [https://www.cppmsdm.com/application#curriculum-completion-roadmap-options](application.qmd#curriculum-completion-roadmap-options)
 
-### Tools you’ll build (varies by your course/elective choices)
+### Tools You’ll Build (varies by your course/elective choices)
 
 Depending on your roadmap and electives, students develop skills using tools such as:
 
@@ -208,11 +208,13 @@ Depending on your roadmap and electives, students develop skills using tools suc
 👉 Skills/Tools/Courses alignment (great for planning):\
 [https://www.cppmsdm.com/skills_tools_courses](skills_tools_courses.qmd)
 
-## **Real Experience while You Study:** Micro-internships + On-campus Jobs
+## **Real Experience while You Study:** Micro-internships + On-campus Jobs {#real-experience-while-you-study}
 
 ### On-campus jobs
 
-Many students find on-campus roles across departments. Jobs are commonly posted via Handshake.\
+Many students find on-campus roles across departments. Jobs are commonly posted via Handshake.
+
+👉 On-Campus Jobs and Internships:\
 [https://www.cppmsdm.com/application#jobs-and-internships](application#jobs-and-internships)
 
 ### Micro-Internships (paid, project-based experience)
@@ -223,7 +225,7 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 
 > When a micro-internship is required as part of a course, exceptions may apply regarding typical CPT timing — always confirm details with the program and the international student office.
 
-## **Scholarships + Assistantships (what to expect)**
+## **Scholarships & Assistantships (what to expect)** {#scholarships-assistantships}
 
 ### Scholarships (limited, but available)
 
@@ -236,15 +238,15 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 
 ### Assistantships (limited availability)
 
--   TA and RA roles exist, but availability is limited and competitive. You can apply for these positions through the university’s job portal called Handshake. To apply for the jobs, you must first enroll in courses.
+-   **TA and RA roles exist**, but availability is limited and competitive. You can apply for these positions through the university’s job portal called Handshake. To apply for the jobs, you must first enroll in courses.
 
 -   These jobs are posted on Handshake and may require specific skills or experience. They can provide valuable experience and financial support but should not be the primary financial plan.
 
--   TA or RA are not awarded as part of the admissions process, and they are not guaranteed for all students. They are typically awarded based on a combination of factors, including academic performance, relevant experience, and the needs of the department. You can only apply for these positions after you have enrolled in courses and have access to Handshake.
+-   TA or RA are [**not awarded as part of the admissions process**]{.underline}, and they are not guaranteed for all students. Students must individually approach faculty who are in need of TA and appeal. Faculty usually have multiple students expressing their interest, so faculty will evaluate candidates based on a combination of factors, including academic performance, relevant experience, and the needs of the department. You can **only apply for these positions after you have enrolled in courses** and have access to **Handshake**.
 
-    -   This is why you should apply early if you are interested in these opportunities, so you can plan accordingly.
+    -   If you are interested in TA/RA opportunities, apply to the program early and get admitted early so that you have sufficient time to do research. We admit students on a rolling basis.
 
-## **“Right fit” checklist** (who tends to thrive here)
+## **“Right fit” Checklist** (who tends to thrive here) {#right-fit-checklist}
 
 **CPP MSDM is a strong fit if you:**
 
@@ -261,6 +263,47 @@ Many students find on-campus roles across departments. Jobs are commonly posted 
 -   Want a purely creative/content-only path and do not want to build measurement/data skills
 
 -   Are assuming STEM automatically means easy long-term sponsorship (it does not)
+
+## **Application Deadlines:**
+
+::: {.callout-tip title="Don't Wait until the Deadline"}
+-   Deadline for Fall Admission: May 1
+
+-   Deadline for Spring Admission: October 1
+
+These deadlines are absolute the last day the university would accept application. This, however, doesn't guarantee that you will have sufficient time for securing Visa at your country. **You should factor your home country situation in when you make application decisions**.
+:::
+
+## **Admission Decision Timeline & Implications**
+
+From the moment you submitted your application, it may take anywhere between 7 weeks to 13 weeks to hear about admissions decision. For details about Step 1 - Step 4, see [Decision Timeline](admission.qmd#decision-timeline).
+
+For international students, however, that is not the end. they have to secure I-20 and Visa.
+
+::: {.callout-warning title="International Students Only"}
+International students must add one more step, which is to [request I-20](https://www.cpp.edu/international/students/new-students/request-i-20.shtml) at the [International Center](https://www.cpp.edu/international/students/new-students/index.shtml). Since I am not involved in the process, I can tell you how long it would take, but both students and International Center play roles.
+
+4.  **Step 5: Gather all the documents such as bank statements showing sufficient fund to cover your study and your passport, and submit 1-20 request form.**
+5.  **Step 6: The International Center adviser assigned to you will need to process the I-20 request you submitted.**
+
+If you could prepare Step 5 prior to Step 3 and Step 4, you can save a lot of time. **Step 6 might take about a month**. Thus, international students must add at least one month more in their timeline **(11 weeks to 17 weeks)** until they receive I-20, which is needed to be able to make an appointment for Visa interview at their own country's US Embassy or Consulate.
+:::
+
+6.  **Step 7:** **Make an apointment for a Visa Interview.**
+
+The processing time for Step 7 can vary substantially depending on the demand for Visa interview at the student's home country.
+
+::: {.callout-tip title="Timeline Simulation"}
+If this step takes, say, three months and your goal is to get Visa two months prior to the start of Fall semester (August 20), you need to apply for Visa about March 20. Considering that you need 11 weeks - 17 weeks from admission application to reception of I-20, you need to submit application three to four months prior to applying for Visa. This means that you need to apply **November 20 or December 20**.
+:::
+
+## **I-20 and Visa Interview**
+
+As soon as you are accepted into the program, contact the international office and ask them to issue you I-20, a formal document you need to apply for Visa at U.S. Embassy at your country.
+
+If you are from country, where it takes long time to set up a Visa interview, you would be better off by applying for the MSDM and get admitted early to secure sufficient time. I have seen students from a certain reigions (e.g., South Asian countries) unable to get Visa before August when fall semester starts even if they were admitted early. You should submit probably one or two months prior to the deadline (May 1).
+
+Sample Time line
 
 ## **Next steps**
 
