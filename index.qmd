@@ -178,7 +178,7 @@ Based on national research with professionals across the insights and data indus
 
             7.  Tutoring Services
 
-            8.  [**Mentoring**](application.qmd#mentoring)
+            8.  [**Support & Mentorship**](application.qmd#mentoring)
 
         11. [More Information & Contacts](application.qmd#more-information-contacts)
 
@@ -187,6 +187,8 @@ Based on national research with professionals across the insights and data indus
             2.  [MSDM Mailing List](application.qmd#msdm-mailing-list)
 
             3.  [MSDM Information Sessions](application.qmd#msdm-information-sessions)
+
+            4.  [Contacts for Questions](application.qmd#contacts)
 
         12. [Frequently Asked Questions](application.qmd#frequently-asked-questions)
 
