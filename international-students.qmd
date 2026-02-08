@@ -276,7 +276,7 @@ These deadlines are absolute the last day the university would accept applicatio
 
 ## **Admission Decision Timeline & Implications**
 
-From the moment you submitted your application, it may take anywhere between 7 weeks to 13 weeks to hear about admissions decision. For details about **Step 1** - **Step 4**, see [Decision Timeline](admission.qmd#decision-timeline).
+From the moment you submitted your application, it may take anywhere between 7 weeks to 13 weeks to hear about admissions decision. For details about **Step 1** - **Step 4**, see [Admission Decision Timeline & Implications](admission.qmd#admission-decision-timeline-implications).
 
 For international students, however, that is not the end. they have to secure I-20 and Visa.
 
