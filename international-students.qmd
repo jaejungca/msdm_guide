@@ -324,63 +324,15 @@ If you are from country, where it takes long time to set up a Visa interview, yo
 
 For the in-depth discussion of timeline, see [Admission Decision Timeline & Implication](#admission-decision-timeline-implications) section.
 
-## **Want to Talk to MSDM Faculty or Current Students?**
+## **Want to Talk to MSDM Faculty, Staff, or Current Students?** {#talk-faculty-staff-student}
 
-If you have questions about the program, curriculum, or your application, we encourage you to reach out to our faculty or current students. They can provide valuable insights and guidance based on their experiences.
+If you have questions about the program, curriculum, or your application, we encourage you to reach out to our faculty, staff, or current students. They can provide valuable insights and guidance based on their experiences.
 
-     
-::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #568203;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
-::: {.fs-4 .fw-bold}
-{{< fa user-tie >}} Dr. Jae Jung
-:::
+-   **Program & Curriculum questions:** Click here for [contacts](application.qmd#contacts).
 
-*MSDM Program Director*\
-[Linkedin](https://www.linkedin.com/in/jaeminjung/) \| [Email](mailto:jmjung@cpp.edu)
+-   **Tuition and Enrollment questions:** Click here for [contacts](application.qmd#contacts).
 
-------------------------------------------------------------------------
-
-::::: columns
-::: {.column width="50%"}
-{{< fa map-marker-alt >}} **Office Location**\
-**In-person: **Building 164 Room 3092\
-**Virtual: **[Join Zoom Session](https://cpp.zoom.us/j/6150133817)
-:::
-
-::: {.column width="50%"}
-{{< fa clock >}} **Availability**\
-**Mon: **12:00 PM – 1:00 PM, 4:00 PM – 5:00 PM (In-person only)\
-**Thu: **4:00 PM – 6:00 PM (Virtual via Zoom)
-:::
-:::::
-:::::::
-
-
-
-::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #F9C80E;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
-::: {.fs-4 .fw-bold}
-{{< fa user-tie >}} Hana Mai
-:::
-
-*MSDM Ambassador*\
-[Linkedin](https://www.linkedin.com/in/maingngochan/) \| [Email](mailto:hnmai@cpp.edu)
-
-------------------------------------------------------------------------
-
-::::: columns
-::: {.column width="50%"}
-{{< fa map-marker-alt >}} **Office Location**\
-**In-person:** Building 98C 6-10\
-**Virtual:** [Join Zoom Session](https://cpp.zoom.us/my/hnmai)
-:::
-
-::: {.column width="50%"}
-{{< fa clock >}} **Availability**\
-**Mon:** 2:00 – 5:00 PM\
-**Tue:** 2:00 – 5:00 PM
-:::
-:::::
-:::::::
-
+-   **Questions about Student Perspectives on just about anything:** Click here for [mentoring](application.qmd#mentoring).
 
 ## **Next steps**
 
