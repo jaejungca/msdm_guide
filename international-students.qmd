@@ -60,7 +60,7 @@ If you’re an international student considering Cal Poly Pomona’s **M.S. in D
 
 This page is designed to give you **accurate, role-specific guidance**—so you can decide whether CPP MSDM is the right fit **and** how to plan your **pathway**.
 
-## **Quick facts that matter** (cost + structure)
+## **Quick Facts that Matter** (cost + structure)
 
 -   **Program units:** 34 total units (20 core + 14 electives)\
 -   **Tuition:** \$825 per unit\
@@ -70,7 +70,7 @@ This page is designed to give you **accurate, role-specific guidance**—so you 
 
 👉 See full details here: [https://www.cppmsdm.com/application#tuition-fees](application.qmd#tuition-fees)
 
-## **STEM designation + OPT:**
+## **STEM Designation & OPT**
 
 ::: {.callout-important title="what it helps (and what it doesn’t)"}
 **Yes:** MSDM is **officially STEM-designated**, which can support eligibility for a longer post-graduation work authorization timeline (OPT + STEM OPT).
@@ -92,7 +92,7 @@ Don’t assume “if they hire me on OPT, they will sponsor later.” You should
 👉 For deeper guidance and a recruiter question script:\
 [https://www.cppmsdm.com/career_prep_digital_marketing_marketing_analytics#career-guidance-for-international-students](career_prep_digital_marketing_marketing_analytics.qmd#career-guidance-for-international-students)
 
-## **Career strategy:**
+## **Career strategy**
 
 ::: {.callout-important title="Advice"}
 **Pick role lanes that are more sponsorship-aligned**
@@ -301,9 +301,9 @@ If this step takes, say, three months and your goal is to get Visa two months pr
 
 As soon as you are accepted into the program, contact the international office and ask them to issue you I-20, a formal document you need to apply for Visa at U.S. Embassy at your country.
 
-If you are from country, where it takes long time to set up a Visa interview, you would be better off by applying for the MSDM and get admitted early to secure sufficient time. I have seen students from a certain reigions (e.g., South Asian countries) unable to get Visa before August when fall semester starts even if they were admitted early. You should submit probably one or two months prior to the deadline (May 1).
+If you are from country, where it takes long time to set up a Visa interview, you would be better off by applying for the MSDM and get admitted early to secure sufficient time. I have seen students from a certain reigions (e.g., South Asian countries) unable to get Visa before August when fall semester starts even if they were admitted early. You should submit probably two months prior to the deadline (May 1).
 
-Sample Time line
+For the in-depth discussion of timeline, see [Admission Decision Timeline & Implication](#admission-decision-timeline-implications) section.
 
 ## **Next steps**
 

@@ -194,11 +194,11 @@ Based on national research with professionals across the insights and data indus
     
         1.  [Introduction](international-students.qmd#introduction)
         
-        2.  [STEM-Designated](international-students.qmd#msdm-for-international-students-stem-designated).
+        2.  [STEM-Designated](international-students.qmd#msdm-for-international-students-stem-designated)
         
-        3.  [Career Outlook](international-students.qmd#quick-facts-that-matter-cost-structure)
+        3.  [Quick Facts taht Matter](international-students.qmd#quick-facts-that-matter-cost-structure)
         
-        4.  [STEM designation + OPT](international-students.qmd#stem-designation-opt)
+        4.  [STEM designation & OPT](international-students.qmd#stem-designation-opt)
         
         5.  [Career Strategy](international-students.qmd#career-strategy)
         
