@@ -194,9 +194,9 @@ Submit all the application document at [**Cal State Apply**](https://www.calstat
 ::: callout-tip
 For **the Statement of Purpose (250–300 words)**, applicants should explain **why** they chose the MS in Digital Marketing program and **how** their educational and/or professional background has prepared them for graduate-level study. If they are **pivoting** from another field, they should briefly describe **what motivated the change** and any steps they have taken to explore digital marketing or marketing analytics (e.g., coursework, projects, certifications, internships, or work experience).
 
-A strong statement also communicates **career direction and fit**: what area(s) of digital marketing or marketing analytics they are most interested in, what they hope to learn, and how the program connects to their short-term and long-term goals (Refer to [Target Digital Marketing Career Roles](#target-digital-marketing-career-roles) section). Applicants are encouraged to include **specific examples** that demonstrate curiosity, initiative, and impact—such as solving a problem with data, creating or evaluating a campaign, or using insights to guide decisions.
+A strong statement also communicates **career direction and fit**: what area(s) of digital marketing or marketing analytics they are most interested in (e.g., Content/Creative roles, Techonogy/Performance roles, or Marketing Data/Analytics roles), what they hope to learn, and how the program connects to their short-term and long-term goals (Refer to [**Target Digital Marketing Career Roles**](#target-digital-marketing-career-roles) section). Applicants are encouraged to include **specific examples** that demonstrate curiosity, initiative, and impact—such as solving a problem with data, creating or evaluating a campaign, or using insights to guide decisions. If you are an international student, refer to [**Career Strategy**](international-students.qmd#career-strategy) section of [International Student Guidance](international-students.qmd) page to learn about the factors you want to consider in determining your career direction.
 
-Finally, applicants should highlight what they will **contribute** to the program community, such as technical skills, creative strengths, leadership, collaboration, or unique perspectives shaped by their experiences.
+Finally, strong statement should highlight what the applicant will **contribute** to the program community, such as technical skills, creative strengths, leadership, collaboration, or unique perspectives shaped by their experiences.
 
 Overall, we look for a **clear sense of purpose**, **strong program fit**, and **genuine passion** for a career in digital marketing and/or marketing analytics (i.e., Content & Creative Roles, Technical & Performance Roles, Marketing Data & Analytics Roles, Strategy & Leadership Roles).
 :::
@@ -627,7 +627,7 @@ When a **micro-internship** is required as part of a course, exceptions to CPT a
     ::: {.column width="50%"}
     {{< fa clock >}} **Availability**\
     **Mon:** 2:00 – 5:00 PM\
-    **Tue:** 2:00 – 5:00 PM  
+    **Tue:** 2:00 – 5:00 PM
     :::
     :::::
     :::::::
@@ -657,7 +657,7 @@ We offer a virtual information session periodically via Zoom.
 
 ### Contacts:
 
--   **Program & curriculum questions:** 
+-   **Program & curriculum questions:**
 
     ::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #568203;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
     ::: {.fs-4 .fw-bold}
@@ -672,19 +672,19 @@ We offer a virtual information session periodically via Zoom.
     ::::: columns
     ::: {.column width="50%"}
     {{< fa map-marker-alt >}} **Office Location**\
-    **In-person: **Building 164 Room 3092\
+    **In-person:** Building 164 Room 3092\
     **Virtual:** Join Zoom Session ([Appointment only via Calendly](https://calendly.com/jmjung/15min))
     :::
 
     ::: {.column width="50%"}
     {{< fa clock >}} **Availability**\
-    **Mon: **12:00 PM – 1:00 PM, 4:00 PM – 5:00 PM (In-person only)\
-    **Thu: **4:00 PM – 6:00 PM (Virtual via Zoom)
+    **Mon:** 12:00 PM – 1:00 PM, 4:00 PM – 5:00 PM (In-person only)\
+    **Thu:** 4:00 PM – 6:00 PM (Virtual via Zoom)
     :::
     :::::
     :::::::
 
--   **Registration/tuition/services:** 
+-   **Registration/tuition/services:**
 
     ::::::: {.callout-note appearance="minimal" style="border-left: 14px solid #F33A6A;     border-radius: 14px;     padding-left: 1rem;     box-shadow: 0 6px 18px rgba(0,0,0,.08);     background:         linear-gradient(90deg, rgba(0,88,38,.18) 0 4px, transparent 4px) ,         linear-gradient(180deg, rgba(249,200,14,.10), rgba(255,255,255,1));"}
     ::: {.fs-4 .fw-bold}
