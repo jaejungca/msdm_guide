@@ -108,6 +108,7 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 -   GBA 5140 - Statistics Essentials (3)[^3]
 
     -   Eligible for Emphasis Other category for DMS Emphasis
+
     -   Eligible for Emphasis Other category for MA Emphasis
 
 [^3]: GBA 5140 is a service course offered by Technology and Operatoins Management (TOM) Department for graduate students in SGSB Programs and is similar to its undergraduate course, TOM 3020 (Statistical Foundations for Business Analytics). If you have taken a college-level statistics course in your undergraduate program, you don't need to take this course, as IBM 5190 will cover some basic essential statistical concepts (e.g., descriptive statistics, test of hypothesis, etc.). If you have never taken a statistics course, however, the choice may depend on your aspired [**career roles**](career_outlook_salary_digital_marketing.qmd#typical-job-titles). If you want to pursue **Content & Creative Roles or technology & Performance Roles**, IBM 5190 may be good enough and you don't need to take GBA 5140. On the other hand, If you want to pursue a **data and analytics roles**, you will want to take the course, as strong statistical background would be necessary.
@@ -178,14 +179,16 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 
 -   IBM 6200 - Online Consumer Psychology and Behaviors (3)
 
-    -   MSDM Culminating Experience Project housed in this course
-
 -   IBM 6500 - Customer Insights Methods and Survey Research (3)
+
+    -   MSDM Culminating Experience Project housed in this course
 
 ### Electives
 
 -   IBM 6450 - AI in Marketing (2)
+
     -   Eligible for Emphasis Other category for DMS Emphasis
+
     -   Eligible for Emphasis Other category for MA Emphasis
 
 ## **Year 2, Spring**
@@ -229,9 +232,13 @@ Because our students come from diverse educational backgrounds, we offer a Boot 
 ### Electives
 
 -   IBM 6700 - Marketing Data Management (2)[^8]
+
     -   Eligible for Emphasis Other category for MA Emphasis
+
     -   Eligible for Emphasis Other category for DMS Emphasis
+
 -   GBA 6420 - Optimization Methods (3)
+
     -   Eligible for Emphasis Other category for MA Emphasis
 
 [^8]: IBM 6700 will not be offered until Summer 2027. The class of 2026 should take IBM 6600.
