@@ -346,18 +346,20 @@ Based on national research with professionals across the insights and data indus
 
 6.  [**Capstone Project (MSDM Culminating Experience Project)**](capstone_project.qmd) - A Required Year-Long Project
 
-    1.  [Expectations on Collaboration with Group Members, Faculty Lead, and Client](capstone_project.qmd#expectations-collaboration)
+    1.  [Overview](capstone_project.qmd#overview)
 
-    2.  [Project Milestones and Timelines](capstone_project.qmd#project-milestones-and-timelines)
+    2.  [Expectations on Collaboration with Group Members, Faculty Lead, and Client](capstone_project.qmd#expectations-collaboration)
 
-    3.  [How to Choose a Project](capstone_project.qmd#how-to-choose-a-project)
+    3.  [Project Milestones and Timelines](capstone_project.qmd#project-milestones-and-timelines)
 
-    4.  [Fall Semester](capstone_project.qmd#fall-semester)
+    4.  [How to Choose a Project](capstone_project.qmd#how-to-choose-a-project)
 
-    5.  [Winter Break Activities](capstone_project.qmd#winter-break-activities)
+    5.  [Fall Semester](capstone_project.qmd#fall-semester)
 
-    6.  [Spring Semester](capstone_project.qmd#spring-semester)
+    6.  [Winter Break Activities](capstone_project.qmd#winter-break-activities)
 
-    7.  [Summer Semester](capstone_project.qmd#summer-semester)
+    7.  [Spring Semester](capstone_project.qmd#spring-semester)
+
+    8.  [Summer Semester](capstone_project.qmd#summer-semester)
 
 ------------------------------------------------------------------------
