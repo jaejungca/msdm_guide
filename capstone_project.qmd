@@ -1,8 +1,9 @@
 ---
 title: "MSDM Culminating Experience Project (aka Capstone Project) "
-subtitle: "Tips for Maximizing Value for Your Career"
+subtitle: "Tips for Maximizing Value for Your Career Development through the Capstone Project"
 image: images/msdm-crosswalk.png
-date: "Last updated on February 10, 2026"
+date: February 10, 2026
+date-format: "'Last updated on 'MMMM D, YYYY"
 format: 
   html:
     toc: true
