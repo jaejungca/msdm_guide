@@ -36,8 +36,8 @@ execute:
 
 ### Culminating Experience Project Overview {#overview}
 
-::: {.callout-note appearance="simple"}
-The MSDM Culminating Experience Project (**CEP**), often referred to as the Capstone Project, represents the culmination of the MSDM learning experience, giving students the opportunity to apply their skills to real-world digital marketing challenges.
+::: {.callout-note title="What is the CEP?"}
+The MSDM Culminating Experience Project (**CEP**), often referred to as the **Capstone Project**, represents the culmination of the MSDM learning experience, giving students the opportunity to apply their skills to real-world digital marketing challenges.
 
 The **CEP** spans one academic year and typically begins in the **fall semester of the second year** for students following the two-year completion roadmap. Students on the one-year accelerated pathway begin the CEP in their first fall semester.
 
@@ -48,11 +48,11 @@ Through hands-on problem solving, data analysis, and strategic thinking, student
 
 Below are important documents that students and faculty leads should review before the project proposal stage. Further, these documents will be helpful throughout the project lifecycle.
 
--   [**MSDM Culminating Experience Project Guide**](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQArKTmcTq96RZXXBGAH3CdSARmXV12xOdiCrihcvJIVkKs?e=TZuWeL): This comprehensive guide provides detailed instructions, expectations, and grading criteria for the capstone project. It covers all aspects of the project, from proposal to final presentation.
+1.   [**MSDM Culminating Experience Project Guide**](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQArKTmcTq96RZXXBGAH3CdSARmXV12xOdiCrihcvJIVkKs?e=TZuWeL): This comprehensive guide provides detailed instructions, expectations, and grading criteria for the capstone project. It covers all aspects of the project, from proposal to final presentation.
 
--   [**MSDM Culminating Experience Project Content & Format Template**](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQBIA3KYhoFPQqy7tx-MZA07ATtJW9Xbxmq35UWqMeZrXxA?e=VZR7lI): This template offers a structured format for organizing your project report, including sections for the introduction, literature review, methods, data analysis, results, and data-informed marketing strategy and conclusion. It ensures that your report meets the academic standards expected for the capstone project.
+2.   [**MSDM Culminating Experience Project Content & Format Template**](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQBIA3KYhoFPQqy7tx-MZA07ATtJW9Xbxmq35UWqMeZrXxA?e=VZR7lI): This template offers a structured format for organizing your project report, including sections for the introduction, literature review, methods, data analysis, results, and data-informed marketing strategy and conclusion. It ensures that your report meets the academic standards expected for the capstone project.
 
--   [**MSDM Culminating Experience Project - Responsibilities for All Parties**](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQDyPT8ZRhj9Q7DX_lEEuchCAR0SL2YzWLkLwYVSKQQlUJg?e=14AuyA): This document outlines the specific responsibilities and expectations for students, faculty leads, and instructors involved in the capstone project. It serves as a reference to ensure that all parties understand their roles and contribute effectively to the project's success.
+3.   [**MSDM Culminating Experience Project - Responsibilities for All Parties**](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQDyPT8ZRhj9Q7DX_lEEuchCAR0SL2YzWLkLwYVSKQQlUJg?e=14AuyA): This document outlines the specific responsibilities and expectations for students, faculty leads, and instructors involved in the capstone project. It serves as a reference to ensure that all parties understand their roles and contribute effectively to the project's success.
 
 ## **Expectations on Collaboration with Group Members, Faculty Lead, and Client** {#expectations-collaboration}
 
