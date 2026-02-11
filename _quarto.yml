@@ -112,8 +112,8 @@ website:
       - text: Capstone Project
         #href: capstone_project.qmd
         menu:
-          - text: Capstone Project Overview
-            href: capstone_project.qmd#overview
+          - text: Capstone Project Introduction
+            href: capstone_project.qmd#introduction
           - text: Collaboration Expectations with Group Members, Faculty Lead, and Client
             href: capstone_project.qmd#expectations-collaboration
           - text: Project Milestones and Timelines

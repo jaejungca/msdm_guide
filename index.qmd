@@ -346,7 +346,7 @@ Based on national research with professionals across the insights and data indus
 
 6.  [**Capstone Project (MSDM Culminating Experience Project)**](capstone_project.qmd) - A Required Year-Long Project
 
-    1.  [Overview](capstone_project.qmd#overview)
+    1.  [Introduction](capstone_project.qmd#introduction)
 
     2.  [Expectations on Collaboration with Group Members, Faculty Lead, and Client](capstone_project.qmd#expectations-collaboration)
 

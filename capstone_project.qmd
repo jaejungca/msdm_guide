@@ -32,7 +32,9 @@ execute:
   freeze: auto
 ---
 
-## [Overview]{style="color: #FF007F; font-weight: bold;"}
+## [Introduction]{style="color: #FF007F; font-weight: bold;"} {#introduction}
+
+### Culminating Experience Project Overview {#overview}
 
 ::: {.callout-note appearance="simple"}
 The MSDM Culminating Experience Project (**CEP**), often referred to as the Capstone Project, represents the culmination of the MSDM learning experience, giving students the opportunity to apply their skills to real-world digital marketing challenges.
