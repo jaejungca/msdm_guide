@@ -30,7 +30,7 @@ format:
     link-external-newwindow: true
 ---
 
-## [**Before You Register: What Every MSDM Student Should Know**]{style="color: #FFDF00; font-weight: bold;"}
+## [**Before You Register: What Every MSDM Student Should Know**]{style="color: #ff7800; font-weight: bold;"}
 
 ::: {.callout-tip title="Tips:"}
 1.  **If you are new to the MSDM program, you must submit a [Curriculum Contract Form](curriculum_contract.qmd#appointment-for-curriculum-contract). Consider scheduling an advising meeting with your academic advisor**[^1] **if you need help.**\
