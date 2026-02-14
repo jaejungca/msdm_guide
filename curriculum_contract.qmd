@@ -30,7 +30,7 @@ format:
     link-external-newwindow: true
 ---
 
-[**Instructions**]{style="color: #069494; font-weight: bold; font-size: 30px;"}
+## [**Instructions**]{style="color: #069494; font-weight: bold;"}
 
 ::: callout-important
 **Congratulations** **on your acceptance into the program!** Welcome to the MSDM Admitted Student Resource Hub. This page provides essential information to help you transition smoothly into the program—from activating your accounts and submitting required documents to understanding curriculum options, choosing your degree emphasis, and planning your roadmap. Use this guide as your starting point to complete key onboarding tasks and explore the academic decisions that will shape your MSDM journey.

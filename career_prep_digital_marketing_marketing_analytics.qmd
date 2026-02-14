@@ -35,7 +35,7 @@ execute:
   freeze: auto
 ---
 
-[**Introduction**]{style="color: #008000; font-weight: bold; font-size: 30px;"}
+# [**Introduction**]{style="color: #008000; font-weight: bold;"}
 
 ::: callout-important
 Digital Marketing and Marketing Analytics offer exciting, high-impact career paths where creativity meets data-driven insight. This page is designed to help you **envision your future**, **understand the skills and tools** that will set you apart, and chart a path toward meaningful, innovative work. Whether you aspire to shape digital strategy or uncover insights through analytics, **this guide will help you build the confidence, capabilities, and direction** needed to pursue a career that makes a difference.

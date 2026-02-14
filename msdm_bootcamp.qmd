@@ -30,7 +30,7 @@ format:
     link-external-newwindow: true
 ---
 
-[**Introduction**]{style="color: #008000; font-weight: bold; font-size: 30px;"}
+## [**Introduction**]{style="color: #008000; font-weight: bold;"}
 
 This Boot Camp is designed to help you hit the ground running in your first semester of the MSDM program.
 

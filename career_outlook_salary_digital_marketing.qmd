@@ -32,7 +32,7 @@ execute:
   freeze: auto
 ---
 
-[**Introduction**]{style="color: #008000; font-weight: bold; font-size: 30px;"}
+## [**Introduction**]{style="color: #008000; font-weight: bold;"}
 
 ::: callout-important
 The digital marketing landscape is a dynamic ecosystem that balances creative storytelling with rigorous data science. As businesses shift toward more automated and AI-driven strategies, the traditional boundaries of marketing roles are evolving. This guide provides a comprehensive overview of the current job market, categorizing typical roles by their core function—Content, Performance, Strategy, and Analytics. Using 2025 data from the U.S. Bureau of Labor Statistics and real-time industry trends, we analyze the distribution of these roles, their financial value, and the technical skills required to thrive in a competitive, data-forward environment.
@@ -111,6 +111,7 @@ These roles focus on the "how"—the data, algorithms, and paid spend that get t
 These roles focus on **measurement and decision-making**—turning marketing data into insights, forecasts, and recommendations.
 
 -   **Marketing Analyst / Digital Marketing Analyst**: Analyzes performance across channels (web, paid media, email, social) to identify what’s working and where to improve.
+
 -   **Marketing Data Scientist**: Builds statistical or machine learning models for marketing (e.g., attribution, forecasting, customer segmentation, experimentation).
 
     ::: callout-important
@@ -138,12 +139,11 @@ These roles focus on **measurement and decision-making**—turning marketing dat
 If we pull these "hidden" data roles out to see how they fit into the marketing landscape, the numbers look like this:
 
 |  |  |  |  |
-|------------------|------------------|-------------|--------------------------------|
+|----------------|----------------|----------------|-------------------------|
 | **Specialized Data Role** | **Est. U.S. Jobs (Marketing-Focused)** | **% of Mktg Data Pool** | **Why they are distinct** |
 | **Marketing Data Analyst** | 160,000 | 70% | Focuses on *past* performance: "Which ad worked best last month?" |
 | **Marketing Data Scientist** | 45,000 | 20% | Focuses on *future* prediction: "What will this customer buy next year?" |
 | **Marketing Engineer** | 22,000 | 10% | Focuses on *infrastructure*: Building the pipelines that connect Facebook data to a company's internal database. |
-
 
 **Which One Should You Choose?**
 

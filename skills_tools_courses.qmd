@@ -32,9 +32,9 @@ execute:
   freeze: auto
 ---
 
-[**Introduction**]{style="color: #069494; font-weight: bold; font-size: 30px;"}
+## [**Introduction**]{style="color: #069494;"}
 
-As students progress through the MSDM program, they develop a growing set of tools and skills that support their professional goals. This page outlines key software, technical abilities, and learning milestones at each stage of the journey—from foundational digital skills to advanced analytics, content creation, and strategic marketing capabilities. Use this guide to understand what to focus on, when to develop each skill, and how these competencies strengthen your career readiness..
+As students progress through the MSDM program, they develop a growing set of tools and skills that support their professional goals. This page outlines key software, technical abilities, and learning milestones at each stage of the journey—from foundational digital skills to advanced analytics, content creation, and strategic marketing capabilities. Use this guide to understand what to focus on, when to develop each skill, and how these competencies strengthen your career readiness.
 
 ## **Tools and Skills along the Student Learning Journey**
 

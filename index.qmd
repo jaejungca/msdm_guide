@@ -226,13 +226,15 @@ Based on national research with professionals across the insights and data indus
 
     1.  [**Career Options, Outlook, and Salary**](career_outlook_salary_digital_marketing.qmd)
 
-        1.  [Career Outlook](career_outlook_salary_digital_marketing.qmd#career-outlook)
+        1.  [Introduction](career_outlook_salary_digital_marketing.qmd#introduction)
 
-        2.  [Typical Job Roles in Digital Marketing](career_outlook_salary_digital_marketing.qmd#typical-job-titles)
+        2.  [Career Outlook](career_outlook_salary_digital_marketing.qmd#career-outlook)
 
-        3.  [Active Digital Marketing Job Postings](career_outlook_salary_digital_marketing.qmd#active-job-postings)
+        3.  [Typical Job Roles in Digital Marketing](career_outlook_salary_digital_marketing.qmd#typical-job-titles)
 
-        4.  [Digital Marketing & Analytics Job Outlook](career_outlook_salary_digital_marketing.qmd#digital-marketing-analytics-job-outlook)
+        4.  [Active Digital Marketing Job Postings](career_outlook_salary_digital_marketing.qmd#active-job-postings)
+
+        5.  [Digital Marketing & Analytics Job Outlook](career_outlook_salary_digital_marketing.qmd#digital-marketing-analytics-job-outlook)
 
             1.  [Job Growth Rate, Volume, and Salary](career_outlook_salary_digital_marketing.qmd#job-growth-rate-volume-and-salary)
 
@@ -248,21 +250,23 @@ Based on national research with professionals across the insights and data indus
 
     2.  [**Career Preparation Guide**](career_prep_digital_marketing_marketing_analytics.qmd)
 
-        1.  [Career Guidance for Internatoinal Students](career_prep_digital_marketing_marketing_analytics.qmd#career-guidance-for-international-students)
+        1.  [Introduction](career_prep_digital_marketing_marketing_analytics.qmd#introduction)
 
-        2.  Digital Marketing Strategy Execution Jobs
+        2.  [Career Guidance for International Students](career_prep_digital_marketing_marketing_analytics.qmd#career-guidance-for-international-students)
+
+        3.  Digital Marketing Strategy Execution Jobs
 
             -   [Skills and Knowledge for Digital marketing Careers](career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-dms-careers)
 
             -   [Skills and Preparations Per Specific Digital Marketing Job](career_prep_digital_marketing_marketing_analytics.qmd#skills-preparations-digital-marketing-jobs)
 
-        3.  Marketing Analytics Jobs
+        4.  Marketing Analytics Jobs
 
             -   [Skills and Knowledge for MA Careers](career_prep_digital_marketing_marketing_analytics.qmd#skills-and-knowledge-for-analytics-careers)
 
             -   [Comparisons between MA Job Roles](career_prep_digital_marketing_marketing_analytics.qmd#marketing-analysts-vs.-marketing-data-scientists-comparisons)
 
-        4.  On-Campus Support Resources
+        5.  On-Campus Support Resources
 
             -   [Career Center](career_prep_digital_marketing_marketing_analytics.qmd#career-center)
 
@@ -270,33 +274,35 @@ Based on national research with professionals across the insights and data indus
 
             -   [Micro-Internships](career_prep_digital_marketing_marketing_analytics.qmd#micro-internships)
 
-        5.  Extra-Curricular Opportunities
+        6.  Extra-Curricular Opportunities
 
             -   [OptiMark Digital Marketing & Analytics Society](career_prep_digital_marketing_marketing_analytics.qmd#optimark-digital-marketing-analytics-society)
 
 3.  [**MSDM Onboarding Guide**](curriculum_contract.qmd)
 
-    1.  [Key Actions You Must Take Soon after Your Admission](curriculum_contract.qmd#key-actions-you-must-take-soon-after-your-admission)
+    1.  [Introductions](curriculum_contract.qmd#introductions)
+    
+    2.  [Key Actions You Must Take Soon after Your Admission](curriculum_contract.qmd#key-actions-you-must-take-soon-after-your-admission)
 
-    2.  [Essential On-Campus Websites](curriculum_contract.qmd#essential-on-campus-websites)
+    3.  [Essential On-Campus Websites](curriculum_contract.qmd#essential-on-campus-websites)
 
-    3.  [Step 1: Start Filling out **Curriculum Contract Form**](curriculum_contract.qmd#appointment-for-curriculum-contract)
+    4.  [Step 1: Start Filling out **Curriculum Contract Form**](curriculum_contract.qmd#appointment-for-curriculum-contract)
 
         -   **Curriculum Contract Form**
 
-    4.  [Step 2: Know the Curriculum (Degree Emphasis) Options](curriculum_contract.qmd#curriculum-new-curriculum)
+    5.  [Step 2: Know the Curriculum (Degree Emphasis) Options](curriculum_contract.qmd#curriculum-new-curriculum)
 
-    5.  [Step 3: Know Curriculum Completion Roadmap Options](curriculum_contract.qmd#curriculum-roadmaps)
+    6.  [Step 3: Know Curriculum Completion Roadmap Options](curriculum_contract.qmd#curriculum-roadmaps)
 
-    6.  [Step 4: Which Curriculum Option to Choose?](curriculum_contract.qmd#factors-to-consider-when-choosing-degree-emphasis)
+    7.  [Step 4: Which Curriculum Option to Choose?](curriculum_contract.qmd#factors-to-consider-when-choosing-degree-emphasis)
 
-    7.  [Step 5: Which Completion Roadmap to Choose?](curriculum_contract.qmd#choosing-a-1-year-vs.-2-year-roadmap)
+    8.  [Step 5: Which Completion Roadmap to Choose?](curriculum_contract.qmd#choosing-a-1-year-vs.-2-year-roadmap)
 
-    8.  [Step 6: Complete Your Roadmap Worksheet](curriculum_contract.qmd#plan-your-roadmap-with-worksheets)
+    9.  [Step 6: Complete Your Roadmap Worksheet](curriculum_contract.qmd#plan-your-roadmap-with-worksheets)
 
-    9.  [Step 7: Submit Curriculum Contract Form and Roadmap Worksheet to Your Advisor](curriculum_contract.qmd#submit-curriculum-contract-and-roadmap-worksheet)
+    10.  [Step 7: Submit Curriculum Contract Form and Roadmap Worksheet to Your Advisor](curriculum_contract.qmd#submit-curriculum-contract-and-roadmap-worksheet)
 
-    10. [Step 8: Register for Courses](curriculum_contract.html#register-for-courses)
+    11. [Step 8: Register for Courses](curriculum_contract.html#register-for-courses)
 
 4.  [**Course Registration**](course_registration.qmd)
 
@@ -322,27 +328,31 @@ Based on national research with professionals across the insights and data indus
 
     1.  [**Boot Camp**](msdm_bootcamp.qmd)
 
-        1.  [Spreadsheet Skills](msdm_bootcamp.qmd#spreadsheet-skills)
+        1.  [Introduction](msdm_bootcamp.qmd#introduction)
 
-        2.  [R Programming and Statistics](msdm_bootcamp.qmd#r-programming-and-statistics)
+        2.  [Spreadsheet Skills](msdm_bootcamp.qmd#spreadsheet-skills)
+
+        3.  [R Programming and Statistics](msdm_bootcamp.qmd#r-programming-and-statistics)
 
     2.  [**Skills • Tools • Courses Alignment**](skills_tools_courses.qmd)
 
-        1.  [Tools and Skills along the Student Learning Journey](skills_tools_courses.qmd#tools-and-skills-along-the-student-learning-journey)
+        1.  [Introduction](skills_tools_courses.qmd#introduction)
 
-        2.  [Project Management Tools](skills_tools_courses.qmd#project-management-tools)
+        2.  [Tools and Skills along the Student Learning Journey](skills_tools_courses.qmd#tools-and-skills-along-the-student-learning-journey)
 
-        3.  [Popular Video Editing Tools for Windows](skills_tools_courses.qmd#popular-video-editing-tools-for-windows)
+        3.  [Project Management Tools](skills_tools_courses.qmd#project-management-tools)
 
-        4.  [Popular Video Editing Tools for Mac](skills_tools_courses.qmd#popular-video-editing-tools-for-mac)
+        4.  [Popular Video Editing Tools for Windows](skills_tools_courses.qmd#popular-video-editing-tools-for-windows)
 
-        5.  [SQL (Structured Query Language)](skills_tools_courses.qmd#sql-structured-query-language)
+        5.  [Popular Video Editing Tools for Mac](skills_tools_courses.qmd#popular-video-editing-tools-for-mac)
 
-        6.  [**Certifications**](skills_tools_courses.qmd#certifications)
+        6.  [SQL (Structured Query Language)](skills_tools_courses.qmd#sql-structured-query-language)
 
-        7.  [CCIDM Virtual Workshops](skills_tools_courses.qmd#ccidm-workshops)
+        7.  [**Certifications**](skills_tools_courses.qmd#certifications)
 
-        8.  [DataCamp Virtual Classroom](skills_tools_courses.qmd#datacamp-virtual-classroom)
+        8.  [CCIDM Virtual Workshops](skills_tools_courses.qmd#ccidm-workshops)
+
+        9.  [DataCamp Virtual Classroom](skills_tools_courses.qmd#datacamp-virtual-classroom)
 
 6.  [**Capstone Project (MSDM Culminating Experience Project)**](capstone_project.qmd) - A Required Year-Long Project
 
